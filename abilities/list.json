@@ -1,0 +1,3923 @@
+{
+  "Adaptability": {
+    "description": "Powers up moves of the same type.",
+    "gen": "4",
+    "effect":
+        "Adaptability increases the effectiveness of STAB moves from the usual 1.5\u00d7 to 2\u00d7.For example, a Water-type Pok\u00e9mon using Surf (base power 90) would normally get an effective power of 135. With Adaptability it would be 180 instead.",
+    "pokemon": [
+      "Lucario",
+      "Basculegion",
+      "Eevee",
+      "Basculin",
+      "Beedrill",
+      "Porygon-Z"
+    ],
+    "hidden": [
+      "Corphish",
+      "Dragalge",
+      "Feebas",
+      "Yungoos",
+      "Crawdaunt",
+      "Gumshoos",
+      "Skrelp"
+    ]
+  },
+  "Aerilate": {
+    "description": "Turns Normal-type moves into Flying-type moves.",
+    "gen": "6",
+    "effect":
+        "Aerilate causes all Normal-type attacking moves used by the Pok\u00e9mon to become Flying-type, and increase in power by 20%.Flying-type Pok\u00e9mon also gain STAB from those moves (which means an effective increase of 80%).In Generation 6, Aerilate increases affected moves' power by 30%.No Pok\u00e9mon have Aerilate as a hidden ability.",
+    "pokemon": ["Pinsir", "Salamence"],
+    "hidden": []
+  },
+  "Aftermath": {
+    "description": "Damages the attacker landing the finishing hit.",
+    "gen": "4",
+    "effect":
+        "If an attacker faints a Pok\u00e9mon with Aftermath using a contact move, the attacker will lose 1\u20444 of their maximum HP.",
+    "pokemon": ["Stunky", "Drifloon", "Drifblim", "Skuntank"],
+    "hidden": ["Electrode", "Voltorb", "Garbodor", "Trubbish"]
+  },
+  "Air Lock": {
+    "description": "Eliminates the effects of weather.",
+    "gen": "3",
+    "effect":
+        "Air Lock suppresses all effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on.No Pok\u00e9mon have Air Lock as a hidden ability.",
+    "pokemon": ["Rayquaza"],
+    "hidden": []
+  },
+  "Analytic": {
+    "description": "Boosts move power when the Pok\u00e9mon moves last.",
+    "gen": "5",
+    "effect":
+        "Boosts move power when the Pok\u00e9mon moves last.\nNo Pok\u00e9mon have the ability Analytic as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Anger Point": {
+    "description": "Maxes Attack after taking a critical hit.",
+    "gen": "4",
+    "effect":
+        "Anger Point raises the ability-bearer's Attack to its maximum level - +6 stages or 4\u00d7 usual power - when a move targeting it receives a critical hit.",
+    "pokemon": ["Tauros", "Primeape", "Mankey"],
+    "hidden": [
+      "Sandile",
+      "Krookodile",
+      "Crabominable",
+      "Crabrawler",
+      "Camerupt",
+      "Krokorok"
+    ]
+  },
+  "Anticipation": {
+    "description": "Senses a foe's dangerous moves.",
+    "gen": "4",
+    "effect":
+        "A Pok\u00e9mon with Anticipation will shudder upon entering battle, if an opponent has a move that is super-effective against it, or a One-Hit-KO move (Fissure, Horn Drill, Guillotine or Sheer Cold). It only activates when the ability-bearer switches in, not when an opponent switches in.Anticipation does not activate if the opponent has a move that varies in type, such as Hidden Power, Judgment or Weather Ball, even if those moves would be super-effective.",
+    "pokemon": [
+      "Croagunk",
+      "Wormadam",
+      "Hatterene",
+      "Toxicroak",
+      "Whiscash",
+      "Hattrem",
+      "Hatenna",
+      "Barboach"
+    ],
+    "hidden": ["Ponyta", "Rapidash", "Ferrothorn", "Eevee"]
+  },
+  "Arena Trap": {
+    "description": "Prevents the foe from fleeing.",
+    "gen": "3",
+    "effect":
+        "Arena Trap prevents opponents from fleeing or switching out. Raised Pok\u00e9mon are not affected.Raised Pok\u00e9mon are any Flying types or those under the effects of Levitate, Magnet Rise or Telekinesis. Full details in glossary.If a Pok\u00e9mon with Arena Trap is the leading party Pok\u00e9mon, wild Pok\u00e9mon are twice as likely to appear.No Pok\u00e9mon have Arena Trap as a hidden ability.",
+    "pokemon": ["Dugtrio", "Diglett", "Trapinch"],
+    "hidden": []
+  },
+  "Aroma Veil": {
+    "description":
+        "Protects allies from attacks that limit their move choices.",
+    "gen": "6",
+    "effect": "Protects allies from attacks that limit their move choices.\n",
+    "pokemon": ["Lechonk"],
+    "hidden": ["Spritzee", "Alcremie", "Milcery", "Aromatisse"]
+  },
+  "As One": {
+    "description": "Combines Unnerve and Chilling Neigh/Grim Neigh",
+    "gen": "8",
+    "effect":
+        "Combines Unnerve and Chilling Neigh/Grim Neigh\nNo Pok\u00e9mon have As One as a hidden ability.",
+    "pokemon": ["Calyrex"],
+    "hidden": []
+  },
+  "Aura Break": {
+    "description": "Reduces power of Dark- and Fairy-type moves.",
+    "gen": "6",
+    "effect":
+        "Aura Break cancels the effects of the abilities Fairy Aura and Dark Aura and instead reduces the power of Dark-type and Fairy-type moves by 25%, for all Pok\u00e9mon on the field.Aura Break is not affected by the abilities Mold Breaker, Teravolt, or Turboblaze.Aura Break is the signature ability of Zygarde. Similarly, the abilities it reverses are also signature abilities of legendary Pok\u00e9mon from Pok\u00e9mon X&Y: Xerneas and Yveltal.No Pok\u00e9mon have Aura Break as a hidden ability.",
+    "pokemon": ["Zygarde"],
+    "hidden": []
+  },
+  "Bad Dreams": {
+    "description": "Reduces a sleeping foe's HP.",
+    "gen": "4",
+    "effect":
+        "Bad Dreams causes all sleeping opponents to lose 1\u20448 of their maximum HP at the end of each turn.No Pok\u00e9mon have Bad Dreams as a hidden ability.",
+    "pokemon": ["Darkrai"],
+    "hidden": []
+  },
+  "Ball Fetch": {
+    "description": "Retrieves a Pok\u00e9 Ball from a failed throw.",
+    "gen": "8",
+    "effect":
+        "If the Pok\u00e9mon is not holding an item, it will fetch the Pok\u00e9 Ball from the first failed throw of the battle.No Pok\u00e9mon have Ball Fetch as a hidden ability.",
+    "pokemon": ["Yamper"],
+    "hidden": []
+  },
+  "Battery": {
+    "description": "Raises power of teammates' Special moves.",
+    "gen": "7",
+    "effect":
+        "Battery allows the Pok\u00e9mon to raise the power of teammates' special moves.No Pok\u00e9mon have Battery as a hidden ability.",
+    "pokemon": ["Charjabug"],
+    "hidden": []
+  },
+  "Battle Armor": {
+    "description": "The Pok\u00e9mon is protected against critical hits.",
+    "gen": "3",
+    "effect":
+        "Battle Armor prevents the Pok\u00e9mon from receiving a critical hit.",
+    "pokemon": [
+      "Type: Null",
+      "Anorith",
+      "Perrserker",
+      "Skorupi",
+      "Falinks",
+      "Kabutops",
+      "Kabuto",
+      "Armaldo",
+      "Drapion"
+    ],
+    "hidden": ["Cubone", "Marowak"]
+  },
+  "Battle Bond": {
+    "description":
+        "Transform into Ash-Greninja after causing opponent to faint.",
+    "gen": "7",
+    "effect":
+        "Battle Bond causes Greninja to transform into Ash-Greninja when it KOs an opponent.Battle Bond also increases the power of Greninja's signature move Water Shuriken.No Pok\u00e9mon have Battle Bond as a hidden ability.",
+    "pokemon": ["Greninja"],
+    "hidden": []
+  },
+  "Beast Boost": {
+    "description":
+        "The Pok\u00e9mon boosts its most proficient stat each time it knocks out a Pok\u00e9mon.",
+    "gen": "7",
+    "effect":
+        "The Pok\u00e9mon boosts its most proficient stat each time it knocks out a Pok\u00e9mon.\nNo Pok\u00e9mon have Beast Boost as a hidden ability.",
+    "pokemon": [
+      "Stakataka",
+      "Buzzwole",
+      "Kartana",
+      "Nihilego",
+      "Guzzlord",
+      "Poipole",
+      "Blacephalon",
+      "Celesteela",
+      "Xurkitree",
+      "Naganadel",
+      "Pheromosa"
+    ],
+    "hidden": []
+  },
+  "Berserk": {
+    "description": "Raises Special Attack when HP drops below half.",
+    "gen": "7",
+    "effect":
+        "Berserk raises the Pok\u00e9mon's Special Attack by one stage when its HP falls below 50%.No Pok\u00e9mon have Berserk as a hidden ability.",
+    "pokemon": ["Moltres", "Drampa"],
+    "hidden": []
+  },
+  "Big Pecks": {
+    "description": "Protects the Pok\u00e9mon from Defense-lowering attacks.",
+    "gen": "5",
+    "effect":
+        "Big Pecks prevents the ability-bearer's Defense stat from being lowered, for example via Tail Whip.",
+    "pokemon": [
+      "Mandibuzz",
+      "Pidove",
+      "Tranquill",
+      "Ducklett",
+      "Vullaby",
+      "Fletchling",
+      "Swanna",
+      "Unfezant"
+    ],
+    "hidden": [
+      "Pidgeotto",
+      "Pidgey",
+      "Pidgeot",
+      "Corvisquire",
+      "Chatot",
+      "Rookidee"
+    ]
+  },
+  "Blaze": {
+    "description": "Powers up Fire-type moves in a pinch.",
+    "gen": "3",
+    "effect":
+        "Blaze increases the power of Fire-type moves by 50% (1.5\u00d7) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).",
+    "pokemon": [
+      "Combusken",
+      "Raboot",
+      "Torchic",
+      "Pignite",
+      "Typhlosion",
+      "Monferno",
+      "Cyndaquil",
+      "Infernape",
+      "Quilava",
+      "Braixen",
+      "Scorbunny",
+      "Fuecoco",
+      "Fennekin",
+      "Charizard",
+      "Incineroar",
+      "Litten",
+      "Emboar",
+      "Delphox",
+      "Blaziken",
+      "Charmander",
+      "Torracat",
+      "Chimchar",
+      "Tepig",
+      "Cinderace",
+      "Charmeleon"
+    ],
+    "hidden": ["Pansear", "Simisear"]
+  },
+  "Bulletproof": {
+    "description": "Protects the Pok\u00e9mon from ball and bomb moves.",
+    "gen": "6",
+    "effect":
+        "Bulletproof makes the Pok\u00e9mon immune to ball and bomb moves.In Generation 6, Rock Blast is not affected by Bulletproof.",
+    "pokemon": ["Hakamo-o", "Ursaluna", "Kommo-o", "Jangmo-o"],
+    "hidden": [
+      "Wooloo",
+      "Chespin",
+      "Applin",
+      "Quilladin",
+      "Dubwool",
+      "Chesnaught"
+    ]
+  },
+  "Cheek Pouch": {
+    "description": "Restores additional HP when a Berry is consumed.",
+    "gen": "6",
+    "effect":
+        "Cheek Pouch restores the bearer's HP when a Berry is consumed, on top of the berry's usual effects.So for example, it may cure a status condition and restore HP, or restore more HP than normal.No Pok\u00e9mon have Cheek Pouch as a hidden ability.",
+    "pokemon": ["Skwovet", "Bunnelby", "Dedenne", "Diggersby", "Greedent"],
+    "hidden": []
+  },
+  "Chilling Neigh": {
+    "description": "Boosts Attack after knocking out a Pok\u00e9mon.",
+    "gen": "8",
+    "effect":
+        "Boosts Attack after knocking out a Pok\u00e9mon.\nNo Pok\u00e9mon have Chilling Neigh as a hidden ability.",
+    "pokemon": ["Glastrier"],
+    "hidden": []
+  },
+  "Chlorophyll": {
+    "description": "Boosts the Pok\u00e9mon's Speed in sunshine.",
+    "gen": "3",
+    "effect":
+        "Chlorophyll doubles the ability-bearer's Speed during bright sunshine.",
+    "pokemon": [
+      "Seedot",
+      "Victreebel",
+      "Gloom",
+      "Cherubi",
+      "Maractus",
+      "Oddish",
+      "Tropius",
+      "Skiploom",
+      "Petilil",
+      "Lilligant",
+      "Weepinbell",
+      "Exeggcute",
+      "Sunkern",
+      "Tangrowth",
+      "Exeggutor",
+      "Hoppip",
+      "Tangela",
+      "Jumpluff",
+      "Shiftry",
+      "Bellsprout",
+      "Sewaddle",
+      "Sunflora",
+      "Nuzleaf",
+      "Leavanny",
+      "Deerling",
+      "Bellossom",
+      "Sawsbuck",
+      "Vileplume",
+      "Swadloon"
+    ],
+    "hidden": [
+      "Venusaur",
+      "Cottonee",
+      "Ivysaur",
+      "Leafeon",
+      "Whimsicott",
+      "Bulbasaur"
+    ]
+  },
+  "Clear Body": {
+    "description": "Prevents other Pok\u00e9mon from lowering its stats.",
+    "gen": "3",
+    "effect": "Prevents other Pok\u00e9mon from lowering its stats.\n",
+    "pokemon": [
+      "Drakloak",
+      "Dragapult",
+      "Tentacool",
+      "Registeel",
+      "Regirock",
+      "Tentacruel",
+      "Diancie",
+      "Metang",
+      "Beldum",
+      "Regice",
+      "Metagross",
+      "Dreepy",
+      "Carbink"
+    ],
+    "hidden": ["Klinklang", "Klink", "Klang"]
+  },
+  "Cloud Nine": {
+    "description": "Eliminates the effects of weather.",
+    "gen": "3",
+    "effect":
+        "Cloud Nine suppresses all effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on.",
+    "pokemon": ["Golduck", "Psyduck"],
+    "hidden": ["Lickilicky", "Swablu", "Altaria", "Drampa", "Lickitung"]
+  },
+  "Color Change": {
+    "description": "Changes the Pok\u00e9mon's type to the foe's move.",
+    "gen": "3",
+    "effect":
+        "Color Change changes the ability-bearer's type, when hit by a damage dealing move, to the type of that move. For example being hit by X Scissor will change the Pok\u00e9mon to Bug-type. Dual-type Pok\u00e9mon change to single-types.If a Pok\u00e9mon with Color Change has a Substitute, the ability does not activate. Color Change activates for the last strike of a multi-hit move.In Generations 3-4, Color Change activates on the first strike of a multi-hit move, thus subsequent hits may be not very effective.No Pok\u00e9mon have Color Change as a hidden ability.",
+    "pokemon": ["Kecleon"],
+    "hidden": []
+  },
+  "Comatose": {
+    "description": "The Pok\u00e9mon is always asleep but can still attack.",
+    "gen": "7",
+    "effect":
+        "Comatose causes the Pok\u00e9mon to behave as if it were asleep, though it doesn't officially have the Sleep status condition. It can still use its regular moves, but cannot be inflicted with any major status condition (sleep, poison, paralysis, burn, or freeze).Moves that target sleeping Pok\u00e9mon (such as Dream Eater) work on a Pok\u00e9mon with Comatose, and the ability-bearer can use the moves Sleep Talk and Snore. The power of Hex and Wake-Up Slap still doubles when targeted at a Comatose Pok\u00e9mon (though Wake-Up Slap does not suppress Comatose).Comatose cannot be removed or replaced via moves like Skill Swap or the Mummy ability. The move Purify and the Chesto Berry item do not work on a Pok\u00e9mon with Comatose.No Pok\u00e9mon have Comatose as a hidden ability.",
+    "pokemon": ["Komala"],
+    "hidden": []
+  },
+  "Competitive": {
+    "description":
+        "Sharply raises Special Attack when the Pok\u00e9mon's stats are lowered.",
+    "gen": "6",
+    "effect":
+        "Competitive raises the ability-bearer's Special Attack by two stages when hit by a stat-lowering move.Stats can be raised to a maximum of +6 stages each.",
+    "pokemon": [
+      "Jigglypuff",
+      "Gothitelle",
+      "Articuno",
+      "Milotic",
+      "Gothita",
+      "Gothorita",
+      "Wigglytuff",
+      "Igglybuff"
+    ],
+    "hidden": ["Boltund", "Meowstic"]
+  },
+  "Compound Eyes": {
+    "description": "The Pok\u00e9mon's accuracy is boosted.",
+    "gen": "3",
+    "effect":
+        "Compound Eyes raises the ability-bearer's accuracy by 30%.In Generations 3-5, this ability's name was formatted as Compoundeyes.If a Pok\u00e9mon with Compound Eyes is first in the party, Pok\u00e9mon that can be holding items have that chance increase from 50% to 60% (for common items), 5% to 20% (for uncommon items) or 1% to 5% (for rare items).",
+    "pokemon": [
+      "Blipbug",
+      "Dottler",
+      "Yanma",
+      "Butterfree",
+      "Galvantula",
+      "Scatterbug",
+      "Venonat",
+      "Nincada",
+      "Joltik",
+      "Vivillon"
+    ],
+    "hidden": ["Dustox"]
+  },
+  "Contrary": {
+    "description": "Makes stat changes have an opposite effect.",
+    "gen": "5",
+    "effect": "Makes stat changes have an opposite effect.\n",
+    "pokemon": ["Inkay", "Malamar"],
+    "hidden": [
+      "Enamorus",
+      "Spinda",
+      "Servine",
+      "Serperior",
+      "Fomantis",
+      "Lurantis",
+      "Snivy",
+      "Shuckle"
+    ]
+  },
+  "Corrosion": {
+    "description": "The Pok\u00e9mon can poison Steel and Poison types.",
+    "gen": "7",
+    "effect":
+        "Corrosion allows the bearer to poison any Pok\u00e9mon, including Steel and Poison types.No Pok\u00e9mon have Corrosion as a hidden ability.",
+    "pokemon": ["Salazzle", "Salandit"],
+    "hidden": []
+  },
+  "Cotton Down": {
+    "description": "Lowers foe's Speed when hit.",
+    "gen": "8",
+    "effect":
+        "When a Pok\u00e9mon with Cotton Down is hit by an attack, it lowers the attacker's Speed.No Pok\u00e9mon have Cotton Down as a hidden ability.",
+    "pokemon": ["Gossifleur", "Eldegoss"],
+    "hidden": []
+  },
+  "Curious Medicine": {
+    "description": "Resets all stat changes upon entering battlefield.",
+    "gen": "8",
+    "effect":
+        "Resets all stat changes upon entering battlefield.\nNo Pok\u00e9mon have Curious Medicine as a hidden ability.",
+    "pokemon": ["Slowking"],
+    "hidden": []
+  },
+  "Cursed Body": {
+    "description": "May disable a move used on the Pok\u00e9mon.",
+    "gen": "5",
+    "effect": "May disable a move used on the Pok\u00e9mon.\n",
+    "pokemon": ["Jellicent", "Frillish", "Gengar", "Marowak"],
+    "hidden": [
+      "Drakloak",
+      "Polteageist",
+      "Froslass",
+      "Banette",
+      "Sinistea",
+      "Dreepy",
+      "Dragapult",
+      "Corsola",
+      "Shuppet"
+    ]
+  },
+  "Cute Charm": {
+    "description": "Contact with the Pok\u00e9mon may cause infatuation.",
+    "gen": "3",
+    "effect":
+        "If a Pok\u00e9mon with Cute Charm is hit by a move that makes contact, there is a 30% chance the attacker will become infatuated. It will not infatuate Pok\u00e9mon of the same gender, genderless Pok\u00e9mon, nor those with the ability Oblivious.Infatuated Pok\u00e9mon have a 50% chance of being immobilized by love each turn and unable to attack.If a Pok\u00e9mon with Cute Charm is the leading party Pok\u00e9mon, the chance of encountering a Pok\u00e9mon of the opposite gender is 2\u20443.",
+    "pokemon": [
+      "Clefairy",
+      "Jigglypuff",
+      "Cinccino",
+      "Clefable",
+      "Sylveon",
+      "Cleffa",
+      "Wigglytuff",
+      "Delcatty",
+      "Igglybuff",
+      "Lopunny",
+      "Minccino",
+      "Skitty"
+    ],
+    "hidden": ["Stufful", "Milotic"]
+  },
+  "Damp": {
+    "description": "Prevents the use of self-destructing moves.",
+    "gen": "3",
+    "effect":
+        "Damp prevents all Pok\u00e9mon on the field from using the moves Selfdestruct and Explosion. It also prevents damage (to the Damp Pok\u00e9mon only) from the ability Aftermath.",
+    "pokemon": [
+      "Wooper",
+      "Psyduck",
+      "Poliwhirl",
+      "Politoed",
+      "Poliwag",
+      "Quagsire",
+      "Poliwrath",
+      "Golduck"
+    ],
+    "hidden": [
+      "Mudkip",
+      "Frillish",
+      "Jellicent",
+      "Parasect",
+      "Seadra",
+      "Kingdra",
+      "Marshtomp",
+      "Swampert",
+      "Paras",
+      "Horsea"
+    ]
+  },
+  "Dancer": {
+    "description": "Copies the foe's Dance moves.",
+    "gen": "7",
+    "effect":
+        "When another Pok\u00e9mon on the field uses any Dance move, Dancer causes the ability-bearer to use that same move immediately afterward. They will still use their own move originally selected, at the usual time (e.g. after the opponent if they are slower).Effects and status conditions apply for both the copied move and original move. For example if the Dancer Pok\u00e9mon is confused, they may hurt themselves in confusion when using their move and when copying a Dance move.The moves that Dancer can copy are:No Pok\u00e9mon have Dancer as a hidden ability.",
+    "pokemon": ["Oricorio"],
+    "hidden": []
+  },
+  "Dark Aura": {
+    "description":
+        "Raises power of Dark type moves for all Pok\u00e9mon in battle.",
+    "gen": "6",
+    "effect":
+        "Dark Aura raises the power of Dark-type moves by 33% for all Pok\u00e9mon on the field (not just the ability-bearer).It is the signature ability of Yveltal.No Pok\u00e9mon have Dark Aura as a hidden ability.",
+    "pokemon": ["Yveltal"],
+    "hidden": []
+  },
+  "Dauntless Shield": {
+    "description": "Boosts Defense in battle.",
+    "gen": "8",
+    "effect":
+        "Boosts Defense in battle.\nNo Pok\u00e9mon have Dauntless Shield as a hidden ability.",
+    "pokemon": ["Zamazenta"],
+    "hidden": []
+  },
+  "Dazzling": {
+    "description": "Protects the Pok\u00e9mon from high-priority moves.",
+    "gen": "7",
+    "effect":
+        "Dazzling makes the Pok\u00e9mon immune to high-priority moves (i.e. those with a priority above 0).No Pok\u00e9mon have Dazzling as a hidden ability.",
+    "pokemon": ["Bruxish"],
+    "hidden": []
+  },
+  "Defeatist": {
+    "description": "Lowers stats when HP drops below half.",
+    "gen": "5",
+    "effect":
+        "When the HP of a Pok\u00e9mon with Defeatist falls below 50%, its Attack and Special Attack stats are halved.No Pok\u00e9mon have Defeatist as a hidden ability.",
+    "pokemon": ["Archeops", "Archen"],
+    "hidden": []
+  },
+  "Defiant": {
+    "description":
+        "Sharply raises Attack when the Pok\u00e9mon's stats are lowered.",
+    "gen": "5",
+    "effect":
+        "Defiant raises the ability-bearer's Attack by two stages when hit by a stat-lowering move.Stats can be raised to a maximum of +6 stages each.",
+    "pokemon": ["Pawniard", "Bisharp", "Zapdos"],
+    "hidden": [
+      "Empoleon",
+      "Purugly",
+      "Primeape",
+      "Prinplup",
+      "Mankey",
+      "Obstagoon",
+      "Farfetch'd",
+      "Passimian",
+      "Braviary",
+      "Falinks",
+      "Tornadus",
+      "Piplup",
+      "Thundurus"
+    ]
+  },
+  "Delta Stream": {
+    "description": "Creates strong winds when the ability activates.",
+    "gen": "6",
+    "effect":
+        "Delta Stream creates strong winds when the ability is activated (by Rayquaza Mega-Evolving).Strong winds have the following effects:The abilities Cloud Nine or Air Lock are still able to bypass the effects of Delta Stream, but Mold Breaker is not.No Pok\u00e9mon have Delta Stream as a hidden ability.",
+    "pokemon": ["Rayquaza"],
+    "hidden": []
+  },
+  "Desolate Land": {
+    "description":
+        "Turns the sunlight extremely harsh when the ability activates.",
+    "gen": "6",
+    "effect":
+        "Desolate Land creates extremely harsh sunlight when the ability is activated (by Groudon reverting to its Primal form).Extremely harsh sunlight has the same effects as harsh sunlight but with some additions:The abilities Cloud Nine or Air Lock are still able to bypass the effects of Desolate Land, but Mold Breaker is not.No Pok\u00e9mon have Desolate Land as a hidden ability.",
+    "pokemon": ["Groudon"],
+    "hidden": []
+  },
+  "Disguise": {
+    "description": "Avoids damage for one turn.",
+    "gen": "7",
+    "effect":
+        "Disguise allows the bearer to avoid damage for one attack, in a similar way to Substitute.No Pok\u00e9mon have Disguise as a hidden ability.",
+    "pokemon": ["Mimikyu"],
+    "hidden": []
+  },
+  "Download": {
+    "description": "Adjusts power according to a foe's defenses.",
+    "gen": "4",
+    "effect":
+        "Download raises either the bearer's Attack or Special Attack by one stage when switching into battle, base on the opponent's defenses.It raises Attack if the opponent's Defense is lower than its Special Defense, or raises Special Attack if opponent's Special Defense is lower than or equal to its Defense.In double and triple battles, Download compares the sum of all opponents' Defense stats and the sum of all opponents' Special Defense stats and uses the lowest total.No Pok\u00e9mon have Download as a hidden ability.",
+    "pokemon": ["Porygon2", "Porygon-Z", "Genesect", "Porygon"],
+    "hidden": []
+  },
+  "Dragon's Maw": {
+    "description":
+        "Signature ability of Regidrago. Powers up Dragon-type moves.",
+    "gen": "8",
+    "effect":
+        "Signature ability of Regidrago. Powers up Dragon-type moves.\nNo Pok\u00e9mon have Dragon's Maw as a hidden ability.",
+    "pokemon": ["Regidrago"],
+    "hidden": []
+  },
+  "Drizzle": {
+    "description": "The Pok\u00e9mon makes it rain when it enters a battle.",
+    "gen": "3",
+    "effect":
+        "Drizzle creates a rain shower when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition.If multiple Pok\u00e9mon with weather-generating abilities (Drizzle, Drought, Sand Stream or Snow Warning) enter the field on the same turn, each weather condition will activate consecutively, fastest Pok\u00e9mon first. In other words, the resultant weather condition will be that of the slowest Pok\u00e9mon.Prior to Generation 6, Drizzle lasts indefinitely upon activation.",
+    "pokemon": ["Pelipper", "Kyogre"],
+    "hidden": ["Politoed"]
+  },
+  "Drought": {
+    "description":
+        "Turns the sunlight harsh when the Pok\u00e9mon enters a battle.",
+    "gen": "3",
+    "effect":
+        "Drought creates harsh sunlight when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition.If multiple Pok\u00e9mon with weather-generating abilities (Drought, Drizzle, Sand Stream or Snow Warning) enter the field on the same turn, each weather condition will activate consecutively, fastest Pok\u00e9mon first. In other words, the resultant weather condition will be that of the slowest Pok\u00e9mon.Prior to Generation 6, Drought lasts indefinitely upon activation.",
+    "pokemon": ["Charizard", "Torkoal", "Groudon"],
+    "hidden": ["Vulpix", "Ninetales"]
+  },
+  "Dry Skin": {
+    "description": "Reduces HP if it is hot. Water restores HP.",
+    "gen": "4",
+    "effect": "Dry Skin causes several effects:",
+    "pokemon": [
+      "Croagunk",
+      "Heliolisk",
+      "Parasect",
+      "Toxicroak",
+      "Helioptile",
+      "Paras"
+    ],
+    "hidden": ["Jynx"]
+  },
+  "Early Bird": {
+    "description": "The Pok\u00e9mon awakens quickly from sleep.",
+    "gen": "3",
+    "effect": "The Pok\u00e9mon awakens quickly from sleep.\n",
+    "pokemon": [
+      "Seedot",
+      "Natu",
+      "Doduo",
+      "Ledyba",
+      "Ledian",
+      "Smoliv",
+      "Houndour",
+      "Kangaskhan",
+      "Shiftry",
+      "Girafarig",
+      "Houndoom",
+      "Dodrio",
+      "Xatu",
+      "Nuzleaf"
+    ],
+    "hidden": ["Sunkern", "Sunflora"]
+  },
+  "Effect Spore": {
+    "description": "Contact may poison or cause paralysis or sleep.",
+    "gen": "3",
+    "effect": "Contact may poison or cause paralysis or sleep.\n",
+    "pokemon": [
+      "Amoonguss",
+      "Parasect",
+      "Breloom",
+      "Morelull",
+      "Shroomish",
+      "Foongus",
+      "Paras",
+      "Shiinotic"
+    ],
+    "hidden": ["Vileplume", "Gossifleur", "Eldegoss"]
+  },
+  "Electric Surge": {
+    "description":
+        "The Pok\u00e9mon creates an Electric Terrain when it enters a battle.",
+    "gen": "7",
+    "effect":
+        "Electric Surge creates a low-lying electric field, like the move Electric Terrain, when the Pok\u00e9mon enters battle. It prevents grounded Pok\u00e9mon from falling asleep, and increases the power of Electric type attacks.",
+    "pokemon": ["Tapu Koko"],
+    "hidden": ["Pincurchin"]
+  },
+  "Emergency Exit": {
+    "description": "Switches out when HP falls below 50%.",
+    "gen": "7",
+    "effect":
+        "Switches out when HP falls below 50%.\nNo Pok\u00e9mon have Emergency Exit as a hidden ability.",
+    "pokemon": ["Golisopod"],
+    "hidden": []
+  },
+  "Fairy Aura": {
+    "description":
+        "Raises power of Fairy type moves for all Pok\u00e9mon in battle.",
+    "gen": "6",
+    "effect":
+        "Fairy Aura raises the power of Fairy-type moves by 33%, for all Pok\u00e9mon on the field (not just the ability-bearer).It is the signature ability of Xerneas.No Pok\u00e9mon have Fairy Aura as a hidden ability.",
+    "pokemon": ["Xerneas"],
+    "hidden": []
+  },
+  "Filter": {
+    "description": "Reduces damage from super-effective attacks.",
+    "gen": "4",
+    "effect":
+        "Filter reduces the damage taken from super-effective attacks by 25%.For example, a Dark-type move used against a Psychic-type Pok\u00e9mon with Filter would deal 1.5\u00d7 the usual damage instead of 2\u00d7. A double weakness would be reduced from 4\u00d7 to 3\u00d7.No Pok\u00e9mon have Filter as a hidden ability.",
+    "pokemon": ["Mr. Mime", "Mime Jr.", "Aggron"],
+    "hidden": []
+  },
+  "Flame Body": {
+    "description": "Contact with the Pok\u00e9mon may burn the attacker.",
+    "gen": "3",
+    "effect":
+        "If a Pok\u00e9mon with Flame Body is hit by a move that makes contact, there is a 30% chance the attacker will become burned.If a Pok\u00e9mon with Flame Body (or Magma Armor) and a Pok\u00e9mon Egg are both in the party Pok\u00e9mon, the number of steps required to hatch the egg are halved.",
+    "pokemon": [
+      "Coalossal",
+      "Carkol",
+      "Magmortar",
+      "Fletchinder",
+      "Talonflame",
+      "Magcargo",
+      "Magmar",
+      "Lampent",
+      "Chandelure",
+      "Magby",
+      "Litwick",
+      "Larvesta",
+      "Volcarona",
+      "Slugma"
+    ],
+    "hidden": [
+      "Ponyta",
+      "Rapidash",
+      "Moltres",
+      "Centiskorch",
+      "Heatran",
+      "Sizzlipede"
+    ]
+  },
+  "Flare Boost": {
+    "description": "Powers up special attacks when burned.",
+    "gen": "5",
+    "effect":
+        "Powers up special attacks when burned.\nNo Pok\u00e9mon have the ability Flare Boost as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Flash Fire": {
+    "description": "It powers up Fire-type moves if it's hit by one.",
+    "gen": "3",
+    "effect":
+        "When a Pok\u00e9mon with Flash Fire is hit by a Fire-type move, it does not deal damage but instead raises the power of the bearer's Fire-type moves by 50%. Subsequent hits do not raise the power even more, but the effect remains while the ability-bearer is in battle.",
+    "pokemon": [
+      "Arcanine",
+      "Ponyta",
+      "Rapidash",
+      "Ceruledge",
+      "Flareon",
+      "Centiskorch",
+      "Heatran",
+      "Armarouge",
+      "Chandelure",
+      "Lampent",
+      "Ninetales",
+      "Houndour",
+      "Growlithe",
+      "Heatmor",
+      "Sizzlipede",
+      "Vulpix",
+      "Litwick",
+      "Houndoom"
+    ],
+    "hidden": [
+      "Coalossal",
+      "Carkol",
+      "Cyndaquil",
+      "Quilava",
+      "Rolycoly",
+      "Typhlosion"
+    ]
+  },
+  "Flower Gift": {
+    "description": "Powers up party Pok\u00e9mon when it is sunny.",
+    "gen": "4",
+    "effect":
+        "Flower Gift raises the Attack and Special Defense of all party Pok\u00e9mon by 50% during harsh sunlight.No Pok\u00e9mon have Flower Gift as a hidden ability.",
+    "pokemon": ["Cherrim"],
+    "hidden": []
+  },
+  "Flower Veil": {
+    "description": "Prevents lowering of ally Grass-type Pok\u00e9mon's stats.",
+    "gen": "6",
+    "effect":
+        "Flower Veil prevents ally Grass-type Pok\u00e9mon's stats from being lowered, in double and triple battles.No Pok\u00e9mon have Flower Veil as a hidden ability.",
+    "pokemon": ["Floette", "Flab\u00e9b\u00e9", "Comfey", "Florges"],
+    "hidden": []
+  },
+  "Fluffy": {
+    "description":
+        "Halves damage from contact moves, but doubles damage from Fire-type moves.",
+    "gen": "7",
+    "effect":
+        "Fluffy reduces damage from contact moves by 50%, but Fire-type moves do double damage. Fire-type moves that make contact do regular damage.No Pok\u00e9mon have Fluffy as a hidden ability.",
+    "pokemon": ["Bewear", "Wooloo", "Stufful", "Dubwool"],
+    "hidden": []
+  },
+  "Forecast": {
+    "description": "Castform transforms with the weather.",
+    "gen": "3",
+    "effect":
+        "Castform transforms with the weather.\nNo Pok\u00e9mon have Forecast as a hidden ability.",
+    "pokemon": ["Castform"],
+    "hidden": []
+  },
+  "Forewarn": {
+    "description": "Determines what moves a foe has.",
+    "gen": "4",
+    "effect":
+        "Determines what moves a foe has.\nNo Pok\u00e9mon have Forewarn as a hidden ability.",
+    "pokemon": ["Smoochum", "Munna", "Jynx", "Hypno", "Musharna", "Drowzee"],
+    "hidden": []
+  },
+  "Friend Guard": {
+    "description": "Reduces damage done to allies.",
+    "gen": "5",
+    "effect":
+        "Reduces damage done to allies.\nNo Pok\u00e9mon have the ability Friend Guard as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Frisk": {
+    "description": "The Pok\u00e9mon can check a foe's held item.",
+    "gen": "4",
+    "effect": "The Pok\u00e9mon can check a foe's held item.\n",
+    "pokemon": [
+      "Grimmsnarl",
+      "Noibat",
+      "Wyrdeer",
+      "Noivern",
+      "Morgrem",
+      "Gothita",
+      "Banette",
+      "Stantler",
+      "Exeggutor",
+      "Gothorita",
+      "Pumpkaboo",
+      "Orbeetle",
+      "Impidimp",
+      "Gourgeist",
+      "Gothitelle",
+      "Trevenant",
+      "Phantump",
+      "Shuppet"
+    ],
+    "hidden": [
+      "Dusclops",
+      "Yanma",
+      "Sentret",
+      "Dusknoir",
+      "Duskull",
+      "Wigglytuff",
+      "Furret",
+      "Yanmega"
+    ]
+  },
+  "Full Metal Body": {
+    "description": "Prevents other Pok\u00e9mon from lowering its stats.",
+    "gen": "7",
+    "effect":
+        "Prevents other Pok\u00e9mon from lowering its stats.\nNo Pok\u00e9mon have Full Metal Body as a hidden ability.",
+    "pokemon": ["Solgaleo"],
+    "hidden": []
+  },
+  "Fur Coat": {
+    "description": "Reduces damage from physical moves.",
+    "gen": "6",
+    "effect":
+        "Fur Coat reduces damage taken from physical attacks by 50%.No Pok\u00e9mon have Fur Coat as a hidden ability.",
+    "pokemon": ["Furfrou", "Persian"],
+    "hidden": []
+  },
+  "Gale Wings": {
+    "description": "Gives priority to Flying-type moves.",
+    "gen": "6",
+    "effect":
+        "Gives priority to Flying-type moves.\nNo Pok\u00e9mon have the ability Gale Wings as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Galvanize": {
+    "description":
+        "Normal-type moves become Electric-type moves and their power boosted.",
+    "gen": "7",
+    "effect":
+        "Normal-type moves become Electric-type moves and their power boosted.\nNo Pok\u00e9mon have the ability Galvanize as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Gluttony": {
+    "description": "Encourages the early use of a held Berry.",
+    "gen": "4",
+    "effect":
+        "A Pok\u00e9mon with Gluttony will use a pinch berry when its HP drops to 50%, rather than the usual 25%.Pinch berries are: Figy, Wiki, Mago, Aguav, Iapapa, Liechi, Ganlon, Salac, Petaya, Apicot, Lansat, Starf, Micle and Custap. (Their descriptions state that they work in a pinch.)",
+    "pokemon": [
+      "Grimer",
+      "Simipour",
+      "Simisage",
+      "Zigzagoon",
+      "Appletun",
+      "Linoone",
+      "Shuckle",
+      "Pansear",
+      "Heatmor",
+      "Rattata",
+      "Pansage",
+      "Raticate",
+      "Slowpoke",
+      "Panpour",
+      "Lechonk",
+      "Flapple",
+      "Applin",
+      "Muk",
+      "Simisear"
+    ],
+    "hidden": [
+      "Skwovet",
+      "Spoink",
+      "Grumpig",
+      "Victreebel",
+      "Greedent",
+      "Swalot",
+      "Munchlax",
+      "Bellsprout",
+      "Gulpin",
+      "Snorlax",
+      "Weepinbell"
+    ]
+  },
+  "Gooey": {
+    "description":
+        "Contact with the Pok\u00e9mon lowers the attacker's Speed stat.",
+    "gen": "6",
+    "effect":
+        "Contact with the Pok\u00e9mon lowers the attacker's Speed stat.\nNo Pok\u00e9mon have the ability Gooey as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Gorilla Tactics": {
+    "description":
+        "Boosts the Pok\u00e9mon's Attack stat but only allows the use of the first selected move.",
+    "gen": "8",
+    "effect":
+        "Boosts the Pok\u00e9mon's Attack stat but only allows the use of the first selected move.\nNo Pok\u00e9mon have Gorilla Tactics as a hidden ability.",
+    "pokemon": ["Darmanitan"],
+    "hidden": []
+  },
+  "Grass Pelt": {
+    "description": "Boosts the Defense stat in Grassy Terrain.",
+    "gen": "6",
+    "effect":
+        "Boosts the Defense stat in Grassy Terrain.\nNo Pok\u00e9mon have the ability Grass Pelt as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Grassy Surge": {
+    "description":
+        "The Pok\u00e9mon creates a Grassy Terrain when it enters a battle.",
+    "gen": "7",
+    "effect":
+        "Grassy Surge creates a low-lying grassy field, like the move Grassy Terrain, when the Pok\u00e9mon enters battle. It restores the HP of grounded Pok\u00e9mon each turn and increases the power of Grass type attacks.",
+    "pokemon": ["Tapu Bulu"],
+    "hidden": ["Rillaboom", "Thwackey", "Grookey"]
+  },
+  "Grim Neigh": {
+    "description": "Boosts Special Attack after knocking out a Pok\u00e9mon.",
+    "gen": "8",
+    "effect":
+        "Boosts Special Attack after knocking out a Pok\u00e9mon.\nNo Pok\u00e9mon have Grim Neigh as a hidden ability.",
+    "pokemon": ["Spectrier"],
+    "hidden": []
+  },
+  "Gulp Missile": {
+    "description":
+        "Returns with a catch in its mouth after using Surf or Dive.",
+    "gen": "8",
+    "effect":
+        "Gulp Missile is the signature ability of Cramorant. If Cramorant uses the move Surf or Dive, it returns with a fish in its mouth. If Cramorant then takes damage, it retaliates by spitting out the fish, dealing extra damage.Cramorant may also return carrying a Pikachu. If Pikachu is launched at the opponent they will become paralyzed.No Pok\u00e9mon have Gulp Missile as a hidden ability.",
+    "pokemon": ["Cramorant"],
+    "hidden": []
+  },
+  "Guts": {
+    "description": "Boosts Attack if there is a status problem.",
+    "gen": "3",
+    "effect":
+        "Guts raises the ability-bearer's Attack by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If burnt, the Pok\u00e9mon does not suffer the usual drop in Attack.All other effects of the status condition remain, e.g. losing HP each turn (poison, burn), speed drop (paralysis) or being unable to attack (paralysis, freeze, sleep).",
+    "pokemon": [
+      "Gurdurr",
+      "Heracross",
+      "Ursaluna",
+      "Obstagoon",
+      "Makuhita",
+      "Throh",
+      "Hariyama",
+      "Taillow",
+      "Machamp",
+      "Larvitar",
+      "Timburr",
+      "Swellow",
+      "Conkeldurr",
+      "Machop",
+      "Tyrogue",
+      "Rattata",
+      "Ursaring",
+      "Machoke",
+      "Raticate"
+    ],
+    "hidden": ["Shinx", "Luxio", "Flareon", "Luxray"]
+  },
+  "Harvest": {
+    "description": "May create another Berry after one is used.",
+    "gen": "5",
+    "effect":
+        "May create another Berry after one is used.\nNo Pok\u00e9mon have the ability Harvest as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Healer": {
+    "description": "May heal an ally's status conditions.",
+    "gen": "5",
+    "effect": "May heal an ally's status conditions.\n",
+    "pokemon": [
+      "Enamorus",
+      "Aromatisse",
+      "Hatterene",
+      "Hattrem",
+      "Alomomola",
+      "Hatenna",
+      "Spritzee",
+      "Audino"
+    ],
+    "hidden": ["Blissey", "Chansey", "Bellossom"]
+  },
+  "Heatproof": {
+    "description": "Weakens the power of Fire-type moves.",
+    "gen": "4",
+    "effect":
+        "Heatproof reduces the damage taken from Fire-type moves by 50%. It also halves the damage from a burn, from 1\u20448 to 1\u204416 of the Pok\u00e9mon's maximum HP.No Pok\u00e9mon have Heatproof as a hidden ability.",
+    "pokemon": ["Bronzor", "Rolycoly", "Bronzong"],
+    "hidden": []
+  },
+  "Heavy Metal": {
+    "description": "Doubles the Pok\u00e9mon's weight.",
+    "gen": "5",
+    "effect":
+        "Heavy Metal doubles the Pok\u00e9mon's weight in battle. Increasing weight affects these moves:",
+    "pokemon": ["Duraludon"],
+    "hidden": [
+      "Bronzor",
+      "Aggron",
+      "Bronzong",
+      "Cufant",
+      "Aron",
+      "Lairon",
+      "Copperajah"
+    ]
+  },
+  "Honey Gather": {
+    "description": "The Pok\u00e9mon may gather Honey from somewhere.",
+    "gen": "4",
+    "effect":
+        "Honey Gather has no effect in battle.When a battle ends, any party Pok\u00e9mon with Honey Gather may pick up honey as a held item (if they are not already holding an item).",
+    "pokemon": ["Cutiefly", "Combee", "Ribombee"],
+    "hidden": ["Teddiursa"]
+  },
+  "Huge Power": {
+    "description": "Raises the Pok\u00e9mon's Attack stat.",
+    "gen": "3",
+    "effect": "Raises the Pok\u00e9mon's Attack stat.\n",
+    "pokemon": ["Azurill", "Azumarill", "Mawile", "Marill"],
+    "hidden": ["Diggersby", "Bunnelby"]
+  },
+  "Hunger Switch": {
+    "description": "Changes forms each turn.",
+    "gen": "8",
+    "effect":
+        "Hunger Switch causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode. Morpeko's form also changes the type of its signature move, Aura Wheel.No Pok\u00e9mon have Hunger Switch as a hidden ability.",
+    "pokemon": ["Morpeko"],
+    "hidden": []
+  },
+  "Hustle": {
+    "description": "Boosts the Attack stat, but lowers accuracy.",
+    "gen": "3",
+    "effect":
+        "Hustle increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%.If a Pok\u00e9mon with Hustle is the leading party Pok\u00e9mon, wild Pok\u00e9mon are 50% more likely to be higher level.",
+    "pokemon": [
+      "Zweilous",
+      "Remoraid",
+      "Raticate",
+      "Delibird",
+      "Deino",
+      "Togepi",
+      "Dracozolt",
+      "Togekiss",
+      "Darumaka",
+      "Durant",
+      "Togetic",
+      "Rattata",
+      "Lilligant",
+      "Corsola"
+    ],
+    "hidden": [
+      "Raticate",
+      "Combee",
+      "Rufflet",
+      "Flapple",
+      "Nidorino",
+      "Nidorina",
+      "Rattata",
+      "Nidoran\u2640",
+      "Nidoran\u2642"
+    ]
+  },
+  "Hydration": {
+    "description": "Heals status problems if it is raining.",
+    "gen": "4",
+    "effect":
+        "A Pok\u00e9mon with Hydration will cure itself of any status conditions during rain, at the end of each turn. This includes self-inflicted conditions such as from using Rest.",
+    "pokemon": [
+      "Wingull",
+      "Shelmet",
+      "Sliggoo",
+      "Tympole",
+      "Alomomola",
+      "Manaphy",
+      "Accelgor",
+      "Goodra",
+      "Palpitoad",
+      "Dewgong",
+      "Goomy",
+      "Phione",
+      "Seel"
+    ],
+    "hidden": [
+      "Smoochum",
+      "Gorebyss",
+      "Ducklett",
+      "Luvdisc",
+      "Whiscash",
+      "Swanna",
+      "Lapras",
+      "Barboach",
+      "Vaporeon"
+    ]
+  },
+  "Hyper Cutter": {
+    "description": "Prevents other Pok\u00e9mon from lowering Attack stat.",
+    "gen": "3",
+    "effect":
+        "Hyper Cutter prevents the bearer's Attack stat from being lowered by other Pok\u00e9mon, through moves such as Growl or abilities such as Intimidate.It does not prevent self-inflicted decreases, for example from Superpower.No Pok\u00e9mon have Hyper Cutter as a hidden ability.",
+    "pokemon": [
+      "Gliscor",
+      "Corphish",
+      "Mawile",
+      "Crabominable",
+      "Crabrawler",
+      "Trapinch",
+      "Crawdaunt",
+      "Kingler",
+      "Pinsir",
+      "Krabby",
+      "Gligar"
+    ],
+    "hidden": []
+  },
+  "Ice Body": {
+    "description": "The Pok\u00e9mon gradually regains HP in a hailstorm.",
+    "gen": "4",
+    "effect":
+        "A Pok\u00e9mon with Ice Body will recover 1\u204416 of its maximum HP during hail, after each turn. It also grants immunity to the hailstorm damage, if not already immune.",
+    "pokemon": [
+      "Bergmite",
+      "Snorunt",
+      "Sealeo",
+      "Glalie",
+      "Walrein",
+      "Vanillish",
+      "Arctovish",
+      "Vanilluxe",
+      "Spheal",
+      "Avalugg",
+      "Vanillite"
+    ],
+    "hidden": ["Mr. Mime", "Glaceon", "Mr. Rime", "Regice", "Dewgong", "Seel"]
+  },
+  "Ice Face": {
+    "description": "Avoids damage from Physical moves for one turn.",
+    "gen": "8",
+    "effect":
+        "Ice Face is the signature ability of Eiscue. It allows the Pok\u00e9mon to take a physical attack without taking damage. After the attack, Eiscue changes to its No Ice Face form, however, it can be restored in hail.No Pok\u00e9mon have Ice Face as a hidden ability.",
+    "pokemon": ["Eiscue"],
+    "hidden": []
+  },
+  "Ice Scales": {
+    "description": "Halves damage from Special moves.",
+    "gen": "8",
+    "effect":
+        "Halves damage from Special moves.\nNo Pok\u00e9mon have the ability Ice Scales as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Illuminate": {
+    "description": "Raises the likelihood of meeting wild Pok\u00e9mon.",
+    "gen": "3",
+    "effect":
+        "Illuminate has no effect in battle.If a Pok\u00e9mon with Illuminate is the leading party Pok\u00e9mon, wild Pok\u00e9mon are twice as likely to appear.No Pok\u00e9mon have Illuminate as a hidden ability.",
+    "pokemon": [
+      "Starmie",
+      "Staryu",
+      "Lanturn",
+      "Morelull",
+      "Volbeat",
+      "Watchog",
+      "Shiinotic",
+      "Chinchou"
+    ],
+    "hidden": []
+  },
+  "Illusion": {
+    "description":
+        "Enters battle disguised as the last Pok\u00e9mon in the party.",
+    "gen": "5",
+    "effect":
+        "When a Pok\u00e9mon with the Illusion ability switches into battle, it takes the form of the Pok\u00e9mon in last place (6th) of the player's party. Illusion will not activate if the Pok\u00e9mon in last place is the same species or is fainted.The effect is aesthetic only; Illusion does not change the Pok\u00e9mon's type or moves, so for example a Fighting-type move against a Zoroark disguised as Gengar would still be super effective. Any direct attack (i.e. not entry hazards, weather conditions etc) will break the illusion.No Pok\u00e9mon have Illusion as a hidden ability.",
+    "pokemon": ["Zoroark", "Zorua"],
+    "hidden": []
+  },
+  "Immunity": {
+    "description": "Prevents the Pok\u00e9mon from getting poisoned.",
+    "gen": "3",
+    "effect": "Prevents the Pok\u00e9mon from getting poisoned.\n",
+    "pokemon": ["Snorlax", "Zangoose"],
+    "hidden": ["Gligar"]
+  },
+  "Imposter": {
+    "description": "It transforms itself into the Pok\u00e9mon it is facing.",
+    "gen": "5",
+    "effect":
+        "It transforms itself into the Pok\u00e9mon it is facing.\nNo Pok\u00e9mon have the ability Imposter as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Infiltrator": {
+    "description": "Passes through the foe's barrier and strikes.",
+    "gen": "5",
+    "effect":
+        "Infiltrator ignores the effects of Reflect, Light Screen and Safeguard. In other words, if the opponent has used Safeguard, Toxic would still badly poison them.",
+    "pokemon": [
+      "Drakloak",
+      "Dragapult",
+      "Noibat",
+      "Cottonee",
+      "Noivern",
+      "Whimsicott",
+      "Dreepy",
+      "Espurr",
+      "Meowstic"
+    ],
+    "hidden": [
+      "Ninjask",
+      "Spiritomb",
+      "Seviper",
+      "Chandelure",
+      "Lampent",
+      "Skiploom",
+      "Golbat",
+      "Hoppip",
+      "Jumpluff",
+      "Inkay",
+      "Crobat",
+      "Litwick",
+      "Malamar",
+      "Zubat"
+    ]
+  },
+  "Innards Out": {
+    "description": "Deals damage upon fainting.",
+    "gen": "7",
+    "effect":
+        "When a Pok\u00e9mon with Innards Out faints, it deals damage to the opponent equal to amount of damage it took on the final blow.No Pok\u00e9mon have Innards Out as a hidden ability.",
+    "pokemon": ["Pyukumuku"],
+    "hidden": []
+  },
+  "Inner Focus": {
+    "description": "The Pok\u00e9mon is protected from flinching.",
+    "gen": "3",
+    "effect":
+        "Inner Focus prevents the Pok\u00e9mon from flinching, for example when attacked by a move like Headbutt.",
+    "pokemon": [
+      "Mienfoo",
+      "Lucario",
+      "Alakazam",
+      "Golbat",
+      "Kadabra",
+      "Girafarig",
+      "Gallade",
+      "Indeedee",
+      "Snorunt",
+      "Glalie",
+      "Sawk",
+      "Farfetch'd",
+      "Abra",
+      "Mienshao",
+      "Throh",
+      "Sneasel",
+      "Oranguru",
+      "Zubat",
+      "Pawniard",
+      "Crobat",
+      "Kubfu",
+      "Riolu",
+      "Bisharp",
+      "Dragonite"
+    ],
+    "hidden": [
+      "Mudsdale",
+      "Hypno",
+      "Umbreon",
+      "Entei",
+      "Darumaka",
+      "Kangaskhan",
+      "Drowzee",
+      "Mudbray",
+      "Raikou",
+      "Hitmonchan",
+      "Suicune"
+    ]
+  },
+  "Insomnia": {
+    "description": "Prevents the Pok\u00e9mon from falling asleep.",
+    "gen": "3",
+    "effect":
+        "Insomnia prevents the ability-bearer from falling asleep, both from moves by other Pok\u00e9mon like Sing, and self-inflicted sleep like Rest.If a sleeping Pok\u00e9mon aquires Insomnia (e.g. from Worry Seed, it will wake up on its next turn.",
+    "pokemon": [
+      "Hypno",
+      "Murkrow",
+      "Spinarak",
+      "Honchkrow",
+      "Banette",
+      "Drowzee",
+      "Hoothoot",
+      "Ariados",
+      "Noctowl",
+      "Mewtwo",
+      "Shuppet"
+    ],
+    "hidden": ["Delibird", "Gourgeist", "Pumpkaboo"]
+  },
+  "Intimidate": {
+    "description": "Lowers the foe's Attack stat.",
+    "gen": "3",
+    "effect":
+        "Intimidate lower's the Attack of all opponents by one stage when the ability-bearer switches in (including the start of a battle).Stats can be lowered to a minimum of -6 stages each.If a Pok\u00e9mon with Intimidate is the leading party Pok\u00e9mon, wild Pok\u00e9mon are 50% less likely to be lower level.",
+    "pokemon": [
+      "Arcanine",
+      "Hitmontop",
+      "Luxio",
+      "Mawile",
+      "Krookodile",
+      "Gyarados",
+      "Stantler",
+      "Tauros",
+      "Krokorok",
+      "Sandile",
+      "Granbull",
+      "Salamence",
+      "Stoutland",
+      "Ekans",
+      "Luxray",
+      "Shinx",
+      "Wyrdeer",
+      "Mightyena",
+      "Landorus",
+      "Arbok",
+      "Snubbull",
+      "Staraptor",
+      "Masquerain",
+      "Staravia",
+      "Herdier",
+      "Manectric",
+      "Growlithe"
+    ],
+    "hidden": [
+      "Scraggy",
+      "Qwilfish",
+      "Scrafty",
+      "Incineroar",
+      "Litten",
+      "Torracat",
+      "Overqwil"
+    ]
+  },
+  "Intrepid Sword": {
+    "description": "Boosts Attack in battle.",
+    "gen": "8",
+    "effect":
+        "Boosts Attack in battle.\nNo Pok\u00e9mon have Intrepid Sword as a hidden ability.",
+    "pokemon": ["Zacian"],
+    "hidden": []
+  },
+  "Iron Barbs": {
+    "description": "Inflicts damage to the Pok\u00e9mon on contact.",
+    "gen": "5",
+    "effect":
+        "When a Pok\u00e9mon with Iron Barbs is hit by a move that makes contact, the attacker receives damage equal to 1\u20448 of their maximum HP.Multi-hit moves (e.g. DoubleSlap) activate Iron Barbs for each strike.No Pok\u00e9mon have Iron Barbs as a hidden ability.",
+    "pokemon": ["Togedemaru", "Ferrothorn", "Ferroseed"],
+    "hidden": []
+  },
+  "Iron Fist": {
+    "description": "Boosts the power of punching moves.",
+    "gen": "4",
+    "effect":
+        "Iron Fist increases the power of all punching moves by 20%.The attacks classed as punching moves are shown below with their normal and boosted power:* No Pok\u00e9mon with Iron Fist can learn these moves, however they can be called via Metronome or copying moves like Mimic.",
+    "pokemon": [
+      "Golurk",
+      "Pancham",
+      "Crabominable",
+      "Golett",
+      "Crabrawler",
+      "Pangoro",
+      "Hitmonchan",
+      "Melmetal"
+    ],
+    "hidden": [
+      "Monferno",
+      "Infernape",
+      "Ledian",
+      "Gurdurr",
+      "Timburr",
+      "Conkeldurr",
+      "Chimchar"
+    ]
+  },
+  "Justified": {
+    "description": "Raises Attack when hit by a Dark-type move.",
+    "gen": "5",
+    "effect":
+        "Justified raises the ability-bearer's Attack by one stage when hit by a damaging Dark-type move.The Attack rises for every hit of the move Beat Up.Stats can be raised to a maximum of +6 stages each.",
+    "pokemon": ["Terrakion", "Virizion", "Keldeo", "Cobalion"],
+    "hidden": ["Arcanine", "Absol", "Lucario", "Growlithe", "Gallade"]
+  },
+  "Keen Eye": {
+    "description": "Prevents other Pok\u00e9mon from lowering accuracy.",
+    "gen": "3",
+    "effect":
+        "Keen Eye prevents the Pok\u00e9mon from losing accuracy, for example from moves like Sand-Attack.If a Pok\u00e9mon with Keen Eye is the leading party Pok\u00e9mon, wild Pok\u00e9mon are 50% less likely to be lower level.",
+    "pokemon": [
+      "Braviary",
+      "Fearow",
+      "Skarmory",
+      "Chatot",
+      "Noctowl",
+      "Furret",
+      "Starly",
+      "Lycanroc",
+      "Wingull",
+      "Pidgey",
+      "Farfetch'd",
+      "Pelipper",
+      "Ducklett",
+      "Sneasel",
+      "Swanna",
+      "Watchog",
+      "Rookidee",
+      "Rufflet",
+      "Pikipek",
+      "Hoothoot",
+      "Rockruff",
+      "Patrat",
+      "Hitmonchan",
+      "Espurr",
+      "Meowstic",
+      "Pidgeotto",
+      "Sentret",
+      "Pidgeot",
+      "Trumbeak",
+      "Corvisquire",
+      "Sableye",
+      "Spearow",
+      "Toucannon"
+    ],
+    "hidden": ["Stunky", "Skuntank", "Skorupi", "Glameow", "Drapion"]
+  },
+  "Klutz": {
+    "description": "The Pok\u00e9mon can't use any held items.",
+    "gen": "4",
+    "effect": "The Pok\u00e9mon can't use any held items.\n",
+    "pokemon": [
+      "Buneary",
+      "Golurk",
+      "Woobat",
+      "Swoobat",
+      "Golett",
+      "Bewear",
+      "Stufful",
+      "Lopunny"
+    ],
+    "hidden": ["Toxel", "Audino"]
+  },
+  "Leaf Guard": {
+    "description": "Prevents problems with status in sunny weather.",
+    "gen": "4",
+    "effect":
+        "Leaf Guard prevents the bearer from succumbing to major status ailments (sleep, burns, poisoning, paralysis or freezing) during sunny weather.It does not prevent minor status ailments such as Confusion or Infatuation, nor does it prevent self-inflicted status conditions such as from using Rest.",
+    "pokemon": [
+      "Zarude",
+      "Bounsweet",
+      "Tsareena",
+      "Tangrowth",
+      "Skiploom",
+      "Hoppip",
+      "Tangela",
+      "Jumpluff",
+      "Fomantis",
+      "Lurantis",
+      "Steenee",
+      "Leafeon",
+      "Swadloon"
+    ],
+    "hidden": [
+      "Bayleef",
+      "Roselia",
+      "Chikorita",
+      "Meganium",
+      "Petilil",
+      "Lilligant",
+      "Budew"
+    ]
+  },
+  "Levitate": {
+    "description": "Gives immunity to Ground type moves.",
+    "gen": "3",
+    "effect":
+        "Levitate causes the Pok\u00e9mon to be raised (like Flying-type Pok\u00e9mon).Raised Pok\u00e9mon are not affected by Ground-type moves, Spikes, Toxic Spikes nor Arena Trap. Full details in glossary.No Pok\u00e9mon have Levitate as a hidden ability.",
+    "pokemon": [
+      "Cryogonal",
+      "Mismagius",
+      "Eelektrik",
+      "Claydol",
+      "Flygon",
+      "Eelektross",
+      "Weezing",
+      "Koffing",
+      "Mesprit",
+      "Solrock",
+      "Chimecho",
+      "Chingling",
+      "Giratina",
+      "Lunatone",
+      "Latios",
+      "Uxie",
+      "Rotom",
+      "Duskull",
+      "Misdreavus",
+      "Cresselia",
+      "Baltoy",
+      "Bronzor",
+      "Tynamo",
+      "Hydreigon",
+      "Vikavolt",
+      "Carnivine",
+      "Bronzong",
+      "Gastly",
+      "Latias",
+      "Azelf",
+      "Haunter",
+      "Vibrava",
+      "Unown"
+    ],
+    "hidden": []
+  },
+  "Libero": {
+    "description": "Changes the Pok\u00e9mon's type to its last used move.",
+    "gen": "8",
+    "effect":
+        "Libero changes the Pok\u00e9mon's type to that of its previously used attack.No Pok\u00e9mon have the ability Libero as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Light Metal": {
+    "description": "Halves the Pok\u00e9mon's weight.",
+    "gen": "5",
+    "effect":
+        "Light Metal halves the Pok\u00e9mon's weight in battle. Decreasing weight affects these moves:",
+    "pokemon": ["Duraludon"],
+    "hidden": ["Registeel", "Metang", "Beldum", "Scizor", "Metagross"]
+  },
+  "Lightning Rod": {
+    "description": "Draws in all Electric-type moves to up Sp. Attack.",
+    "gen": "3",
+    "effect":
+        "Lightning Rod forces all single-target Electric-type moves - used by any other Pok\u00e9mon on the field - to target this Pok\u00e9mon, and with 100% accuracy. This includes the status move Thunder Wave. The ability is most useful in double/triple battles.When hit by the move, it deals no damage to the ability-bearer but raises its Special Attack by one stage. Stats can be raised to a maximum of +6 stages each.Lightning Rod will activate for an Electric-type Hidden Power, but not Electric-type Judgment.The ability is overridden by other Pok\u00e9mon becoming the center of attention from the moves Follow Me or Rage Powder.In Generations 3-4, Lightning Rod did not increase Special Attack nor give immunity to Electric-type attacks. It also did not activate for Hidden Power.In Generations 3-5, this ability's name was formatted as Lightningrod.",
+    "pokemon": [
+      "Cubone",
+      "Rhydon",
+      "Togedemaru",
+      "Zebstrika",
+      "Manectric",
+      "Electrike",
+      "Pincurchin",
+      "Sceptile",
+      "Blitzle",
+      "Rhyperior",
+      "Marowak",
+      "Rhyhorn"
+    ],
+    "hidden": ["Pichu", "Pikachu", "Goldeen", "Raichu", "Seaking", "Plusle"]
+  },
+  "Limber": {
+    "description": "The Pok\u00e9mon is protected from paralysis.",
+    "gen": "3",
+    "effect": "The Pok\u00e9mon is protected from paralysis.\n",
+    "pokemon": [
+      "Stunfisk",
+      "Hawlucha",
+      "Persian",
+      "Hitmonlee",
+      "Liepard",
+      "Grapploct",
+      "Purrloin",
+      "Ditto",
+      "Glameow",
+      "Toxapex",
+      "Clobbopus",
+      "Mareanie"
+    ],
+    "hidden": ["Buneary", "Lopunny"]
+  },
+  "Liquid Ooze": {
+    "description": "Damages attackers using any draining move.",
+    "gen": "3",
+    "effect":
+        "Damages attackers using any draining move.\nNo Pok\u00e9mon have Liquid Ooze as a hidden ability.",
+    "pokemon": ["Tentacruel", "Gulpin", "Tentacool", "Swalot"],
+    "hidden": []
+  },
+  "Liquid Voice": {
+    "description": "All sound-based moves become Water-type moves.",
+    "gen": "7",
+    "effect":
+        "Liquid Voice causes all sound-based moves used by the Pok\u00e9mon to become Water type. Water type Pok\u00e9mon also gain STAB from those moves.It is the signature ability of the Primarina evolution line, though other Pok\u00e9mon may acquire Liquid Voice via certain abilities or moves such as Skill Swap.Attacks shown in bold can be learned by Primarina, though the others can be called via moves such as Metronome.No Pok\u00e9mon have the ability Liquid Voice as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Long Reach": {
+    "description":
+        "The Pok\u00e9mon uses its moves without making contact with the target.",
+    "gen": "7",
+    "effect":
+        "The Pok\u00e9mon uses its moves without making contact with the target.\nNo Pok\u00e9mon have the ability Long Reach as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Magic Bounce": {
+    "description": "Reflects status- changing moves.",
+    "gen": "5",
+    "effect": "Reflects status- changing moves.\n",
+    "pokemon": ["Sableye", "Diancie", "Absol"],
+    "hidden": ["Natu", "Hatterene", "Hattrem", "Hatenna", "Espeon", "Xatu"]
+  },
+  "Magic Guard": {
+    "description": "Protects the Pok\u00e9mon from indirect damage.",
+    "gen": "4",
+    "effect":
+        "Magic Guard protects the Pok\u00e9mon from indirect damage, including:It does not prevent damage from confusion, trapping moves (e.g. Bind) or Struggle.In Generation 4 a Pok\u00e9mon with Magic Guard cannot be poisoned from Toxic Spikes, nor become fully immobile through paralysis (though the Speed drop still occurs).",
+    "pokemon": [
+      "Clefairy",
+      "Reuniclus",
+      "Solosis",
+      "Clefable",
+      "Sigilyph",
+      "Duosion",
+      "Cleffa"
+    ],
+    "hidden": ["Abra", "Kadabra", "Alakazam"]
+  },
+  "Magician": {
+    "description":
+        "The Pok\u00e9mon steals the held item of a Pok\u00e9mon it hits with a move.",
+    "gen": "6",
+    "effect":
+        "The Pok\u00e9mon steals the held item of a Pok\u00e9mon it hits with a move.\n",
+    "pokemon": ["Hoopa"],
+    "hidden": ["Klefki", "Delphox", "Braixen", "Fennekin"]
+  },
+  "Magma Armor": {
+    "description": "Prevents the Pok\u00e9mon from becoming frozen.",
+    "gen": "3",
+    "effect":
+        "Magma Armor prevents the Pok\u00e9mon from becoming frozen, for example from moves like Blizzard.If a Pok\u00e9mon with Magma Armor (or Flame Body) and a Pok\u00e9mon Egg are amongst the party Pok\u00e9mon, the number of steps required to hatch the egg are halved.No Pok\u00e9mon have Magma Armor as a hidden ability.",
+    "pokemon": ["Magcargo", "Camerupt", "Slugma"],
+    "hidden": []
+  },
+  "Magnet Pull": {
+    "description": "Prevents Steel-type Pok\u00e9mon from escaping.",
+    "gen": "3",
+    "effect":
+        "Magnet Pull prevents Steel type Pok\u00e9mon from switching out of battle or fleeing.If a Pok\u00e9mon with Magnet Pull is the leading party Pok\u00e9mon, it is 50% more likely that a wild Pok\u00e9mon encountered will be Steel type.No Pok\u00e9mon have Magnet Pull as a hidden ability.",
+    "pokemon": [
+      "Golem",
+      "Probopass",
+      "Geodude",
+      "Graveler",
+      "Magneton",
+      "Nosepass",
+      "Meltan",
+      "Magnemite",
+      "Magnezone"
+    ],
+    "hidden": []
+  },
+  "Marvel Scale": {
+    "description": "Ups Defense if there is a status problem.",
+    "gen": "3",
+    "effect":
+        "Marvel Scale raises the ability-bearer's Defense by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep).All effects of the status condition remain, e.g. losing HP each turn (poison, burn), speed drop (paralysis) or being unable to attack (paralysis, freeze, sleep).",
+    "pokemon": ["Milotic"],
+    "hidden": ["Dratini", "Dragonair"]
+  },
+  "Mega Launcher": {
+    "description": "Boosts the power of aura and pulse moves.",
+    "gen": "6",
+    "effect":
+        "Mega Launcher increases the power of all aura and pulse moves by 50%. Heal Pulse boosts the HP restored by 50%.The attacks classed as aura and pulse moves are shown below with their normal and boosted power:* No Pok\u00e9mon with Mega Launcher can learn this move.No Pok\u00e9mon have Mega Launcher as a hidden ability.",
+    "pokemon": ["Blastoise", "Clauncher", "Clawitzer"],
+    "hidden": []
+  },
+  "Merciless": {
+    "description":
+        "The Pok\u00e9mon's attacks become critical hits if the target is poisoned.",
+    "gen": "7",
+    "effect":
+        "The Pok\u00e9mon's attacks become critical hits if the target is poisoned.\nNo Pok\u00e9mon have Merciless as a hidden ability.",
+    "pokemon": ["Toxapex", "Mareanie"],
+    "hidden": []
+  },
+  "Mimicry": {
+    "description": "Changes type depending on the terrain.",
+    "gen": "8",
+    "effect":
+        "Changes type depending on the terrain.\nNo Pok\u00e9mon have Mimicry as a hidden ability.",
+    "pokemon": ["Stunfisk"],
+    "hidden": []
+  },
+  "Minus": {
+    "description": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+    "gen": "3",
+    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.\n",
+    "pokemon": ["Klink", "Klang", "Klinklang", "Minun", "Toxtricity"],
+    "hidden": ["Manectric", "Electrike"]
+  },
+  "Mirror Armor": {
+    "description": "Reflects any stat-lowering effects.",
+    "gen": "8",
+    "effect":
+        "Reflects any stat-lowering effects.\nNo Pok\u00e9mon have the ability Mirror Armor as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Misty Surge": {
+    "description":
+        "The Pok\u00e9mon creates a Misty Terrain when it enters a battle.",
+    "gen": "7",
+    "effect":
+        "Misty Surge creates a low-lying mist, like the move Misty Terrain, when the bearer enters battle. It protects all grounded Pok\u00e9mon from status conditions and halves the power of Dragon type attacks.",
+    "pokemon": ["Tapu Fini"],
+    "hidden": ["Weezing"]
+  },
+  "Mold Breaker": {
+    "description": "Moves can be used regardless of Abilities.",
+    "gen": "4",
+    "effect":
+        "Mold Breaker prevents a target's ability from affecting moves that the Mold Breaker Pok\u00e9mon uses. It only affects abilities that change the power, accuracy or other effects of moves.For example, a Haxorus with Mold Breaker would be able to hit a Bronzong (having Levitate) using a Ground type move like Earthquake. Ground type moves would still not affect Flying types.However, if Dragon Claw KOs a Pok\u00e9mon with Aftermath, a Mold Breaker Pok\u00e9mon would still lose HP as Aftermath did not affect the Dragon Claw attack itself.",
+    "pokemon": [
+      "Fraxure",
+      "Pancham",
+      "Cranidos",
+      "Haxorus",
+      "Gyarados",
+      "Pinsir",
+      "Rampardos",
+      "Axew",
+      "Pangoro",
+      "Ampharos"
+    ],
+    "hidden": [
+      "Drilbur",
+      "Hawlucha",
+      "Excadrill",
+      "Sawk",
+      "Basculegion",
+      "Druddigon",
+      "Throh",
+      "Basculin"
+    ]
+  },
+  "Moody": {
+    "description": "Raises one stat and lowers another.",
+    "gen": "5",
+    "effect":
+        "Raises one stat and lowers another.\nNo Pok\u00e9mon have the ability Moody as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Motor Drive": {
+    "description": "Raises Speed if hit by an Electric-type move.",
+    "gen": "4",
+    "effect": "Raises Speed if hit by an Electric-type move.\n",
+    "pokemon": ["Blitzle", "Zebstrika", "Electivire"],
+    "hidden": ["Emolga"]
+  },
+  "Moxie": {
+    "description": "Boosts Attack after knocking out any Pok\u00e9mon.",
+    "gen": "5",
+    "effect":
+        "Moxie increases the user's Attack one stage upon fainting an opponent.Stats can be raised to a maximum of +6 stages each.",
+    "pokemon": ["Sandile", "Krookodile", "Scraggy", "Scrafty", "Krokorok"],
+    "hidden": [
+      "Mightyena",
+      "Salamence",
+      "Litleo",
+      "Gyarados",
+      "Honchkrow",
+      "Pinsir",
+      "Heracross",
+      "Pyroar"
+    ]
+  },
+  "Multiscale": {
+    "description": "Reduces damage when HP is full.",
+    "gen": "5",
+    "effect":
+        "Reduces damage when HP is full.\nNo Pok\u00e9mon have the ability Multiscale as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Multitype": {
+    "description": "Changes type to match the held Plate.",
+    "gen": "4",
+    "effect":
+        "Multitype changes the ability-bearer's type if it is holding one of the Type Plate items. Moves of the corresponding type receive STAB.The moves Gastro Acid, Role Play, Skill Swap, Worry Seed or the ability Trace do not affect a Pok\u00e9mon with Multitype.The moves Covet, Knock Off, Switcheroo and Thief cannot remove Plates from a Pok\u00e9mon with Multitype, but they can remove any other item.The Plates are:In Generation 4 the moves Covet, Knock Off, Switcheroo and Thief (all of which remove items) do not affect Pok\u00e9mon with Multitype.No Pok\u00e9mon have Multitype as a hidden ability.",
+    "pokemon": ["Arceus"],
+    "hidden": []
+  },
+  "Mummy": {
+    "description": "Contact with this Pok\u00e9mon spreads this Ability.",
+    "gen": "5",
+    "effect":
+        "Contact with this Pok\u00e9mon spreads this Ability.\nNo Pok\u00e9mon have Mummy as a hidden ability.",
+    "pokemon": ["Yamask", "Cofagrigus"],
+    "hidden": []
+  },
+  "Natural Cure": {
+    "description": "All status problems heal when it switches out.",
+    "gen": "3",
+    "effect": "All status problems heal when it switches out.\n",
+    "pokemon": [
+      "Starmie",
+      "Blissey",
+      "Roserade",
+      "Staryu",
+      "Chansey",
+      "Pawmi",
+      "Swablu",
+      "Budew",
+      "Roselia",
+      "Celebi",
+      "Shaymin",
+      "Altaria",
+      "Trevenant",
+      "Happiny",
+      "Corsola",
+      "Phantump"
+    ],
+    "hidden": ["Comfey"]
+  },
+  "Neuroforce": {
+    "description": "Powers up moves that are super effective.",
+    "gen": "7",
+    "effect":
+        "Powers up moves that are super effective.\nNo Pok\u00e9mon have Neuroforce as a hidden ability.",
+    "pokemon": ["Necrozma"],
+    "hidden": []
+  },
+  "Neutralizing Gas": {
+    "description": "Neutralizes abilities of all Pok\u00e9mon in battle.",
+    "gen": "8",
+    "effect":
+        "Neutralizes abilities of all Pok\u00e9mon in battle.\nNo Pok\u00e9mon have Neutralizing Gas as a hidden ability.",
+    "pokemon": ["Weezing", "Koffing"],
+    "hidden": []
+  },
+  "No Guard": {
+    "description": "Ensures attacks by or against the Pok\u00e9mon land.",
+    "gen": "4",
+    "effect":
+        "No Guard ensures that all attacks used by, and targeted at, the ability-bearer hit without fail.This includes moves used on a Pok\u00e9mon in the hidden stages of the moves Fly, Dive, Dig and Shadow Force.If a Pok\u00e9mon with No Guard is the leading party Pok\u00e9mon, wild Pok\u00e9mon are twice as likely to appear.",
+    "pokemon": [
+      "Honedge",
+      "Machoke",
+      "Machamp",
+      "Pidgeot",
+      "Doublade",
+      "Machop"
+    ],
+    "hidden": ["Lycanroc", "Golurk", "Golett", "Karrablast"]
+  },
+  "Normalize": {
+    "description": "All the Pok\u00e9mon's moves become the Normal type.",
+    "gen": "4",
+    "effect":
+        "Normalize causes all moves used by the Pok\u00e9mon to become Normal-type, and attacking moves increase in power by 20%.Normal-type Pok\u00e9mon also gain STAB from those moves (which means an effective increase of 80%).The following moves are not affected by Normalize: Hidden Power, Judgment, Multi-Attack, Natural Gift, Revelation Dance, Struggle, Techno Blast, Weather Ball, and damaging Z-Moves.The move Flying Press deals Normal/Flying type damage instead of Fighting/Flying. Freeze-Dry remains super-effective against Water-types, but follows the Normal type chart against other types (e.g. neutral against Grass-types).In Generations 4-6, Normalize did not increase damage (besides any usual boosts like STAB). All moves listed above except Struggle are affected by Normalize.No Pok\u00e9mon have Normalize as a hidden ability.",
+    "pokemon": ["Skitty", "Delcatty"],
+    "hidden": []
+  },
+  "Oblivious": {
+    "description": "Prevents it from becoming infatuated.",
+    "gen": "3",
+    "effect":
+        "Oblivious makes the Pok\u00e9mon immune to gender-based moves and abilities, specifically Attract, Captivate and Cute Charm.",
+    "pokemon": [
+      "Jynx",
+      "Barboach",
+      "Smoochum",
+      "Piloswine",
+      "Whiscash",
+      "Mamoswine",
+      "Wailord",
+      "Wailmer",
+      "Swinub",
+      "Feebas",
+      "Lickilicky",
+      "Slowking",
+      "Steenee",
+      "Lickitung",
+      "Slowpoke",
+      "Illumise",
+      "Numel",
+      "Slowbro",
+      "Bounsweet"
+    ],
+    "hidden": ["Sealeo", "Walrein", "Salandit", "Salazzle", "Spheal"]
+  },
+  "Overcoat": {
+    "description": "Protects the Pok\u00e9mon from weather damage.",
+    "gen": "5",
+    "effect":
+        "Overcoat makes the Pok\u00e9mon immune to residual damage from weather conditions (specifically Hail and Sandstorm).",
+    "pokemon": [
+      "Reuniclus",
+      "Enamorus",
+      "Mandibuzz",
+      "Solosis",
+      "Vullaby",
+      "Sliggoo",
+      "Goodra",
+      "Duosion"
+    ],
+    "hidden": [
+      "Hakamo-o",
+      "Wormadam",
+      "Pineco",
+      "Leavanny",
+      "Shelmet",
+      "Escavalier",
+      "Swadloon",
+      "Sewaddle",
+      "Forretress",
+      "Kommo-o",
+      "Jangmo-o",
+      "Shellder",
+      "Burmy",
+      "Cloyster",
+      "Shelgon"
+    ]
+  },
+  "Overgrow": {
+    "description": "Powers up Grass-type moves in a pinch.",
+    "gen": "3",
+    "effect":
+        "Overgrow increases the power of Grass-type moves by 50% (1.5\u00d7) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).",
+    "pokemon": [
+      "Venusaur",
+      "Turtwig",
+      "Chespin",
+      "Bayleef",
+      "Meganium",
+      "Rillaboom",
+      "Grotle",
+      "Sceptile",
+      "Chesnaught",
+      "Treecko",
+      "Serperior",
+      "Grovyle",
+      "Dartrix",
+      "Servine",
+      "Decidueye",
+      "Torterra",
+      "Snivy",
+      "Thwackey",
+      "Rowlet",
+      "Grookey",
+      "Sprigatito",
+      "Chikorita",
+      "Ivysaur",
+      "Quilladin",
+      "Bulbasaur"
+    ],
+    "hidden": ["Pansage", "Simisage"]
+  },
+  "Own Tempo": {
+    "description": "Prevents the Pok\u00e9mon from becoming confused.",
+    "gen": "3",
+    "effect": "Prevents the Pok\u00e9mon from becoming confused.\n",
+    "pokemon": [
+      "Bergmite",
+      "Purugly",
+      "Glameow",
+      "Avalugg",
+      "Indeedee",
+      "Fidough",
+      "Spoink",
+      "Grumpig",
+      "Spinda",
+      "Petilil",
+      "Lilligant",
+      "Smeargle",
+      "Lickilicky",
+      "Slowking",
+      "Rockruff",
+      "Lickitung",
+      "Mudsdale",
+      "Slowpoke",
+      "Mudbray",
+      "Slowbro"
+    ],
+    "hidden": ["Lombre", "Ludicolo", "Lotad", "Numel", "Espurr"]
+  },
+  "Parental Bond": {
+    "description": "Allows the Pok\u00e9mon to attack twice.",
+    "gen": "6",
+    "effect":
+        "Parental Bond allows the ability-bearer to attack twice. The second attack hits with 25% of the power, so in effect it is equivalent to a 25% boost to all attacks.Parental Bond is the signature ability of Mega Kangaskhan. When the ability is in use, the mother and child each attack.In Generation 6, the second attack of Parental Bond hits with 50% power of the first.No Pok\u00e9mon have Parental Bond as a hidden ability.",
+    "pokemon": ["Kangaskhan"],
+    "hidden": []
+  },
+  "Pastel Veil": {
+    "description":
+        "Prevents the Pok\u00e9mon and its allies from being poisoned.",
+    "gen": "8",
+    "effect":
+        "Pastel Veil prevents the Pok\u00e9mon and its teammates from being poisoned. It also cures teammates of poisoning when it enters the battlefield.No Pok\u00e9mon have Pastel Veil as a hidden ability.",
+    "pokemon": ["Ponyta", "Rapidash"],
+    "hidden": []
+  },
+  "Perish Body": {
+    "description":
+        "When hit by a move that makes direct contact, the Pok\u00e9mon and the attacker will faint after three turns unless they switch out of battle.",
+    "gen": "8",
+    "effect":
+        "When hit by a move that makes direct contact, the Pok\u00e9mon and the attacker will faint after three turns unless they switch out of battle.\nNo Pok\u00e9mon have the ability Perish Body as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Pickpocket": {
+    "description": "Steals an item when hit by another Pok\u00e9mon.",
+    "gen": "5",
+    "effect":
+        "Steals an item when hit by another Pok\u00e9mon.\nNo Pok\u00e9mon have the ability Pickpocket as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Pickup": {
+    "description": "The Pok\u00e9mon may pick up items.",
+    "gen": "3",
+    "effect":
+        "When another Pok\u00e9mon on the field uses a single-use held item, a Pok\u00e9mon with Pickup will obtain the used item (if they are not already holding anything) and it can be used again.Pok\u00e9mon with Pickup will also obtain an item thrown at them with Fling (if they are not already holding anything).In Generations 3-4, Pickup has no effect in battle.When a battle ends, any party Pok\u00e9mon with Pickup has a 10% chance of picking up an item (if they are not already holding an item).Items picked up range from Potions, Great Balls, Ultra Balls and Rare Candies up to Leftovers and some TMs. Better items have a lower chance of being found; furthermore, higher-level Pok\u00e9mon will obtain better items.",
+    "pokemon": [
+      "Pachirisu",
+      "Meowth",
+      "Zigzagoon",
+      "Bunnelby",
+      "Diggersby",
+      "Dedenne",
+      "Aipom",
+      "Pumpkaboo",
+      "Ambipom",
+      "Lillipup",
+      "Linoone",
+      "Phanpy",
+      "Munchlax",
+      "Gourgeist",
+      "Teddiursa"
+    ],
+    "hidden": ["Pikipek", "Trumbeak"]
+  },
+  "Pixilate": {
+    "description": "Turns Normal-type moves into Fairy-type moves.",
+    "gen": "6",
+    "effect":
+        "Pixilate causes all Normal-type attacking moves used by the Pok\u00e9mon to become Fairy-type, and increase in power by 20%.Fairy-type Pok\u00e9mon also gain STAB from those moves (which means an effective increase of 80%).In Generation 6, Pixilate increases affected moves' power by 30%.",
+    "pokemon": ["Altaria", "Gardevoir"],
+    "hidden": ["Sylveon"]
+  },
+  "Plus": {
+    "description": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.",
+    "gen": "3",
+    "effect": "Ups Sp. Atk if another Pok\u00e9mon has Plus or Minus.\n",
+    "pokemon": ["Klink", "Klang", "Klinklang", "Toxtricity", "Plusle"],
+    "hidden": ["Dedenne", "Mareep", "Flaaffy", "Ampharos"]
+  },
+  "Poison Heal": {
+    "description": "Restores HP if the Pok\u00e9mon is poisoned.",
+    "gen": "4",
+    "effect": "Restores HP if the Pok\u00e9mon is poisoned.\n",
+    "pokemon": ["Shroomish", "Breloom"],
+    "hidden": ["Gliscor"]
+  },
+  "Poison Point": {
+    "description": "Contact with the Pok\u00e9mon may poison the attacker.",
+    "gen": "3",
+    "effect":
+        "Contact with the Pok\u00e9mon may poison the attacker.\nNo Pok\u00e9mon have Poison Point as a hidden ability.",
+    "pokemon": [
+      "Roserade",
+      "Wooper",
+      "Nidoking",
+      "Dragalge",
+      "Qwilfish",
+      "Venipede",
+      "Seadra",
+      "Overqwil",
+      "Budew",
+      "Scolipede",
+      "Roselia",
+      "Nidorino",
+      "Whirlipede",
+      "Nidorina",
+      "Nidoran\u2640",
+      "Nidoran\u2642",
+      "Nidoqueen",
+      "Skrelp"
+    ],
+    "hidden": []
+  },
+  "Poison Touch": {
+    "description": "May poison targets when a Pok\u00e9mon makes contact.",
+    "gen": "5",
+    "effect": "May poison targets when a Pok\u00e9mon makes contact.\n",
+    "pokemon": [
+      "Grafaiai",
+      "Dragalge",
+      "Grimer",
+      "Seismitoad",
+      "Muk",
+      "Skrelp"
+    ],
+    "hidden": ["Croagunk", "Grimer", "Toxicroak", "Sneasel", "Sneasler", "Muk"]
+  },
+  "Power Construct": {
+    "description": "Changes form when HP drops below half.",
+    "gen": "7",
+    "effect":
+        "Power Construct is unique to Zygarde. When Zygarde 10% Forme or Zygarde 50% Forme falls below half HP, it changes into Zygarde Complete Forme.As Complete Forme has a higher base HP than the other two Formes, its HP is also restored by the same amount the maximum HP increased.No Pok\u00e9mon have Power Construct as a hidden ability.",
+    "pokemon": ["Zygarde"],
+    "hidden": []
+  },
+  "Power of Alchemy": {
+    "description": "The Pok\u00e9mon copies the Ability of a defeated ally.",
+    "gen": "7",
+    "effect":
+        "The Pok\u00e9mon copies the Ability of a defeated ally.\nNo Pok\u00e9mon have the ability Power of Alchemy as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Power Spot": {
+    "description": "Just being next to the Pok\u00e9mon powers up moves.",
+    "gen": "8",
+    "effect":
+        "Just being next to the Pok\u00e9mon powers up moves.\nNo Pok\u00e9mon have Power Spot as a hidden ability.",
+    "pokemon": ["Stonjourner"],
+    "hidden": []
+  },
+  "Prankster": {
+    "description": "Gives priority to a status move.",
+    "gen": "5",
+    "effect":
+        "Prankster increases the priority of status moves by +1.This means that a slower Pok\u00e9mon with Prankster can use a status move before the opponent uses a regular move. Or if the ability-bearer is faster, it could use a status move before the opponent uses a priority move like Aqua Jet.The move Quick Guard does not block moves whose priority is increased by Prankster (but it does block moves that already have increased priority).",
+    "pokemon": [
+      "Klefki",
+      "Cottonee",
+      "Morgrem",
+      "Banette",
+      "Impidimp",
+      "Tornadus",
+      "Whimsicott",
+      "Thundurus",
+      "Grimmsnarl"
+    ],
+    "hidden": [
+      "Murkrow",
+      "Liepard",
+      "Riolu",
+      "Purrloin",
+      "Illumise",
+      "Volbeat",
+      "Sableye",
+      "Meowstic"
+    ]
+  },
+  "Pressure": {
+    "description": "The Pok\u00e9mon raises the foe's PP usage.",
+    "gen": "3",
+    "effect":
+        "Pressure makes any attack targeted at the ability-bearer - regardless of whether it hits - use 2 PP instead of 1.If a Pok\u00e9mon with Pressure is the leading party Pok\u00e9mon, wild Pok\u00e9mon are 50% more likely to be higher level.",
+    "pokemon": [
+      "Zapdos",
+      "Vespiquen",
+      "Sneasler",
+      "Kyurem",
+      "Lugia",
+      "Palkia",
+      "Dusclops",
+      "Absol",
+      "Dusknoir",
+      "Deoxys",
+      "Raikou",
+      "Giratina",
+      "Moltres",
+      "Spiritomb",
+      "Corviknight",
+      "Ho-oh",
+      "Entei",
+      "Mewtwo",
+      "Eternatus",
+      "Suicune",
+      "Articuno",
+      "Aerodactyl",
+      "Dialga",
+      "Weavile"
+    ],
+    "hidden": ["Wailord", "Wailmer", "Pawniard", "Bisharp"]
+  },
+  "Primordial Sea": {
+    "description": "Makes it rain heavily when the ability activates.",
+    "gen": "6",
+    "effect":
+        "Primordial Sea creates heavy rain when the ability is activated (by Kyogre reverting to its Primal form).Heavy rain has the same effects as regular rain but with some additions:The abilities Cloud Nine or Air Lock are still able to bypass the effects of Primordial Sea, but Mold Breaker is not.No Pok\u00e9mon have Primordial Sea as a hidden ability.",
+    "pokemon": ["Kyogre"],
+    "hidden": []
+  },
+  "Prism Armor": {
+    "description": "Reduces damage from super-effective attacks.",
+    "gen": "7",
+    "effect":
+        "Prism Armor reduces the damage taken from super-effective attacks by 25%. It is not affected by the abilities Mold Breaker, Teravolt, or Turboblaze.For example, a Dark-type move used against a Psychic-type Pok\u00e9mon with Prism Armor would deal 1.5\u00d7 the usual damage instead of 2\u00d7. A double weakness would be reduced from 4\u00d7 to 3\u00d7.No Pok\u00e9mon have Prism Armor as a hidden ability.",
+    "pokemon": ["Necrozma"],
+    "hidden": []
+  },
+  "Propeller Tail": {
+    "description": "Ignores moves and abilities that draw in moves.",
+    "gen": "8",
+    "effect":
+        "Ignores moves and abilities that draw in moves.\nNo Pok\u00e9mon have the ability Propeller Tail as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Protean": {
+    "description": "Changes the Pok\u00e9mon's type to its last used move.",
+    "gen": "6",
+    "effect":
+        "Protean changes the Pok\u00e9mon's type to that of its previously used attack.No Pok\u00e9mon have the ability Protean as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Psychic Surge": {
+    "description":
+        "The Pok\u00e9mon creates a Psychic Terrain when it enters a battle.",
+    "gen": "7",
+    "effect":
+        "Psychic Surge creates a low-lying psychic field, like the move Psychic Terrain, when the Pok\u00e9mon enters battle. It prevents high-priority moves being used and increases the power of Psychic type attacks.",
+    "pokemon": ["Tapu Lele"],
+    "hidden": ["Indeedee"]
+  },
+  "Punk Rock": {
+    "description":
+        "Boosts sound-based moves and halves damage from the same moves.",
+    "gen": "8",
+    "effect":
+        "Boosts sound-based moves and halves damage from the same moves.\nNo Pok\u00e9mon have Punk Rock as a hidden ability.",
+    "pokemon": ["Toxtricity"],
+    "hidden": []
+  },
+  "Pure Power": {
+    "description": "Raises the Pok\u00e9mon's Attack stat.",
+    "gen": "3",
+    "effect":
+        "Raises the Pok\u00e9mon's Attack stat.\nNo Pok\u00e9mon have Pure Power as a hidden ability.",
+    "pokemon": ["Meditite", "Medicham"],
+    "hidden": []
+  },
+  "Queenly Majesty": {
+    "description": "Prevents use of priority moves.",
+    "gen": "7",
+    "effect":
+        "Prevents use of priority moves.\nNo Pok\u00e9mon have Queenly Majesty as a hidden ability.",
+    "pokemon": ["Tsareena"],
+    "hidden": []
+  },
+  "Quick Draw": {
+    "description": "",
+    "gen": "8",
+    "effect": "\nNo Pok\u00e9mon have Quick Draw as a hidden ability.",
+    "pokemon": ["Slowbro"],
+    "hidden": []
+  },
+  "Quick Feet": {
+    "description": "Boosts Speed if there is a status problem.",
+    "gen": "4",
+    "effect":
+        "Quick Feet raises the ability-bearer's Speed by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If paralyzed, the Pok\u00e9mon does not suffer the usual drop in Speed.All other effects of the status condition remain, e.g. losing HP each turn (poison, burn), or being unable to attack (paralysis, freeze, sleep).If a Pok\u00e9mon with Quick Feet is the leading party Pok\u00e9mon, wild Pok\u00e9mon are only half as likely to appear.",
+    "pokemon": ["Mightyena", "Granbull", "Poochyena", "Teddiursa", "Ursaring"],
+    "hidden": ["Zigzagoon", "Shroomish", "Linoone", "Jolteon"]
+  },
+  "Rain Dish": {
+    "description": "The Pok\u00e9mon gradually regains HP in rain.",
+    "gen": "3",
+    "effect":
+        "A Pok\u00e9mon with Rain Dish will recover 1\u204416 of its maximum HP during rain, after each turn.",
+    "pokemon": ["Ludicolo", "Lombre", "Lotad"],
+    "hidden": [
+      "Wingull",
+      "Tentacool",
+      "Tentacruel",
+      "Surskit",
+      "Pelipper",
+      "Blastoise",
+      "Morelull",
+      "Squirtle",
+      "Wartortle",
+      "Shiinotic"
+    ]
+  },
+  "Rattled": {
+    "description":
+        "Bug, Ghost or Dark type moves scare it and boost its Speed.",
+    "gen": "5",
+    "effect":
+        "When a Pok\u00e9mon with Rattled is hit by a Bug, Ghost or Dark type move, its Speed is raised one stage (up to the usual maximum of +6 stages).",
+    "pokemon": ["Basculegion", "Basculin", "Toxel"],
+    "hidden": [
+      "Granbull",
+      "Persian",
+      "Cubchoo",
+      "Bonsly",
+      "Yamper",
+      "Meowth",
+      "Poochyena",
+      "Ledyba",
+      "Snubbull",
+      "Dunsparce",
+      "Sudowoodo",
+      "Magikarp",
+      "Clamperl",
+      "Whismur"
+    ]
+  },
+  "Receiver": {
+    "description": "Inherits an ally's ability when it faints.",
+    "gen": "7",
+    "effect":
+        "A Pok\u00e9mon with Receiver will inherit the ability of a teammate in a double/triple battle when that teammate faints.Abilities that activate upon entering the field, such as Intimidate, will activate when the Pok\u00e9mon with Receiver inherits it.No Pok\u00e9mon have Receiver as a hidden ability.",
+    "pokemon": ["Passimian"],
+    "hidden": []
+  },
+  "Reckless": {
+    "description": "Powers up moves that have recoil damage.",
+    "gen": "4",
+    "effect":
+        "Reckless increases the power of recoil moves by 20%. By extension this means the amount of recoil damage taken will increase as more more damage is dealt (except for High Jump Kick and Jump Kick which have fixed recoil).The attacks classed as punching moves are shown below with their normal and boosted power:* No Pok\u00e9mon with Reckless can learn these moves.",
+    "pokemon": ["Basculin", "Obstagoon", "Hitmonlee", "Bouffalant"],
+    "hidden": [
+      "Rhydon",
+      "Staravia",
+      "Mienfoo",
+      "Staraptor",
+      "Mienshao",
+      "Emboar",
+      "Rhyperior",
+      "Starly",
+      "Rhyhorn"
+    ]
+  },
+  "Refrigerate": {
+    "description": "Turns Normal-type moves into Ice-type moves.",
+    "gen": "6",
+    "effect":
+        "Refrigerate causes all Normal-type attacking moves used by the Pok\u00e9mon to become Ice-type, and increase in power by 20%.Ice-type Pok\u00e9mon also gain STAB from those moves (which means an effective increase of 80%).In Generation 6, Refrigerate increases affected moves' power by 30%.No Pok\u00e9mon have Refrigerate as a hidden ability.",
+    "pokemon": ["Aurorus", "Glalie", "Amaura"],
+    "hidden": []
+  },
+  "Regenerator": {
+    "description": "Restores a little HP when withdrawn from battle.",
+    "gen": "5",
+    "effect":
+        "A Pok\u00e9mon with Regenerator restores 1\u20443 of its maximum HP when switching out.",
+    "pokemon": [
+      "Gossifleur",
+      "Eldegoss",
+      "Mienfoo",
+      "Mienshao",
+      "Tornadus",
+      "Audino"
+    ],
+    "hidden": [
+      "Slowbro",
+      "Reuniclus",
+      "Amoonguss",
+      "Solosis",
+      "Slowking",
+      "Slowpoke",
+      "Tangrowth",
+      "Duosion",
+      "Alomomola",
+      "Foongus",
+      "Tangela",
+      "Ho-oh",
+      "Toxapex",
+      "Corsola",
+      "Mareanie"
+    ]
+  },
+  "Ripen": {
+    "description": "Doubles the effect of berries.",
+    "gen": "8",
+    "effect":
+        "Doubles the effect of berries.\nNo Pok\u00e9mon have Ripen as a hidden ability.",
+    "pokemon": ["Applin", "Appletun", "Flapple"],
+    "hidden": []
+  },
+  "Rivalry": {
+    "description": "Deals more damage to a Pok\u00e9mon of same gender.",
+    "gen": "4",
+    "effect": "Deals more damage to a Pok\u00e9mon of same gender.\n",
+    "pokemon": [
+      "Luxio",
+      "Fraxure",
+      "Nidoking",
+      "Luxray",
+      "Litleo",
+      "Haxorus",
+      "Pyroar",
+      "Axew",
+      "Nidorino",
+      "Nidorina",
+      "Shinx",
+      "Nidoran\u2640",
+      "Nidoran\u2642",
+      "Nidoqueen"
+    ],
+    "hidden": ["Tranquill", "Unfezant", "Pidove", "Beautifly"]
+  },
+  "RKS System": {
+    "description": "Changes type depending on held item.",
+    "gen": "7",
+    "effect":
+        "Changes type depending on held item.\nNo Pok\u00e9mon have RKS System as a hidden ability.",
+    "pokemon": ["Silvally"],
+    "hidden": []
+  },
+  "Rock Head": {
+    "description": "Protects the Pok\u00e9mon from recoil damage.",
+    "gen": "3",
+    "effect": "Protects the Pok\u00e9mon from recoil damage.\n",
+    "pokemon": [
+      "Bagon",
+      "Graveler",
+      "Aron",
+      "Sudowoodo",
+      "Marowak",
+      "Rhyhorn",
+      "Golem",
+      "Bonsly",
+      "Geodude",
+      "Onix",
+      "Basculin",
+      "Cubone",
+      "Aggron",
+      "Relicanth",
+      "Lairon",
+      "Rhydon",
+      "Aerodactyl",
+      "Steelix",
+      "Shelgon"
+    ],
+    "hidden": ["Tyrantrum", "Marowak"]
+  },
+  "Rough Skin": {
+    "description": "Inflicts damage to the attacker on contact.",
+    "gen": "3",
+    "effect":
+        "When a Pok\u00e9mon with Rough Skin is hit by a move that makes contact, the attacker receives damage equal to 1\u20448 of their maximum HP.Multi-hit moves (e.g. DoubleSlap) activate Rough Skin for each strike.In Generation 3, the damage from Rough Skin is 1\u204416 of the maximum HP.",
+    "pokemon": ["Carvanha", "Sharpedo", "Druddigon"],
+    "hidden": ["Gabite", "Garchomp", "Gible"]
+  },
+  "Run Away": {
+    "description": "Enables a sure getaway from wild Pok\u00e9mon.",
+    "gen": "3",
+    "effect":
+        "Run Away allows the bearer to flee a battle with a wild Pok\u00e9mon without fail, even if the opposing Pok\u00e9mon has used a move like Mean Look or Bind, or has an ability such as Arena Trap.Pok\u00e9mon with Run Away cannot switch out for another Pok\u00e9mon, only flee. It does not allow the Pok\u00e9mon to flee from Trainer battles.",
+    "pokemon": [
+      "Pachirisu",
+      "Doduo",
+      "Poochyena",
+      "Nickit",
+      "Thievul",
+      "Aipom",
+      "Eevee",
+      "Furret",
+      "Wooloo",
+      "Dodrio",
+      "Ponyta",
+      "Buneary",
+      "Snubbull",
+      "Rattata",
+      "Patrat",
+      "Rapidash",
+      "Raticate",
+      "Sentret",
+      "Dunsparce"
+    ],
+    "hidden": [
+      "Oddish",
+      "Weedle",
+      "Caterpie",
+      "Venonat",
+      "Nincada",
+      "Kricketot",
+      "Lillipup",
+      "Wurmple"
+    ]
+  },
+  "Sand Force": {
+    "description": "Boosts certain moves' power in a sandstorm.",
+    "gen": "5",
+    "effect":
+        "Sand Force raises the power of Ground, Rock and Steel type moves by 30% during a sandstorm.It also grants immunity to the sandstorm damage, if not already immune (currently this only applies to Shellos since all other Pok\u00e9mon with the ability are already immune).",
+    "pokemon": ["Drilbur", "Landorus", "Excadrill", "Garchomp", "Steelix"],
+    "hidden": [
+      "Probopass",
+      "Shellos",
+      "Roggenrola",
+      "Boldore",
+      "Dugtrio",
+      "Nosepass",
+      "Diglett",
+      "Hippowdon",
+      "Gigalith",
+      "Gastrodon",
+      "Hippopotas"
+    ]
+  },
+  "Sand Rush": {
+    "description": "Boosts the Pok\u00e9mon's Speed in a sandstorm.",
+    "gen": "5",
+    "effect":
+        "Sand Rush doubles the ability-bearer's Speed during a sandstorm.",
+    "pokemon": ["Drilbur", "Lycanroc", "Excadrill", "Stoutland", "Herdier"],
+    "hidden": ["Dracovish", "Dracozolt", "Sandslash", "Sandshrew"]
+  },
+  "Sand Spit": {
+    "description": "Creates a sandstorm when hit by an attack.",
+    "gen": "8",
+    "effect":
+        "Creates a sandstorm when hit by an attack.\nNo Pok\u00e9mon have Sand Spit as a hidden ability.",
+    "pokemon": ["Silicobra", "Sandaconda"],
+    "hidden": []
+  },
+  "Sand Stream": {
+    "description": "The Pok\u00e9mon summons a sandstorm in battle.",
+    "gen": "3",
+    "effect":
+        "Sand Stream creates a sandstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition.If multiple Pok\u00e9mon with weather-generating abilities (Sand Stream, Drizzle, Drought or Snow Warning) enter the field on the same turn, each weather condition will activate consecutively, fastest Pok\u00e9mon first. In other words, the resultant weather condition will be that of the slowest Pok\u00e9mon.Prior to Generation 6, Sand Stream lasts indefinitely upon activation.No Pok\u00e9mon have Sand Stream as a hidden ability.",
+    "pokemon": ["Tyranitar", "Gigalith", "Hippopotas", "Hippowdon"],
+    "hidden": []
+  },
+  "Sand Veil": {
+    "description": "Boosts the Pok\u00e9mon's evasion in a sandstorm.",
+    "gen": "3",
+    "effect":
+        "Sand Veil raises the ability-bearer's evasion by 20% in a sandstorm. It also gives immunity to sandstorm damage (if they are not already protected by being Ground/Rock/Steel type).If a Pok\u00e9mon with Sand Veil is the leading party Pok\u00e9mon while travelling in a sandstorm, wild Pok\u00e9mon are only half as likely to appear.",
+    "pokemon": [
+      "Gliscor",
+      "Cacturne",
+      "Heliolisk",
+      "Sandslash",
+      "Sandshrew",
+      "Gabite",
+      "Garchomp",
+      "Dugtrio",
+      "Helioptile",
+      "Diglett",
+      "Cacnea",
+      "Gligar",
+      "Gible"
+    ],
+    "hidden": [
+      "Silicobra",
+      "Golem",
+      "Stunfisk",
+      "Geodude",
+      "Larvitar",
+      "Graveler",
+      "Palossand",
+      "Sandaconda",
+      "Sandygast",
+      "Phanpy",
+      "Donphan"
+    ]
+  },
+  "Sap Sipper": {
+    "description": "Boosts Attack when hit by a Grass-type move.",
+    "gen": "5",
+    "effect": "Boosts Attack when hit by a Grass-type move.\n",
+    "pokemon": [
+      "Deerling",
+      "Sawsbuck",
+      "Sliggoo",
+      "Goodra",
+      "Bouffalant",
+      "Drampa",
+      "Skiddo",
+      "Goomy",
+      "Gogoat"
+    ],
+    "hidden": [
+      "Zebstrika",
+      "Azurill",
+      "Miltank",
+      "Stantler",
+      "Girafarig",
+      "Blitzle",
+      "Azumarill",
+      "Marill",
+      "Wyrdeer"
+    ]
+  },
+  "Schooling": {
+    "description": "Changes Wishiwashi to School Form.",
+    "gen": "7",
+    "effect":
+        "Schooling changes Wishiwashi into its School Form, if its HP is above 25% and Wishiwashi is at least level 20. If its HP falls below 25%, Wishiwashi will revert back to Solo Form.Schooling cannot be removed or replaced via moves like Skill Swap or the Mummy ability.No Pok\u00e9mon have Schooling as a hidden ability.",
+    "pokemon": ["Wishiwashi"],
+    "hidden": []
+  },
+  "Scrappy": {
+    "description": "Enables moves to hit Ghost-type Pok\u00e9mon.",
+    "gen": "4",
+    "effect": "Enables moves to hit Ghost-type Pok\u00e9mon.\n",
+    "pokemon": ["Kangaskhan", "Lopunny", "Miltank"],
+    "hidden": [
+      "Exploud",
+      "Loudred",
+      "Pancham",
+      "Taillow",
+      "Stoutland",
+      "Farfetch'd",
+      "Sirfetch'd",
+      "Herdier",
+      "Swellow",
+      "Pangoro"
+    ]
+  },
+  "Screen Cleaner": {
+    "description":
+        "Nullifies effects of Light Screen, Reflect, and Aurora Veil.",
+    "gen": "8",
+    "effect":
+        "Nullifies effects of Light Screen, Reflect, and Aurora Veil.\nNo Pok\u00e9mon have Screen Cleaner as a hidden ability.",
+    "pokemon": ["Mr. Rime", "Mr. Mime"],
+    "hidden": []
+  },
+  "Serene Grace": {
+    "description": "Boosts the likelihood of added effects appearing.",
+    "gen": "3",
+    "effect":
+        "Serene Grace doubles the chance of moves' secondary effects occurring - specifically stat changes, status ailments, or flinching. It also increases the chance of flinching due to the held items King's Rock and Razor Fang from 10% to 20% (however, note that those items do not affect moves that already have a flinch chance).Serene Grace does not affect status moves or the Pok\u00e9mon's critical hit ratio.Shadow Ball normally has a 20% chance of lowering Special Defense; with Serene Grace it is boosted to a 40% chance.Air Slash has a 30% of causing the target to flinch; with Serene Grace it is boosted to a 60% chance. If the item King's Rock is held it does not increase that percentage, but rather if the move does not cause flinching (40% chance), then there is now a further 20% chance the target will flinch from King's Rock. This means Serene Grace with Air Slash and King's Rock gives a total probability of 68% (1 - 0.4*0.8) that the opponent will flinch.In Generations 3-4 Serene Grace does not increase the flinch chance of King's Rock or Razor Fang.In Generations 3-5 Serene Grace does not affect the move Secret Power.",
+    "pokemon": [
+      "Blissey",
+      "Chansey",
+      "Meloetta",
+      "Togepi",
+      "Togekiss",
+      "Dunsparce",
+      "Togetic",
+      "Shaymin",
+      "Happiny",
+      "Jirachi"
+    ],
+    "hidden": ["Deerling", "Sawsbuck"]
+  },
+  "Shadow Shield": {
+    "description": "Reduces damage when HP is full.",
+    "gen": "7",
+    "effect":
+        "Reduces damage when HP is full.\nNo Pok\u00e9mon have Shadow Shield as a hidden ability.",
+    "pokemon": ["Lunala"],
+    "hidden": []
+  },
+  "Shadow Tag": {
+    "description": "Prevents the foe from escaping.",
+    "gen": "3",
+    "effect": "Prevents the foe from escaping.\n",
+    "pokemon": ["Gengar", "Wynaut", "Wobbuffet"],
+    "hidden": ["Gothitelle", "Gothita", "Gothorita"]
+  },
+  "Shed Skin": {
+    "description": "The Pok\u00e9mon may heal its own status problems.",
+    "gen": "3",
+    "effect":
+        "The Pok\u00e9mon may heal its own status problems.\nNo Pok\u00e9mon have Shed Skin as a hidden ability.",
+    "pokemon": [
+      "Burmy",
+      "Cyclizar",
+      "Scraggy",
+      "Scrafty",
+      "Spewpa",
+      "Ekans",
+      "Kricketot",
+      "Silcoon",
+      "Arbok",
+      "Metapod",
+      "Kakuna",
+      "Cascoon",
+      "Karrablast",
+      "Silicobra",
+      "Pupitar",
+      "Seviper",
+      "Dragonair",
+      "Sandaconda",
+      "Dratini"
+    ],
+    "hidden": []
+  },
+  "Sheer Force": {
+    "description": "Removes added effects to increase move damage.",
+    "gen": "5",
+    "effect":
+        "Sheer Force increases the power of moves that have beneficial secondary effects by 30%, but removes those additional effects.Beneficial effects are defined as those that are positive for the user, such as:Non-beneficial effects, that Sheer Force will not activate for, include:If the user is holding a Life Orb and uses an attack that activates Sheer Force, it will not receive the 10% damage from Life Orb, but it gets boosts from both Life Orb and Sheer Force (total of 69% base power increase).Flamethrower normally has a 10% chance to burn the opponent. With Sheer Force, Flamethrower's base power is boosted from 95 to 124, but it will never cause a burn.Note that if a move has an advantageous and disadvantageous side-effect, Sheer Force still boosts the move but only the advantageous effect is removed. For example, Flare Blitz may cause a burn but also has recoil damage. A Pok\u00e9mon with Sheer Force using the move would gain the power increase and still receive recoil damage, but it would never cause a burn.Here are the moves that increase in power under Sheer Force, listed alphabetically:",
+    "pokemon": [
+      "Copperajah",
+      "Kleavor",
+      "Cufant",
+      "Gurdurr",
+      "Camerupt",
+      "Timburr",
+      "Conkeldurr",
+      "Rufflet",
+      "Braviary",
+      "Druddigon",
+      "Darmanitan"
+    ],
+    "hidden": [
+      "Bagon",
+      "Croconaw",
+      "Mawile",
+      "Nidoking",
+      "Feraligatr",
+      "Makuhita",
+      "Cranidos",
+      "Landorus",
+      "Trapinch",
+      "Kingler",
+      "Tauros",
+      "Steelix",
+      "Rampardos",
+      "Hariyama",
+      "Totodile",
+      "Krabby",
+      "Nidoqueen",
+      "Toucannon"
+    ]
+  },
+  "Shell Armor": {
+    "description": "The Pok\u00e9mon is protected against critical hits.",
+    "gen": "3",
+    "effect":
+        "Shell Armor prevents the Pok\u00e9mon from receiving a critical hit.",
+    "pokemon": [
+      "Corphish",
+      "Escavalier",
+      "Crawdaunt",
+      "Krabby",
+      "Shellder",
+      "Cloyster",
+      "Turtonator",
+      "Drednaw",
+      "Chewtle",
+      "Omastar",
+      "Kingler",
+      "Klawf",
+      "Shelmet",
+      "Crustle",
+      "Omanyte",
+      "Clamperl",
+      "Lapras",
+      "Dwebble",
+      "Slowbro"
+    ],
+    "hidden": [
+      "Oshawott",
+      "Dewott",
+      "Turtwig",
+      "Torkoal",
+      "Torterra",
+      "Grotle",
+      "Samurott"
+    ]
+  },
+  "Shield Dust": {
+    "description": "Blocks the added effects of attacks taken.",
+    "gen": "3",
+    "effect":
+        "Blocks the added effects of attacks taken.\nNo Pok\u00e9mon have Shield Dust as a hidden ability.",
+    "pokemon": [
+      "Weedle",
+      "Ribombee",
+      "Dustox",
+      "Caterpie",
+      "Scatterbug",
+      "Snom",
+      "Cutiefly",
+      "Vivillon",
+      "Frosmoth",
+      "Wurmple",
+      "Venomoth"
+    ],
+    "hidden": []
+  },
+  "Shields Down": {
+    "description": "Changes stats when HP drops below half.",
+    "gen": "7",
+    "effect":
+        "Shields Down causes the Pok\u00e9mon to changes its appearance and stats depending on its remaining HP.When the Pok\u00e9mon's HP is over 50%, it has higher defenses and is immune to status conditions. When its HP falls below 50%, the outer shell breaks and the Pok\u00e9mon has higher attack.No Pok\u00e9mon have Shields Down as a hidden ability.",
+    "pokemon": ["Minior"],
+    "hidden": []
+  },
+  "Simple": {
+    "description": "Doubles all stat changes.",
+    "gen": "4",
+    "effect":
+        "The Simple ability doubles the number of stages of all stat changes. Stats can be raised to a maximum of +6 stages each, or lowered to a minimum of -6 stages each.For example, using Swords Dance would increase the Pok\u00e9mon's attack by 4 stages instead of the usual 2. If Tail Whip was targeted at a Pok\u00e9mon with Simple, its Defense would drop 2 stages instead of 1.The move Simple Beam can change a Pok\u00e9mon's ability to Simple.In Generation 4, Simple doubles the effects of stat changes but does not increase the actual number of stages. Stat increases are capped at the same multiplier of \u00d74, as per the table below. However, the resulting effect is exactly the same as current games.",
+    "pokemon": ["Bibarel", "Numel", "Bidoof"],
+    "hidden": ["Woobat", "Swoobat"]
+  },
+  "Skill Link": {
+    "description": "Increases the frequency of multi-strike moves.",
+    "gen": "4",
+    "effect":
+        "Skill Link causes multi-strike moves to always hit their maximum number of times. The moves affected are listed below; note that moves such as Double Kick that always strike the same number of times are not affected.In Generation 4, Triple Kick is not affected by Skill Link.",
+    "pokemon": [
+      "Trumbeak",
+      "Heracross",
+      "Pikipek",
+      "Shellder",
+      "Cloyster",
+      "Toucannon"
+    ],
+    "hidden": ["Aipom", "Minccino", "Cinccino", "Ambipom"]
+  },
+  "Slow Start": {
+    "description": "Temporarily halves Attack and Speed.",
+    "gen": "4",
+    "effect":
+        "Temporarily halves Attack and Speed.\nNo Pok\u00e9mon have Slow Start as a hidden ability.",
+    "pokemon": ["Regigigas"],
+    "hidden": []
+  },
+  "Slush Rush": {
+    "description": "Boosts the Pok\u00e9mon's Speed stat in a hailstorm.",
+    "gen": "7",
+    "effect": "Boosts the Pok\u00e9mon's Speed stat in a hailstorm.\n",
+    "pokemon": ["Cubchoo", "Cetitan", "Beartic"],
+    "hidden": ["Sandslash", "Sandshrew", "Arctozolt", "Arctovish"]
+  },
+  "Sniper": {
+    "description": "Powers up moves if they become critical hits.",
+    "gen": "4",
+    "effect":
+        "Sniper increases the power of critical hits by 1.5\u00d7. This means a critical hit will deal 2.25\u00d7 normal damage instead of 1.5\u00d7.In Generations 1-5 critical hits deal 2\u00d7 normal damage, so Sniper inflicts 3\u00d7 normal damage.",
+    "pokemon": [
+      "Remoraid",
+      "Seadra",
+      "Kingdra",
+      "Octillery",
+      "Skorupi",
+      "Binacle",
+      "Barbaracle",
+      "Horsea",
+      "Drapion"
+    ],
+    "hidden": [
+      "Sobble",
+      "Drizzile",
+      "Spinarak",
+      "Inteleon",
+      "Fearow",
+      "Ariados",
+      "Beedrill",
+      "Spearow"
+    ]
+  },
+  "Snow Cloak": {
+    "description": "Raises evasion in a hailstorm.",
+    "gen": "4",
+    "effect":
+        "Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type).If a Pok\u00e9mon with Snow Cloak is the leading party Pok\u00e9mon while travelling in a hail storm/blizzard, wild Pok\u00e9mon are only half as likely to appear.",
+    "pokemon": [
+      "Cubchoo",
+      "Swinub",
+      "Sandslash",
+      "Sandshrew",
+      "Ninetales",
+      "Piloswine",
+      "Glaceon",
+      "Froslass",
+      "Vanillish",
+      "Vulpix",
+      "Beartic",
+      "Mamoswine",
+      "Vanillite"
+    ],
+    "hidden": ["Articuno"]
+  },
+  "Snow Warning": {
+    "description": "The Pok\u00e9mon summons a hailstorm in battle.",
+    "gen": "4",
+    "effect":
+        "Snow Warning creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition.If multiple Pok\u00e9mon with weather-generating abilities (Snow Warning, Drizzle, Drought or Sand Stream) enter the field on the same turn, each weather condition will activate consecutively, fastest Pok\u00e9mon first. In other words, the resultant weather condition will be that of the slowest Pok\u00e9mon.Prior to Generation 6, Snow Warning lasts indefinitely upon activation.",
+    "pokemon": ["Abomasnow", "Vanilluxe", "Snover"],
+    "hidden": ["Aurorus", "Vulpix", "Ninetales", "Amaura"]
+  },
+  "Solar Power": {
+    "description": "In sunshine, Sp. Atk is boosted but HP decreases.",
+    "gen": "4",
+    "effect":
+        "During harsh sunlight, Solar Power raises the ability-bearer's Special Attack by 50%, but it also loses 1\u20448 of its maximum HP after each turn.",
+    "pokemon": ["Sunkern", "Tropius", "Sunflora", "Houndoom"],
+    "hidden": [
+      "Heliolisk",
+      "Charizard",
+      "Charmander",
+      "Helioptile",
+      "Charmeleon"
+    ]
+  },
+  "Solid Rock": {
+    "description": "Reduces damage from super-effective attacks.",
+    "gen": "4",
+    "effect":
+        "Solid Rock reduces the damage taken from super-effective attacks by 25%.For example, a Water-type move used against a Rock-type Pok\u00e9mon with Solid Rock would deal 1.5\u00d7 the usual damage instead of 2\u00d7. A double weakness would be reduced from 4\u00d7 to 3\u00d7.No Pok\u00e9mon have Solid Rock as a hidden ability.",
+    "pokemon": ["Tirtouga", "Camerupt", "Carracosta", "Rhyperior"],
+    "hidden": []
+  },
+  "Soul-Heart": {
+    "description": "Raises Special Attack when an ally faints.",
+    "gen": "7",
+    "effect":
+        "Soul-Heart raises the bearer's Special Attack one stage when a teammate faints.Stats can be raised to a maximum of +6 stages each.No Pok\u00e9mon have Soul-Heart as a hidden ability.",
+    "pokemon": ["Magearna"],
+    "hidden": []
+  },
+  "Soundproof": {
+    "description": "Gives immunity to sound-based moves.",
+    "gen": "3",
+    "effect":
+        "Soundproof grants the Pok\u00e9mon immunity to all sound-based moves, preventing all damage and effects.In Generation 5 only, Pok\u00e9mon with Soundproof could be cured of status conditions by Heal Bell.",
+    "pokemon": [
+      "Hakamo-o",
+      "Exploud",
+      "Loudred",
+      "Mr. Mime",
+      "Voltorb",
+      "Mime Jr.",
+      "Electrode",
+      "Kommo-o",
+      "Jangmo-o",
+      "Whismur"
+    ],
+    "hidden": ["Bastiodon", "Snover", "Shieldon", "Bouffalant", "Abomasnow"]
+  },
+  "Speed Boost": {
+    "description": "Its Speed stat is gradually boosted.",
+    "gen": "3",
+    "effect": "Its Speed stat is gradually boosted.\n",
+    "pokemon": ["Blaziken", "Yanmega", "Ninjask", "Yanma"],
+    "hidden": [
+      "Combusken",
+      "Blaziken",
+      "Carvanha",
+      "Torchic",
+      "Venipede",
+      "Scolipede",
+      "Whirlipede",
+      "Sharpedo"
+    ]
+  },
+  "Stakeout": {
+    "description": "Deals double damage to Pok\u00e9mon switching in.",
+    "gen": "7",
+    "effect":
+        "Stakeout enables the Pok\u00e9mon to deal twice the normal damage to any Pok\u00e9mon that switches in or enters the field mid-battle.",
+    "pokemon": ["Yungoos", "Gumshoos"],
+    "hidden": ["Nickit", "Thievul"]
+  },
+  "Stall": {
+    "description": "The Pok\u00e9mon moves after all other Pok\u00e9mon do.",
+    "gen": "4",
+    "effect":
+        "The Pok\u00e9mon moves after all other Pok\u00e9mon do.\nNo Pok\u00e9mon have Stall as a hidden ability.",
+    "pokemon": ["Sableye"],
+    "hidden": []
+  },
+  "Stalwart": {
+    "description": "Ignores moves and abilities that draw in moves.",
+    "gen": "8",
+    "effect":
+        "Ignores moves and abilities that draw in moves.\nNo Pok\u00e9mon have the ability Stalwart as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Stamina": {
+    "description": "Raises Defense when attacked.",
+    "gen": "7",
+    "effect":
+        "Stamina raises the bearer's Defense by one stage when it is attacked by any move.Stats can be raised to a maximum of +6 stages each.No Pok\u00e9mon have Stamina as a hidden ability.",
+    "pokemon": ["Mudsdale", "Mudbray"],
+    "hidden": []
+  },
+  "Stance Change": {
+    "description": "Changes form depending on moves used.",
+    "gen": "6",
+    "effect":
+        "Stance Change is exclusive to Aegislash. When using a damage-dealing move, Aegislash switches to its Blade Forme. When using the move King's Shield, Aegislash switches to its Shield Forme.The form change occurs when the appropriate move is selected, regardless of whether the attack goes ahead (e.g. prevented by paralysis).No Pok\u00e9mon have Stance Change as a hidden ability.",
+    "pokemon": ["Aegislash"],
+    "hidden": []
+  },
+  "Static": {
+    "description": "Contact with the Pok\u00e9mon may cause paralysis.",
+    "gen": "3",
+    "effect":
+        "If a Pok\u00e9mon with Static is hit by a move making contact, there is a 30% chance the foe will become paralyzed.If a Pok\u00e9mon with Static is the leading party Pok\u00e9mon, it is 50% more likely that a wild Pok\u00e9mon encountered will be Electric type.",
+    "pokemon": [
+      "Stunfisk",
+      "Pawmi",
+      "Elekid",
+      "Emolga",
+      "Pikachu",
+      "Pichu",
+      "Arctozolt",
+      "Voltorb",
+      "Manectric",
+      "Electrike",
+      "Electabuzz",
+      "Raichu",
+      "Electrode",
+      "Toxel",
+      "Mareep",
+      "Flaaffy",
+      "Ampharos"
+    ],
+    "hidden": ["Zapdos"]
+  },
+  "Steadfast": {
+    "description": "Raises Speed each time the Pok\u00e9mon flinches.",
+    "gen": "4",
+    "effect": "Raises Speed each time the Pok\u00e9mon flinches.\n",
+    "pokemon": [
+      "Farfetch'd",
+      "Lucario",
+      "Sirfetch'd",
+      "Riolu",
+      "Gallade",
+      "Tyrogue",
+      "Dubwool",
+      "Mewtwo"
+    ],
+    "hidden": [
+      "Lycanroc",
+      "Hitmontop",
+      "Machoke",
+      "Machamp",
+      "Kleavor",
+      "Scyther",
+      "Machop",
+      "Rockruff"
+    ]
+  },
+  "Steam Engine": {
+    "description":
+        "Drastically raises Speed when hit by a Fire- or Water-type move.",
+    "gen": "8",
+    "effect":
+        "Steam Engine raises the user's Speed by three stages when it is hit by a Fire- or Water-type attack.Stats can be raised to a maximum of +6 stages each.No Pok\u00e9mon have Steam Engine as a hidden ability.",
+    "pokemon": ["Coalossal", "Rolycoly", "Carkol"],
+    "hidden": []
+  },
+  "Steelworker": {
+    "description": "Powers up Steel-type moves.",
+    "gen": "7",
+    "effect":
+        "Steelworker increases the power of Steel-type moves by 50%.No Pok\u00e9mon have Steelworker as a hidden ability.",
+    "pokemon": ["Dhelmise"],
+    "hidden": []
+  },
+  "Steely Spirit": {
+    "description": "Powers up ally Pok\u00e9mon's Steel-type moves.",
+    "gen": "8",
+    "effect":
+        "Powers up ally Pok\u00e9mon's Steel-type moves.\nNo Pok\u00e9mon have the ability Steely Spirit as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Stench": {
+    "description": "The stench may cause the target to flinch.",
+    "gen": "3",
+    "effect":
+        "A Pok\u00e9mon with Stench has a 10% chance of causing the opponent to flinch when hit by a damaging move (provided the ability-bearer strikes first as usual).Stench does not stack with the items King's Rock or Razor Fang, so an ability-bearer holding either item will keep the flinch chance at 10%.In Generations 3-4, Stench has no effect in battle.If a Pok\u00e9mon with Stench is the leading party Pok\u00e9mon, wild Pok\u00e9mon are only half as likely to appear.",
+    "pokemon": ["Stunky", "Grimer", "Skuntank", "Garbodor", "Trubbish", "Muk"],
+    "hidden": ["Weezing", "Koffing", "Gloom"]
+  },
+  "Sticky Hold": {
+    "description": "Protects the Pok\u00e9mon from item theft.",
+    "gen": "3",
+    "effect":
+        "Sticky Hold prevents held items from being taken or switched.If a Pok\u00e9mon with Sticky Hold is the leading party Pok\u00e9mon, the chance of hooking a Pok\u00e9mon during fishing increases.No Pok\u00e9mon have Sticky Hold as a hidden ability.",
+    "pokemon": [
+      "Grimer",
+      "Shellos",
+      "Accelgor",
+      "Swalot",
+      "Trubbish",
+      "Gulpin",
+      "Muk",
+      "Gastrodon"
+    ],
+    "hidden": []
+  },
+  "Storm Drain": {
+    "description": "Draws in all Water-type moves to up Sp. Attack.",
+    "gen": "4",
+    "effect":
+        "Storm Drain forces all single-target Water-type moves - used by any other Pok\u00e9mon on the field - to target this Pok\u00e9mon, and with 100% accuracy. The ability is most useful in double/triple battles.When hit by the move, it deals no damage to the ability-bearer but raises its Special Attack by one stage. Stats can be raised to a maximum of +6 stages each.Storm Drain will activate for an Water-type Hidden Power, but not Water-type Judgment.The ability is overridden by other Pok\u00e9mon becoming the center of attention from the moves Follow Me or Rage Powder.In Generation 4, Storm Drain did not increase Special Attack nor give immunity to Water-type attacks. It also did not activate for Hidden Power.",
+    "pokemon": ["Lumineon", "Gastrodon", "Finneon", "Shellos"],
+    "hidden": ["Cradily", "Maractus", "Lileep"]
+  },
+  "Strong Jaw": {
+    "description": "Boosts the power of biting moves.",
+    "gen": "6",
+    "effect":
+        "Strong Jaw increases the power of all biting moves by 50%.The attacks classed as biting moves are shown below with their normal and boosted power:No Pok\u00e9mon have Strong Jaw as a hidden ability.",
+    "pokemon": [
+      "Dracovish",
+      "Bruxish",
+      "Drednaw",
+      "Chewtle",
+      "Yungoos",
+      "Tyrantrum",
+      "Tyrunt",
+      "Avalugg",
+      "Sharpedo",
+      "Boltund",
+      "Gumshoos"
+    ],
+    "hidden": []
+  },
+  "Sturdy": {
+    "description": "It cannot be knocked out with one hit.",
+    "gen": "3",
+    "effect":
+        "Sturdy allows the Pok\u00e9mon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves (Fissure, Horn Drill, Guillotine or Sheer Cold).If Sturdy activates before the final hit of a multi-hit move (such as Fury Swipes), the subsequent hit will still deal damage and therefore cause the Pok\u00e9mon to faint.Sturdy does not prevent self-inflicted KO moves such as Selfdestruct, Explosion and Final Gambit.",
+    "pokemon": [
+      "Graveler",
+      "Tirtouga",
+      "Aron",
+      "Skarmory",
+      "Sudowoodo",
+      "Cosmoem",
+      "Golem",
+      "Bastiodon",
+      "Bonsly",
+      "Geodude",
+      "Onix",
+      "Probopass",
+      "Gigalith",
+      "Sawk",
+      "Forretress",
+      "Shuckle",
+      "Aggron",
+      "Crustle",
+      "Boldore",
+      "Nosepass",
+      "Lairon",
+      "Carracosta",
+      "Pineco",
+      "Dwebble",
+      "Roggenrola",
+      "Magneton",
+      "Steelix",
+      "Shieldon",
+      "Magnemite",
+      "Donphan",
+      "Magnezone"
+    ],
+    "hidden": [
+      "Bergmite",
+      "Regirock",
+      "Togedemaru",
+      "Relicanth",
+      "Tyrunt",
+      "Avalugg",
+      "Carbink"
+    ]
+  },
+  "Suction Cups": {
+    "description": "Negates all moves that force switching out.",
+    "gen": "3",
+    "effect":
+        "Suction Cups prevents opponents forcing the ability-bearer to switch out or flee via the moves Roar, Whirlwind, Circle Throw, or Dragon Tail, or the item Red Card.If a Pok\u00e9mon with Suction Cups is the leading party Pok\u00e9mon, the chance of hooking a Pok\u00e9mon during fishing increases.No Pok\u00e9mon have Suction Cups as a hidden ability.",
+    "pokemon": ["Cradily", "Octillery", "Lileep", "Inkay", "Malamar"],
+    "hidden": []
+  },
+  "Super Luck": {
+    "description": "Heightens the critical-hit ratios of moves.",
+    "gen": "4",
+    "effect":
+        "Super Luck raises the ability-bearer's critical-hit ratio by one stage (for most moves this increases from a 1\u204416 chance to 1\u20448).",
+    "pokemon": [
+      "Absol",
+      "Murkrow",
+      "Tranquill",
+      "Honchkrow",
+      "Unfezant",
+      "Pidove"
+    ],
+    "hidden": ["Togetic", "Togepi", "Togekiss"]
+  },
+  "Surge Surfer": {
+    "description": "Doubles Speed during Electric Terrain. ",
+    "gen": "7",
+    "effect":
+        "Surge Surfer doubles the bearer's Speed when Electric Terrain is active.No Pok\u00e9mon have Surge Surfer as a hidden ability.",
+    "pokemon": ["Raichu"],
+    "hidden": []
+  },
+  "Swarm": {
+    "description": "Powers up Bug-type moves in a pinch.",
+    "gen": "3",
+    "effect":
+        "Swarm increases the power of Bug-type moves by 50% (1.5\u00d7) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).If a Pok\u00e9mon with Swarm is the leading party Pok\u00e9mon, wild Pok\u00e9mon are twice as likely to appear.",
+    "pokemon": [
+      "Ledyba",
+      "Escavalier",
+      "Scolipede",
+      "Heracross",
+      "Blipbug",
+      "Venipede",
+      "Kleavor",
+      "Spinarak",
+      "Ledian",
+      "Scyther",
+      "Durant",
+      "Whirlipede",
+      "Karrablast",
+      "Scizor",
+      "Ariados",
+      "Grubbin",
+      "Sewaddle",
+      "Leavanny",
+      "Dottler",
+      "Beautifly",
+      "Mothim",
+      "Orbeetle",
+      "Volbeat",
+      "Beedrill",
+      "Kricketune"
+    ],
+    "hidden": ["Joltik", "Volcarona", "Larvesta", "Galvantula"]
+  },
+  "Sweet Veil": {
+    "description": "Prevents the Pok\u00e9mon and allies from falling asleep.",
+    "gen": "6",
+    "effect":
+        "Sweet Veil prevents this Pok\u00e9mon and its allies from falling asleep, for example from moves like Hypnosis.",
+    "pokemon": ["Alcremie", "Slurpuff", "Milcery", "Swirlix"],
+    "hidden": ["Ribombee", "Tsareena", "Cutiefly", "Steenee", "Bounsweet"]
+  },
+  "Swift Swim": {
+    "description": "Boosts the Pok\u00e9mon's Speed in rain.",
+    "gen": "3",
+    "effect": "Swift Swim doubles the ability-bearer's Speed during rain.",
+    "pokemon": [
+      "Luvdisc",
+      "Huntail",
+      "Lumineon",
+      "Kabuto",
+      "Horsea",
+      "Palpitoad",
+      "Overqwil",
+      "Gorebyss",
+      "Mantyke",
+      "Kingdra",
+      "Omastar",
+      "Tympole",
+      "Magikarp",
+      "Seaking",
+      "Mantine",
+      "Feebas",
+      "Relicanth",
+      "Buizel",
+      "Lombre",
+      "Finneon",
+      "Omanyte",
+      "Lotad",
+      "Qwilfish",
+      "Surskit",
+      "Goldeen",
+      "Arrokuda",
+      "Kabutops",
+      "Ludicolo",
+      "Swampert",
+      "Seismitoad",
+      "Barraskewda",
+      "Floatzel"
+    ],
+    "hidden": [
+      "Psyduck",
+      "Drednaw",
+      "Chewtle",
+      "Anorith",
+      "Tirtouga",
+      "Poliwhirl",
+      "Poliwag",
+      "Beartic",
+      "Carracosta",
+      "Armaldo",
+      "Poliwrath",
+      "Golduck"
+    ]
+  },
+  "Symbiosis": {
+    "description": "The Pok\u00e9mon can pass an item to an ally.",
+    "gen": "6",
+    "effect":
+        "The Pok\u00e9mon can pass an item to an ally.\nNo Pok\u00e9mon have the ability Symbiosis as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Synchronize": {
+    "description": "Passes a burn, poison, or paralysis to the foe.",
+    "gen": "3",
+    "effect":
+        "If the opponent causes a burn, paralysis, or poisoning of a Pok\u00e9mon with Synchronize, the opponent receives the status condition too. Self-inflicted status conditions (for example through the use of an item) are not passed on.In Generations 3-4, bad poison is only passed on as regular poison.If a Pok\u00e9mon with Synchronize is the leading party Pok\u00e9mon, there is a 50% chance of each wild Pok\u00e9mon encountered having the same nature.No Pok\u00e9mon have Synchronize as a hidden ability.",
+    "pokemon": [
+      "Munna",
+      "Natu",
+      "Espeon",
+      "Beheeyem",
+      "Alakazam",
+      "Umbreon",
+      "Musharna",
+      "Kirlia",
+      "Abra",
+      "Kadabra",
+      "Ralts",
+      "Indeedee",
+      "Mew",
+      "Elgyem",
+      "Xatu",
+      "Gardevoir"
+    ],
+    "hidden": []
+  },
+  "Tangled Feet": {
+    "description": "Raises evasion if the Pok\u00e9mon is confused.",
+    "gen": "4",
+    "effect": "Raises evasion if the Pok\u00e9mon is confused.\n",
+    "pokemon": [
+      "Pidgeotto",
+      "Pidgey",
+      "Spinda",
+      "Pidgeot",
+      "Mr. Rime",
+      "Chatot"
+    ],
+    "hidden": ["Dodrio", "Doduo"]
+  },
+  "Tangling Hair": {
+    "description":
+        "Contact with the Pok\u00e9mon lowers the attacker's Speed stat.",
+    "gen": "7",
+    "effect":
+        "Contact with the Pok\u00e9mon lowers the attacker's Speed stat.\nNo Pok\u00e9mon have Tangling Hair as a hidden ability.",
+    "pokemon": ["Dugtrio", "Diglett"],
+    "hidden": []
+  },
+  "Technician": {
+    "description": "Powers up the Pok\u00e9mon's weaker moves.",
+    "gen": "4",
+    "effect":
+        "Technician increases the power of moves - that are usually base power 60 or below - by 50%.Moves with variable base power are boosted only when it is 60 or below. For example, if Magnitude hits at level 6 it will be boosted from 50 to 75, but level 7 will stay at 70 base power.Moves like Sonic Boom that deal fixed HP damage are not affected by Technician.",
+    "pokemon": [
+      "Hitmontop",
+      "Persian",
+      "Smeargle",
+      "Meowth",
+      "Cinccino",
+      "Scyther",
+      "Ambipom",
+      "Marshadow",
+      "Scizor",
+      "Minccino"
+    ],
+    "hidden": [
+      "Roserade",
+      "Mr. Mime",
+      "Mime Jr.",
+      "Breloom",
+      "Grapploct",
+      "Toxtricity",
+      "Clobbopus",
+      "Kricketune"
+    ]
+  },
+  "Telepathy": {
+    "description": "Anticipates an ally's attack and dodges it.",
+    "gen": "5",
+    "effect":
+        "Pok\u00e9mon with the Telepathy ability will not take damage from teammates in double and triple battles.This affects moves such as Surf and Earthquake, which normally hit all Pok\u00e9mon on the field apart from the user.",
+    "pokemon": ["Beheeyem", "Elgyem", "Oranguru"],
+    "hidden": [
+      "Tapu Bulu",
+      "Noivern",
+      "Medicham",
+      "Palkia",
+      "Blipbug",
+      "Tapu Koko",
+      "Kirlia",
+      "Tapu Fini",
+      "Giratina",
+      "Gardevoir",
+      "Munna",
+      "Musharna",
+      "Wobbuffet",
+      "Noibat",
+      "Dottler",
+      "Dialga",
+      "Meditite",
+      "Wynaut",
+      "Tapu Lele",
+      "Orbeetle",
+      "Ralts"
+    ]
+  },
+  "Teravolt": {
+    "description": "Moves can be used regardless of Abilities.",
+    "gen": "5",
+    "effect":
+        "Teravolt prevents a target's ability from affecting moves that the Teravolt Pok\u00e9mon uses. It only affects abilities that change the power, accuracy or other effects of moves.For example, Zekrom would be able to hit Bronzong (having Levitate) using a Ground-type move like Earth Power. Ground type moves would still not affect Flying types.However, using Dragon Claw against a Pok\u00e9mon with Aftermath would still receive HP loss as Aftermath did not affect the Dragon Claw attack itself.No Pok\u00e9mon have Teravolt as a hidden ability.",
+    "pokemon": ["Zekrom", "Kyurem"],
+    "hidden": []
+  },
+  "Thick Fat": {
+    "description": "Ups resistance to Fire- and Ice-type moves.",
+    "gen": "3",
+    "effect":
+        "Thick Fat reduces the damage taken from Fire-type and Ice-type moves by 50%.Interestingly, many Pok\u00e9mon possessing this ability already take reduced damage from those types. A Dewgong or Walrein with Thick Fat would take 1\u20448 normal damage when hit by an Ice-type move.",
+    "pokemon": [
+      "Venusaur",
+      "Purugly",
+      "Makuhita",
+      "Spoink",
+      "Grumpig",
+      "Azumarill",
+      "Sealeo",
+      "Walrein",
+      "Azurill",
+      "Munchlax",
+      "Miltank",
+      "Cetitan",
+      "Hariyama",
+      "Spheal",
+      "Snorlax",
+      "Dewgong",
+      "Marill",
+      "Seel"
+    ],
+    "hidden": [
+      "Swinub",
+      "Raticate",
+      "Piloswine",
+      "Pignite",
+      "Appletun",
+      "Mamoswine",
+      "Rattata",
+      "Tepig"
+    ]
+  },
+  "Tinted Lens": {
+    "description": "Powers up \u201cnot very effective\u201d moves.",
+    "gen": "4",
+    "effect": "Powers up \u201cnot very effective\u201d moves.\n",
+    "pokemon": ["Venonat", "Venomoth", "Illumise", "Yanmega"],
+    "hidden": ["Butterfree", "Sigilyph", "Mothim", "Hoothoot", "Noctowl"]
+  },
+  "Torrent": {
+    "description": "Powers up Water-type moves in a pinch.",
+    "gen": "3",
+    "effect":
+        "Torrent increases the power of Water-type moves by 50% (1.5\u00d7) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).",
+    "pokemon": [
+      "Brionne",
+      "Croconaw",
+      "Feraligatr",
+      "Drizzile",
+      "Froakie",
+      "Frogadier",
+      "Greninja",
+      "Sobble",
+      "Oshawott",
+      "Empoleon",
+      "Quaxly",
+      "Prinplup",
+      "Wartortle",
+      "Mudkip",
+      "Primarina",
+      "Marshtomp",
+      "Inteleon",
+      "Totodile",
+      "Piplup",
+      "Popplio",
+      "Swampert",
+      "Squirtle",
+      "Dewott",
+      "Blastoise",
+      "Samurott"
+    ],
+    "hidden": ["Simipour", "Panpour"]
+  },
+  "Tough Claws": {
+    "description": "Boosts the power of contact moves.",
+    "gen": "6",
+    "effect":
+        "Tough Claws increases the power of moves that make contact.Most Physical-category moves are contact moves.No Pok\u00e9mon have Tough Claws as a hidden ability.",
+    "pokemon": [
+      "Lycanroc",
+      "Meowth",
+      "Charizard",
+      "Aerodactyl",
+      "Perrserker",
+      "Binacle",
+      "Barbaracle",
+      "Metagross"
+    ],
+    "hidden": []
+  },
+  "Toxic Boost": {
+    "description": "Powers up physical attacks when poisoned.",
+    "gen": "5",
+    "effect":
+        "Powers up physical attacks when poisoned.\nNo Pok\u00e9mon have the ability Toxic Boost as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  },
+  "Trace": {
+    "description": "The Pok\u00e9mon copies a foe's Ability.",
+    "gen": "3",
+    "effect":
+        "The Pok\u00e9mon copies a foe's Ability.\nNo Pok\u00e9mon have Trace as a hidden ability.",
+    "pokemon": [
+      "Porygon2",
+      "Alakazam",
+      "Kirlia",
+      "Porygon",
+      "Ralts",
+      "Gardevoir"
+    ],
+    "hidden": []
+  },
+  "Transistor": {
+    "description":
+        "Signature ability of Regieleki. Powers up Electric-type moves.",
+    "gen": "8",
+    "effect":
+        "Signature ability of Regieleki. Powers up Electric-type moves.\nNo Pok\u00e9mon have Transistor as a hidden ability.",
+    "pokemon": ["Regieleki"],
+    "hidden": []
+  },
+  "Triage": {
+    "description": "Gives priority to restorative moves.",
+    "gen": "7",
+    "effect":
+        "Triage increases the priority of HP-restoring moves to +3, when used by the ability-bearer.Note: as Comfey is currently the only Pok\u00e9mon with this ability, the only moves affected in practice are Draining Kiss, Floral Healing, Rest, and Synthesis.No Pok\u00e9mon have Triage as a hidden ability.",
+    "pokemon": ["Comfey"],
+    "hidden": []
+  },
+  "Truant": {
+    "description": "Pok\u00e9mon can't attack on consecutive turns.",
+    "gen": "3",
+    "effect":
+        "Truant causes the ability-bearer to only attack every alternate turn. On the even turns, it will say the Pok\u00e9mon is loafing around.If a Pok\u00e9mon with Truant uses a move that requires recharging on the second turn (such as Hyper Beam), it will recharge on the same turn the Pok\u00e9mon loafs around. Moves where the user prepares on the first turn and attacks on the second (such as Solarbeam or Fly) cannot be used.The moves Worry Seed, Entrainment and Simple Beam do not work on Pok\u00e9mon with Truant.Truant can technically be Skill Swapped away, however neither Slakoth, Slaking or Durant learn it.",
+    "pokemon": ["Slakoth", "Slaking"],
+    "hidden": ["Durant"]
+  },
+  "Turboblaze": {
+    "description": "Moves can be used regardless of Abilities.",
+    "gen": "5",
+    "effect":
+        "Turboblaze prevents a target's ability from affecting moves that the Turboblaze Pok\u00e9mon uses. It only affects abilities that change the power, accuracy or other effects of moves.For example, Reshiram would be able to hit Bronzong (having Levitate) using a Ground-type move like Earth Power. Ground type moves would still not affect Flying types.However, using Dragon Claw against a Pok\u00e9mon with Aftermath would still receive HP loss as Aftermath did not affect the Dragon Claw attack itself.No Pok\u00e9mon have Turboblaze as a hidden ability.",
+    "pokemon": ["Reshiram", "Kyurem"],
+    "hidden": []
+  },
+  "Unaware": {
+    "description": "Ignores any stat changes in the Pok\u00e9mon.",
+    "gen": "4",
+    "effect": "Ignores any stat changes in the Pok\u00e9mon.\n",
+    "pokemon": ["Woobat", "Cosmog", "Swoobat", "Bidoof", "Bibarel"],
+    "hidden": ["Clefable", "Wooper", "Pyukumuku", "Quagsire"]
+  },
+  "Unburden": {
+    "description": "Raises Speed if a held item is used.",
+    "gen": "4",
+    "effect": "Raises Speed if a held item is used.\n",
+    "pokemon": [
+      "Hawlucha",
+      "Grafaiai",
+      "Thievul",
+      "Liepard",
+      "Nickit",
+      "Drifloon",
+      "Purrloin",
+      "Drifblim"
+    ],
+    "hidden": [
+      "Slurpuff",
+      "Hitmonlee",
+      "Swirlix",
+      "Treecko",
+      "Accelgor",
+      "Grovyle",
+      "Sceptile"
+    ]
+  },
+  "Unnerve": {
+    "description": "Makes the foe nervous and unable to eat Berries.",
+    "gen": "5",
+    "effect": "Makes the foe nervous and unable to eat Berries.\n",
+    "pokemon": [
+      "Calyrex",
+      "Litleo",
+      "Galvantula",
+      "Joltik",
+      "Corvisquire",
+      "Corviknight",
+      "Pyroar",
+      "Rookidee"
+    ],
+    "hidden": [
+      "Vespiquen",
+      "Persian",
+      "Fraxure",
+      "Meowth",
+      "Arbok",
+      "Aerodactyl",
+      "Tyranitar",
+      "Haxorus",
+      "Bewear",
+      "Houndour",
+      "Masquerain",
+      "Axew",
+      "Ekans",
+      "Ursaluna",
+      "Houndoom",
+      "Mewtwo",
+      "Ursaring"
+    ]
+  },
+  "Unseen Fist": {
+    "description": "Contact moves can strike through Protect/Detect.",
+    "gen": "8",
+    "effect":
+        "Contact moves can strike through Protect/Detect.\nNo Pok\u00e9mon have Unseen Fist as a hidden ability.",
+    "pokemon": ["Urshifu"],
+    "hidden": []
+  },
+  "Victory Star": {
+    "description": "Boosts the accuracy of its allies and itself.",
+    "gen": "5",
+    "effect":
+        "Boosts the accuracy of its allies and itself.\nNo Pok\u00e9mon have Victory Star as a hidden ability.",
+    "pokemon": ["Victini"],
+    "hidden": []
+  },
+  "Vital Spirit": {
+    "description": "Prevents the Pok\u00e9mon from falling asleep.",
+    "gen": "3",
+    "effect":
+        "Vital Spirit prevents the ability-bearer from falling asleep. This means that it also prevents the use of the move Rest.If a Pok\u00e9mon with Vital Spirit is the leading party Pok\u00e9mon, wild Pok\u00e9mon are 50% more likely to be higher level.",
+    "pokemon": [
+      "Lycanroc",
+      "Primeape",
+      "Mankey",
+      "Delibird",
+      "Mr. Mime",
+      "Vigoroth",
+      "Lillipup",
+      "Rockruff"
+    ],
+    "hidden": [
+      "Magmortar",
+      "Magmar",
+      "Magby",
+      "Electabuzz",
+      "Electivire",
+      "Tyrogue",
+      "Elekid"
+    ]
+  },
+  "Volt Absorb": {
+    "description": "Restores HP if hit by an Electric-type move.",
+    "gen": "3",
+    "effect":
+        "A Pok\u00e9mon with Volt Absorb heals 1\u20444 of its maximum HP when hit by an Electric-type attack, including Thunder Wave.In Generation 3, Volt Absorb does not activate for Thunder Wave.",
+    "pokemon": [
+      "Lanturn",
+      "Jolteon",
+      "Dracozolt",
+      "Arctozolt",
+      "Zeraora",
+      "Thundurus",
+      "Chinchou"
+    ],
+    "hidden": ["Minun", "Pachirisu"]
+  },
+  "Wandering Spirit": {
+    "description": "Swaps abilities with opponents on contact.",
+    "gen": "8",
+    "effect":
+        "Swaps abilities with opponents on contact.\nNo Pok\u00e9mon have Wandering Spirit as a hidden ability.",
+    "pokemon": ["Yamask", "Runerigus"],
+    "hidden": []
+  },
+  "Water Absorb": {
+    "description": "Restores HP if hit by a Water-type move.",
+    "gen": "3",
+    "effect":
+        "A Pok\u00e9mon with Water Absorb heals 1\u20444 of its maximum HP when hit by a Water-type attack.",
+    "pokemon": [
+      "Volcanion",
+      "Maractus",
+      "Mantine",
+      "Wooper",
+      "Mantyke",
+      "Frillish",
+      "Dracovish",
+      "Jellicent",
+      "Poliwhirl",
+      "Politoed",
+      "Arctovish",
+      "Poliwag",
+      "Quagsire",
+      "Lapras",
+      "Poliwrath",
+      "Vaporeon"
+    ],
+    "hidden": [
+      "Cacturne",
+      "Lanturn",
+      "Araquanid",
+      "Tympole",
+      "Seismitoad",
+      "Cacnea",
+      "Dewpider",
+      "Palpitoad",
+      "Chinchou"
+    ]
+  },
+  "Water Bubble": {
+    "description":
+        "Halves damage from Fire-type moves, doubles power of Water-type moves used, and prevents burns.",
+    "gen": "7",
+    "effect":
+        "Water Bubble reduces damage taken from Fire-type moves by 50%, and doubles the power of Water-type moves used by the ability-bearer. It also prevents the Pok\u00e9mon from being burned.No Pok\u00e9mon have Water Bubble as a hidden ability.",
+    "pokemon": ["Dewpider", "Araquanid"],
+    "hidden": []
+  },
+  "Water Compaction": {
+    "description": "Sharply raises Defense when hit by a Water-type move.",
+    "gen": "7",
+    "effect":
+        "Water Compaction raises the bearer's Defense by 2 stages when it is hit by a Water-type move.Stats can be raised to a maximum of +6 stages each.No Pok\u00e9mon have Water Compaction as a hidden ability.",
+    "pokemon": ["Palossand", "Sandygast"],
+    "hidden": []
+  },
+  "Water Veil": {
+    "description": "Prevents the Pok\u00e9mon from getting a burn.",
+    "gen": "3",
+    "effect": "Prevents the Pok\u00e9mon from getting a burn.\n",
+    "pokemon": ["Wailord", "Wailmer", "Goldeen", "Seaking"],
+    "hidden": [
+      "Mantine",
+      "Mantyke",
+      "Buizel",
+      "Finneon",
+      "Huntail",
+      "Lumineon",
+      "Floatzel"
+    ]
+  },
+  "Weak Armor": {
+    "description": "Physical attacks lower Defense and raise Speed.",
+    "gen": "5",
+    "effect":
+        "When a Pok\u00e9mon with Weak Armor is hit by a physical move, its Defense drops one stage, but its Speed increases by one stage.Stats can be raised to a maximum of +6 stages each, or lowered to a minimum of -6 stages each.",
+    "pokemon": [
+      "Polteageist",
+      "Roggenrola",
+      "Boldore",
+      "Cursola",
+      "Sinistea",
+      "Garbodor",
+      "Corsola"
+    ],
+    "hidden": [
+      "Mandibuzz",
+      "Onix",
+      "Dwebble",
+      "Magcargo",
+      "Vullaby",
+      "Vanillish",
+      "Omastar",
+      "Crustle",
+      "Kabutops",
+      "Kabuto",
+      "Omanyte",
+      "Skarmory",
+      "Vanilluxe",
+      "Vanillite",
+      "Slugma"
+    ]
+  },
+  "White Smoke": {
+    "description": "Prevents other Pok\u00e9mon from lowering its stats.",
+    "gen": "3",
+    "effect":
+        "Prevents other Pok\u00e9mon from lowering its stats.\nIf a Pok\u00e9mon with White Smoke is the leading party Pok\u00e9mon, wild Pok\u00e9mon are only half as likely to appear.",
+    "pokemon": ["Sizzlipede", "Torkoal", "Centiskorch"],
+    "hidden": ["Heatmor"]
+  },
+  "Wimp Out": {
+    "description": "Switches out when HP drops below half.",
+    "gen": "7",
+    "effect":
+        "Wimp Out causes the bearer to switch out (or flee in a wild battle) when its HP falls below 50%.No Pok\u00e9mon have Wimp Out as a hidden ability.",
+    "pokemon": ["Wimpod"],
+    "hidden": []
+  },
+  "Wonder Guard": {
+    "description": "Only supereffective moves will hit.",
+    "gen": "3",
+    "effect":
+        "Wonder Guard prevents damage from direct attacks unless they are super-effective. Shedinja is the only Pok\u00e9mon to have this ability so this means that only Fire, Flying, Rock, Ghost and Dark moves will have an effect.However, Pok\u00e9mon protected by Wonder Guard are not immune to indirect attacks. Status-category moves still work and all end-of-turn damage will still incur, for example from poisoning, burns, sandstorms or hail. Entry hazards such as Spikes or Stealth Rock will also damage Pok\u00e9mon with Wonder Guard switching in. Attacks that do not take their type in account will also hit, such as Struggle, Beat Up or Future Sight. Since Shedinja only has 1 HP, any of the above damage will result in an instant knockout.No Pok\u00e9mon have Wonder Guard as a hidden ability.",
+    "pokemon": ["Shedinja"],
+    "hidden": []
+  },
+  "Wonder Skin": {
+    "description": "Makes status-changing moves more likely to miss.",
+    "gen": "5",
+    "effect":
+        "Wonder Skin halves the accuracy of all status moves targeted at the ability-bearer.It does not affect self-inflicted status moves like Reflect or Swords Dance, nor does it affect the secondary conditions of attacking moves like Flamethrower.",
+    "pokemon": ["Sigilyph"],
+    "hidden": ["Skitty", "Venomoth", "Bruxish", "Delcatty"]
+  },
+  "Zen Mode": {
+    "description": "Changes form when HP drops below half.",
+    "gen": "5",
+    "effect":
+        "Zen Mode changes the ability-bearer's form to Zen Mode when their health falls below 50%.Currently it only applies to Darmanitan, whose form change makes it Fire/Psychic type and changes its stats around.No Pok\u00e9mon have the ability Zen Mode as a regular ability.",
+    "pokemon": [],
+    "hidden": []
+  }
+}
