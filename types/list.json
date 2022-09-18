@@ -11,7 +11,7 @@
     "totalPokemon": 130,
     "singlePokemon": 71,
     "dualPokemon": 59,
-    "moves": 191,
+    "moves": 191
   },
   {
     "name": "Fire",
@@ -24,7 +24,7 @@
     "totalPokemon": 85,
     "singlePokemon": 34,
     "dualPokemon": 51,
-    "moves": 43,
+    "moves": 43
   },
   {
     "name": "Water",
@@ -38,7 +38,7 @@
     "totalPokemon": 159,
     "singlePokemon": 73,
     "dualPokemon": 86,
-    "moves": 47,
+    "moves": 47
   },
   {
     "name": "Electric",
@@ -52,7 +52,7 @@
     "totalPokemon": 75,
     "singlePokemon": 34,
     "dualPokemon": 41,
-    "moves": 45,
+    "moves": 45
   },
   {
     "name": "Grass",
@@ -66,7 +66,7 @@
     "totalPokemon": 123,
     "singlePokemon": 43,
     "dualPokemon": 80,
-    "moves": 56,
+    "moves": 56
   },
   {
     "name": "Ice",
@@ -79,7 +79,7 @@
     "totalPokemon": 58,
     "singlePokemon": 20,
     "dualPokemon": 38,
-    "moves": 30,
+    "moves": 30
   },
   {
     "name": "Fighting",
@@ -92,7 +92,7 @@
     "totalPokemon": 78,
     "singlePokemon": 29,
     "dualPokemon": 49,
-    "moves": 53,
+    "moves": 53
   },
   {
     "name": "Poison",
@@ -107,7 +107,7 @@
     "totalPokemon": 83,
     "singlePokemon": 16,
     "dualPokemon": 67,
-    "moves": 33,
+    "moves": 33
   },
   {
     "name": "Ground",
@@ -119,7 +119,7 @@
     "totalPokemon": 81,
     "singlePokemon": 17,
     "dualPokemon": 64,
-    "moves": 31,
+    "moves": 31
   },
   {
     "name": "Flying",
@@ -133,7 +133,7 @@
     "totalPokemon": 123,
     "singlePokemon": 4,
     "dualPokemon": 119,
-    "moves": 31,
+    "moves": 31
   },
   {
     "name": "Psychic",
@@ -147,7 +147,7 @@
     "totalPokemon": 123,
     "singlePokemon": 45,
     "dualPokemon": 78,
-    "moves": 75,
+    "moves": 75
   },
   {
     "name": "Bug",
@@ -161,7 +161,7 @@
     "totalPokemon": 93,
     "singlePokemon": 21,
     "dualPokemon": 72,
-    "moves": 32,
+    "moves": 32
   },
   {
     "name": "Rock",
@@ -173,7 +173,7 @@
     "totalPokemon": 79,
     "singlePokemon": 16,
     "dualPokemon": 63,
-    "moves": 24,
+    "moves": 24
   },
   {
     "name": "Ghost",
@@ -187,7 +187,7 @@
     "totalPokemon": 73,
     "singlePokemon": 15,
     "dualPokemon": 58,
-    "moves": 32,
+    "moves": 32
   },
   {
     "name": "Dragon",
@@ -201,7 +201,7 @@
     "totalPokemon": 77,
     "singlePokemon": 13,
     "dualPokemon": 64,
-    "moves": 27,
+    "moves": 27
   },
   {
     "name": "Dark",
@@ -214,7 +214,7 @@
     "totalPokemon": 76,
     "singlePokemon": 14,
     "dualPokemon": 62,
-    "moves": 49,
+    "moves": 49
   },
   {
     "name": "Steel",
@@ -228,7 +228,7 @@
     "totalPokemon": 74,
     "singlePokemon": 11,
     "dualPokemon": 63,
-    "moves": 34,
+    "moves": 34
   },
   {
     "name": "Fairy",
@@ -241,6 +241,6 @@
     "totalPokemon": 65,
     "singlePokemon": 19,
     "dualPokemon": 46,
-    "moves": 32,
+    "moves": 32
   }
 ]
