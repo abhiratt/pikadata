@@ -594,8 +594,18 @@
   },
   "Alakazam": {
     "name": "Alakazam",
+    "subname": "",
     "id": "065",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
+    "types": [
+      "Psychic"
+    ]
+  },
+  "Mega Alakazam": {
+    "name": "Alakazam",
+    "subname": "Mega Alakazam",
+    "id": "065",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065_f2.png",
     "types": [
       "Psychic"
     ]
@@ -1688,6 +1698,7 @@
   },
   "Aipom": {
     "name": "Aipom",
+    "subname": "",
     "id": "190",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/190.png",
     "types": [
