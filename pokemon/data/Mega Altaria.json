@@ -1,19 +1,19 @@
 {
   "name": "Altaria",
-  "subname": "",
+  "subname": "Mega Altaria",
   "id": "334",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/334.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/334_f2.png",
   "types": [
     "Dragon",
-    "Flying"
+    "Fairy"
   ],
   "info": {
-    "description": "Altaria is a Dragon/Flying type Pokémon introduced in Generation 3. It is known as the Humming Pokémon.",
+    "description": "Altaria is a Dragon/Flying type Pokémon introduced in Generation 3. It is known as the Humming Pokémon. Altaria has a Mega Evolution, available from Omega Ruby & Alpha Sapphire onwards.",
     "species": "Humming Pok\u00e9mon",
-    "height": "1.1m",
+    "height": "1.5m",
     "weight": "20.6kg",
     "catchRate": "45",
-    "baseExp": "172",
+    "baseExp": "207",
     "growthRate": "Erratic",
     "eggGroups": [
       "Dragon",
@@ -21,11 +21,9 @@
     ],
     "genders": "0.5",
     "ability": [
-      "Natural Care"
+      "Pixilate"
     ],
-    "hiddenAbility": [
-      "Cloud Nine"
-    ],
+    "hiddenAbility": [],
     "eggCycles": "20 (4,884–5,140 steps)",
     "evYield": "2 Special Defense"
   },
@@ -155,21 +153,21 @@
     },
     "attack": {
       "name": "Attack",
-      "base": 70,
-      "min": 130,
-      "max": 262
+      "base": 110,
+      "min": 202,
+      "max": 350
     },
     "defense": {
       "name": "Defense",
-      "base": 90,
-      "min": 166,
-      "max": 306
+      "base": 110,
+      "min": 202,
+      "max": 350
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 70,
-      "min": 130,
-      "max": 262
+      "base": 110,
+      "min": 202,
+      "max": 350
     },
     "spDefense": {
       "name": "Sp. Defense",
