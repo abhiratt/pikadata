@@ -577,6 +577,7 @@
   },
   "Abra": {
     "name": "Abra",
+    "subname": "",
     "id": "063",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
     "types": [
@@ -1263,6 +1264,7 @@
   },
   "Aerodactyl": {
     "name": "Aerodactyl",
+    "subname": "Aerodactyl",
     "id": "142",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
     "types": [
@@ -1271,7 +1273,8 @@
     ]
   },
   "Mega Aerodactyl": {
-    "name": "Mega Aerodactyl",
+    "name": "Aerodactyl",
+    "subname": "Mega Aerodactyl",
     "id": "142",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142_f2.png",
     "types": [
@@ -2682,6 +2685,7 @@
   },
   "Aggron": {
     "name": "Aggron",
+    "subname": "Aggron",
     "id": "306",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/306.png",
     "types": [
@@ -2690,7 +2694,8 @@
     ]
   },
   "Mega Aggron": {
-    "name": "Mega Aggron",
+    "name": "Aggron",
+    "subname": "Mega Aggron",
     "id": "306",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/306_f2.png",
     "types": [
@@ -3144,6 +3149,7 @@
   },
   "Absol": {
     "name": "Absol",
+    "subname": "",
     "id": "359",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/359.png",
     "types": [
@@ -3151,7 +3157,8 @@
     ]
   },
   "Mega Absol": {
-    "name": "Mega Absol",
+    "name": "Absol",
+    "subname": "Mega Absol",
     "id": "359",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/359_f2.png",
     "types": [
@@ -4013,6 +4020,7 @@
   },
   "Abomasnow": {
     "name": "Abomasnow",
+    "subname": "",
     "id": "460",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/460.png",
     "types": [
@@ -4021,7 +4029,8 @@
     ]
   },
   "Mega Abomasnow": {
-    "name": "Mega Abomasnow",
+    "name": "Abomasnow",
+    "subname": "Mega Abomasnow",
     "id": "460",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/460_f2.png",
     "types": [
@@ -5359,6 +5368,7 @@
   },
   "Accelgor": {
     "name": "Accelgor",
+    "subname": "",
     "id": "617",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/617.png",
     "types": [
@@ -5912,7 +5922,8 @@
     ]
   },
   "Aegislash - Shield Forme": {
-    "name": "Aegislash - Shield Forme",
+    "name": "Aegislash",
+    "subname": "Aegislash - Shield Forme",
     "id": "681",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/681.png",
     "types": [
@@ -5921,7 +5932,8 @@
     ]
   },
   "Aegislash - Blade Forme": {
-    "name": "Aegislash - Blade Forme",
+    "name": "Aegislash",
+    "subname": "Aegislash - Blade Forme",
     "id": "681",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/681_f2.png",
     "types": [
