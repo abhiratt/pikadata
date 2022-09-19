@@ -1,1 +1,141 @@
-{"name": "Alcremie", "id": "869", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/869.png", "types": ["Fairy"], "info": {"description": "", "species": "Cream Pok\u00e9mon", "height": "0.3m", "weight": "0.5kg", "catchRate": "100", "baseExp": "173", "growthRate": "Medium Fast", "eggGroups": ["Fairy", "Amorphous"]}, "evolutions": ["Milcery", "Alcremie"], "moves": {"levelUp": ["Aromatic Mist", "Decorate", "Sweet Kiss", "Sweet Scent", "Tackle", "Draining Kiss", "Aromatherapy", "Attract", "Acid Armor", "Dazzling Gleam", "Recover", "Misty Terrain", "Entrainment"], "egg": ["Decorate", "Baby-Doll Eyes", "Last Resort", "Misty Explosion"], "tutor": ["Baby-Doll Eyes", "Last Resort"], "tm": ["Hyper Beam", "Giga Impact", "Magical Leaf", "Solar Beam", "Light Screen", "Safeguard", "Rest", "Snore", "Protect", "Giga Drain", "Charm", "Attract", "Facade", "Helping Hand", "Imprison", "Fake Tears", "Fling", "Drain Punch", "Wonder Room", "Magic Room", "Round", "Draining Kiss", "Misty Terrain", "Mystical Fire"], "tr": ["Psychic", "Metronome", "Tri Attack", "Substitute", "Psyshock", "Endure", "Sleep Talk", "Encore", "Calm Mind", "Energy Ball", "Stored Power", "Play Rough", "Dazzling Gleam"]}, "stats": {"hp": {"name": "HP", "base": 65, "min": 240, "max": 334}, "attack": {"name": "Attack", "base": 60, "min": 112, "max": 240}, "defense": {"name": "Defense", "base": 75, "min": 139, "max": 273}, "spAttack": {"name": "Sp. Attack", "base": 75, "min": 139, "max": 273}, "spDefense": {"name": "Sp. Defense", "base": 75, "min": 139, "max": 273}, "speed": {"name": "Speed", "base": 65, "min": 240, "max": 334}}}
+{
+  "name": "Alcremie",
+  "subname": "",
+  "id": "869",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/869.png",
+  "types": [
+    "Fairy"
+  ],
+  "info": {
+    "description": "Alcremie is a Fairy type Pokémon introduced in Generation 8. It is known as the Cream Pokémon. Alcremie can produce whipped cream, which becomes richer the happier Alcremie is feeling. Desserts made using this cream are invariably delicious, so many pastry chefs strive to have an Alcremie as their partner.",
+    "species": "Cream Pok\u00e9mon",
+    "height": "0.3m",
+    "weight": "0.5kg",
+    "catchRate": "100",
+    "baseExp": "173",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Fairy",
+      "Amorphous"
+    ],
+    "genders": "0.00",
+    "ability": [
+      "Sweet Veil"
+    ],
+    "hiddenAbility": [
+      "Aroma Veil"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "2 Special Defense"
+  },
+  "evolutions": [
+    "Milcery",
+    "Alcremie"
+  ],
+  "moves": {
+    "levelUp": [
+      "Aromatic Mist",
+      "Decorate",
+      "Sweet Kiss",
+      "Sweet Scent",
+      "Tackle",
+      "Draining Kiss",
+      "Aromatherapy",
+      "Attract",
+      "Acid Armor",
+      "Dazzling Gleam",
+      "Recover",
+      "Misty Terrain",
+      "Entrainment"
+    ],
+    "egg": [
+      "Decorate",
+      "Baby-Doll Eyes",
+      "Last Resort",
+      "Misty Explosion"
+    ],
+    "tutor": [
+      "Baby-Doll Eyes",
+      "Last Resort"
+    ],
+    "tm": [
+      "Hyper Beam",
+      "Giga Impact",
+      "Magical Leaf",
+      "Solar Beam",
+      "Light Screen",
+      "Safeguard",
+      "Rest",
+      "Snore",
+      "Protect",
+      "Giga Drain",
+      "Charm",
+      "Attract",
+      "Facade",
+      "Helping Hand",
+      "Imprison",
+      "Fake Tears",
+      "Fling",
+      "Drain Punch",
+      "Wonder Room",
+      "Magic Room",
+      "Round",
+      "Draining Kiss",
+      "Misty Terrain",
+      "Mystical Fire"
+    ],
+    "tr": [
+      "Psychic",
+      "Metronome",
+      "Tri Attack",
+      "Substitute",
+      "Psyshock",
+      "Endure",
+      "Sleep Talk",
+      "Encore",
+      "Calm Mind",
+      "Energy Ball",
+      "Stored Power",
+      "Play Rough",
+      "Dazzling Gleam"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 65,
+      "min": 240,
+      "max": 334
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 75,
+      "min": 139,
+      "max": 273
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 110,
+      "min": 202,
+      "max": 350
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 121,
+      "min": 222,
+      "max": 375
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 64,
+      "min": 119,
+      "max": 249
+    }
+  }
+}
