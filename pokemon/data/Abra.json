@@ -1,5 +1,6 @@
 {
   "name": "Abra",
+  "subname": "",
   "id": "063",
   "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
   "types": [
@@ -131,21 +132,21 @@
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 15,
-      "min": 31,
-      "max": 141
+      "base": 105,
+      "min": 193,
+      "max": 339
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 15,
-      "min": 31,
-      "max": 141
+      "base": 55,
+      "min": 103,
+      "max": 229
     },
     "speed": {
       "name": "Speed",
-      "base": 25,
-      "min": 160,
-      "max": 254
+      "base": 90,
+      "min": 166,
+      "max": 306
     }
   }
 }
