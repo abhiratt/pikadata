@@ -1,5 +1,6 @@
 {
   "name": "Accelgor",
+  "subname": "",
   "id": "617",
   "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/617.png",
   "types": [
@@ -171,21 +172,21 @@
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 40,
-      "min": 76,
-      "max": 196
+      "base": 100,
+      "min": 184,
+      "max": 328
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 40,
-      "min": 76,
-      "max": 196
+      "base": 60,
+      "min": 112,
+      "max": 1240
     },
     "speed": {
       "name": "Speed",
-      "base": 80,
-      "min": 270,
-      "max": 364
+      "base": 145,
+      "min": 265,
+      "max": 427
     }
   }
 }
