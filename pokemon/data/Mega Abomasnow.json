@@ -9,8 +9,8 @@
   "info": {
     "description": "Abomasnow is a Grass/Ice type Pokémon introduced in Generation 4. It is known as the Frost Tree Pokémon. Abomasnow has a Mega Evolution, available from X & Y onwards.",
     "species": "Frost Tree Pok\u00e9mon",
-    "height": "2.7 m (8′10″)",
-    "weight": "185.0 kg (407.9 lbs)",
+    "height": "2.7 m",
+    "weight": "185.0 kg",
     "catchRate": "60",
     "baseExp": "208",
     "growthRate": "Slow",
