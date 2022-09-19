@@ -1266,8 +1266,17 @@
     "id": "142",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
     "types": [
-      "Flying",
-      "Rock"
+      "Rock",
+      "Flying"
+    ]
+  },
+  "Mega Aerodactyl": {
+    "name": "Mega Aerodactyl",
+    "id": "142",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142_f2.png",
+    "types": [
+      "Rock",
+      "Flying"
     ]
   },
   "Snorlax": {
@@ -2675,6 +2684,15 @@
     "name": "Aggron",
     "id": "306",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/306.png",
+    "types": [
+      "Steel",
+      "Rock"
+    ]
+  },
+  "Mega Aggron": {
+    "name": "Mega Aggron",
+    "id": "306",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/306_f2.png",
     "types": [
       "Steel",
       "Rock"
