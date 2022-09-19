@@ -1,18 +1,18 @@
 {
   "name": "Abomasnow",
   "id": "460",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/460.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/460_f2.png",
   "types": [
     "Ice",
     "Grass"
   ],
   "info": {
-    "description": "Abomasnow is a Grass/Ice type Pokémon introduced in Generation 4. It is known as the Frost Tree Pokémon.",
+    "description": "Abomasnow is a Grass/Ice type Pokémon introduced in Generation 4. It is known as the Frost Tree Pokémon. Abomasnow has a Mega Evolution, available from X & Y onwards.",
     "species": "Frost Tree Pok\u00e9mon",
-    "height": "2.2m",
-    "weight": "135.5kg",
+    "height": "2.7m",
+    "weight": "180.0kg",
     "catchRate": "60",
-    "baseExp": "173",
+    "baseExp": "208",
     "growthRate": "Slow",
     "eggGroups": [
       "Grass",
@@ -20,7 +20,7 @@
     ],
     "genders": "0.5",
     "ability": "Snow Warning",
-    "hiddenAbility": "Soundproof",
+    "hiddenAbility": "",
     "eggCycles": "20 (4,884–5,140 steps)",
     "evYield": "1 Attack, 1 Special Attack"
   },
@@ -140,33 +140,33 @@
     },
     "attack": {
       "name": "Attack",
-      "base": 92,
-      "min": 170,
-      "max": 311
+      "base": 132,
+      "min": 242,
+      "max": 399
     },
     "defense": {
       "name": "Defense",
-      "base": 75,
-      "min": 139,
-      "max": 273
+      "base": 105,
+      "min": 193,
+      "max": 339
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 75,
-      "min": 139,
-      "max": 273
+      "base": 132,
+      "min": 242,
+      "max": 399
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 75,
-      "min": 139,
-      "max": 273
+      "base": 105,
+      "min": 193,
+      "max": 339
     },
     "speed": {
       "name": "Speed",
-      "base": 90,
-      "min": 290,
-      "max": 384
+      "base": 30,
+      "min": 58,
+      "max": 174
     }
   }
 }
