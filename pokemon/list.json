@@ -2943,8 +2943,20 @@
   },
   "Altaria": {
     "name": "Altaria",
+    "subname": "",
     "id": "334",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/334.png",
+    "types": [
+      "Dragon",
+      "Flying",
+      "Fairy"
+    ]
+  },
+  "Mega Altaria": {
+    "name": "Altaria",
+    "subname": "Mega Altaria",
+    "id": "334",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/334_f2.png",
     "types": [
       "Dragon",
       "Flying",
@@ -5188,6 +5200,7 @@
   },
   "Alomomola": {
     "name": "Alomomola",
+    "subname": "",
     "id": "594",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/594.png",
     "types": [
@@ -7564,6 +7577,7 @@
   },
   "Alcremie": {
     "name": "Alcremie",
+    "subname": "",
     "id": "869",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/869.png",
     "types": [
