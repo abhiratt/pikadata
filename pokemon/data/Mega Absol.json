@@ -1,7 +1,8 @@
 {
-  "name": "Mega Absol",
+  "name": "Absol",
+  "subname": "Mega Absol",
   "id": "359",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/359.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/359_f2.png",
   "types": [
     "Dark"
   ],

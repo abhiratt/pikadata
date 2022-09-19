@@ -1,5 +1,6 @@
 {
   "name": "Absol",
+  "subname": "",
   "id": "359",
   "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/359.png",
   "types": [
@@ -178,9 +179,9 @@
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 60,
-      "min": 112,
-      "max": 240
+      "base": 75,
+      "min": 139,
+      "max": 273
     },
     "spDefense": {
       "name": "Sp. Defense",
@@ -190,9 +191,9 @@
     },
     "speed": {
       "name": "Speed",
-      "base": 65,
-      "min": 240,
-      "max": 334
+      "base": 75,
+      "min": 139,
+      "max": 273
     }
   }
 }
