@@ -1,5 +1,6 @@
 {
   "name": "Abomasnow",
+  "subname": "",
   "id": "460",
   "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/460.png",
   "types": [
@@ -156,21 +157,21 @@
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 75,
-      "min": 139,
-      "max": 273
+      "base": 92,
+      "min": 170,
+      "max": 311
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 75,
-      "min": 139,
-      "max": 273
+      "base": 85,
+      "min": 157,
+      "max": 295
     },
     "speed": {
       "name": "Speed",
-      "base": 90,
-      "min": 290,
-      "max": 384
+      "base": 60,
+      "min": 112,
+      "max": 240
     }
   }
 }
