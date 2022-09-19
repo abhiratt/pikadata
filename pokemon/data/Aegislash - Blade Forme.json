@@ -1,5 +1,6 @@
 {
-  "name": "Aegislash - Blade Forme",
+  "name": "Aegislash",
+  "subname": "Aegislash - Blade Forme",
   "id": "681",
   "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/681_f2.png",
   "types": [
@@ -157,9 +158,9 @@
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 140,
-      "min": 256,
-      "max": 416
+      "base": 50,
+      "min": 94,
+      "max": 218
     },
     "spDefense": {
       "name": "Sp. Defense",
@@ -170,8 +171,8 @@
     "speed": {
       "name": "Speed",
       "base": 60,
-      "min": 230,
-      "max": 324
+      "min": 112,
+      "max": 240
     }
   }
 }
