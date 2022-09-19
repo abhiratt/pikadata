@@ -1,1 +1,151 @@
-{"name": "Abra", "id": "063", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png", "types": ["Psychic"], "info": {"description": "", "species": "Psi Pok\u00e9mon", "height": "0.9m", "weight": "19.5kg", "catchRate": "200", "baseExp": "62", "growthRate": "Medium Slow", "eggGroups": ["Human-Like"]}, "evolutions": ["Abra", "Kadabra", "Alakazam"], "moves": {"levelUp": ["Teleport"], "egg": ["Ally Switch", "Confusion", "Encore", "Fire Punch", "Guard Split", "Guard Swap", "Ice Punch", "Knock Off", "Magic Coat", "Power Trick", "Psycho Shift", "Thunder Punch", "Calm Mind", "Charge Beam", "Dazzling Gleam", "Drain Punch", "Energy Ball", "Iron Tail", "Psychic", "Rest", "Shadow Ball", "Swift", "Tri Attack", "Zen Headbutt"], "tutor": [], "tm": ["Focus Punch", "Calm Mind", "Sunny Day", "Taunt", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Dazzling Gleam", "Iron Tail", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Shock Wave", "Torment", "Facade", "Rest", "Attract", "Thief", "Skill Swap", "Energy Ball", "Fling", "Charge Beam", "Endure", "Drain Punch", "Recycle", "Flash", "Thunder Wave", "Psych Up", "Sleep Talk", "Dream Eater", "Grass Knot", "Swagger", "Substitute", "Trick Room", "Fire Punch", "Ice Punch", "Swift", "Thunder Punch", "Tri Attack", "Zen Headbutt"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 25, "min": 160, "max": 254}, "attack": {"name": "Attack", "base": 20, "min": 40, "max": 152}, "defense": {"name": "Defense", "base": 15, "min": 31, "max": 141}, "spAttack": {"name": "Sp. Attack", "base": 15, "min": 31, "max": 141}, "spDefense": {"name": "Sp. Defense", "base": 15, "min": 31, "max": 141}, "speed": {"name": "Speed", "base": 25, "min": 160, "max": 254}}}
+{
+  "name": "Abra",
+  "id": "063",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
+  "types": [
+    "Psychic"
+  ],
+  "info": {
+    "description": "Abra is a Psychic type Pokémon introduced in Generation 1. It is known as the Psi Pokémon.",
+    "species": "Psi Pok\u00e9mon",
+    "height": "0.9m",
+    "weight": "19.5kg",
+    "catchRate": "200",
+    "baseExp": "62",
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+      "Human-Like"
+    ],
+    "genders": "0.75",
+    "ability": [
+      "Synchronize",
+      "Inner Focus"
+    ],
+    "hiddenAbility": [
+      "Magic Guard"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 Special Attack"
+  },
+  "evolutions": [
+    "Abra",
+    "Kadabra",
+    "Alakazam",
+    "Mega Alakazam"
+  ],
+  "moves": {
+    "levelUp": [
+      "Teleport"
+    ],
+    "egg": [
+      "Ally Switch",
+      "Confusion",
+      "Encore",
+      "Fire Punch",
+      "Guard Split",
+      "Guard Swap",
+      "Ice Punch",
+      "Knock Off",
+      "Magic Coat",
+      "Power Trick",
+      "Psycho Shift",
+      "Thunder Punch",
+      "Calm Mind",
+      "Charge Beam",
+      "Dazzling Gleam",
+      "Drain Punch",
+      "Energy Ball",
+      "Iron Tail",
+      "Psychic",
+      "Rest",
+      "Shadow Ball",
+      "Swift",
+      "Tri Attack",
+      "Zen Headbutt"
+    ],
+    "tutor": [],
+    "tm": [
+      "Focus Punch",
+      "Calm Mind",
+      "Sunny Day",
+      "Taunt",
+      "Light Screen",
+      "Protect",
+      "Rain Dance",
+      "Safeguard",
+      "Dazzling Gleam",
+      "Iron Tail",
+      "Psychic",
+      "Shadow Ball",
+      "Double Team",
+      "Reflect",
+      "Shock Wave",
+      "Torment",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Thief",
+      "Skill Swap",
+      "Energy Ball",
+      "Fling",
+      "Charge Beam",
+      "Endure",
+      "Drain Punch",
+      "Recycle",
+      "Flash",
+      "Thunder Wave",
+      "Psych Up",
+      "Sleep Talk",
+      "Dream Eater",
+      "Grass Knot",
+      "Swagger",
+      "Substitute",
+      "Trick Room",
+      "Fire Punch",
+      "Ice Punch",
+      "Swift",
+      "Thunder Punch",
+      "Tri Attack",
+      "Zen Headbutt"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 25,
+      "min": 160,
+      "max": 254
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 20,
+      "min": 40,
+      "max": 152
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 15,
+      "min": 31,
+      "max": 141
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 15,
+      "min": 31,
+      "max": 141
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 15,
+      "min": 31,
+      "max": 141
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 25,
+      "min": 160,
+      "max": 254
+    }
+  }
+}
