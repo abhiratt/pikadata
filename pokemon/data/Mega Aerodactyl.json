@@ -1,30 +1,27 @@
 {
-  "name": "Aerodactyl",
+  "name": "Mega Aerodactyl",
   "id": "142",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142_f2.png",
   "types": [
     "Rock",
     "Flying"
   ],
   "info": {
-    "description": "Aerodactyl is a Rock/Flying type Pokémon introduced in Generation 1. It is known as the Fossil Pokémon.",
+    "description": "Aerodactyl is a Rock/Flying type Pokémon introduced in Generation 1. It is known as the Fossil Pokémon. Aerodactyl has a Mega Evolution, available from X & Y onwards.",
     "species": "Fossil Pok\u00e9mon",
-    "height": "1.8m",
-    "weight": "59.0kg",
+    "height": "2.1m",
+    "weight": "79.0kg",
     "catchRate": "45",
-    "baseExp": "180",
+    "baseExp": "215",
     "growthRate": "Slow",
     "eggGroups": [
       "Flying"
     ],
     "genders": "0.875",
     "ability": [
-      "Rock Head",
-      "Pressure"
+      "Tough Claws"
     ],
-    "hiddenAbility": [
-      "Unnerve"
-    ],
+    "hiddenAbility": [],
     "eggCycles": "35 (8,739–8,995 steps)",
     "evYield": "2 Speed"
   },
@@ -146,33 +143,33 @@
     },
     "attack": {
       "name": "Attack",
-      "base": 105,
-      "min": 193,
-      "max": 339
+      "base": 135,
+      "min": 247,
+      "max": 405
     },
     "defense": {
       "name": "Defense",
-      "base": 65,
-      "min": 121,
-      "max": 251
+      "base": 85,
+      "min": 157,
+      "max": 295
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 65,
-      "min": 121,
-      "max": 251
+      "base": 70,
+      "min": 130,
+      "max": 262
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 65,
-      "min": 121,
-      "max": 251
+      "base": 95,
+      "min": 175,
+      "max": 317
     },
     "speed": {
       "name": "Speed",
-      "base": 80,
-      "min": 270,
-      "max": 364
+      "base": 150,
+      "min": 274,
+      "max": 438
     }
   }
 }
