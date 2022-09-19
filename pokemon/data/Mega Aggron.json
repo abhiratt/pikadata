@@ -1,7 +1,7 @@
 {
-  "name": "Aggron",
+  "name": "Mega Aggron",
   "id": "306",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/306.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/306_f2.png",
   "types": [
     "Steel",
     "Rock"
@@ -9,22 +9,19 @@
   "info": {
     "description": "Aggron is a Steel/Rock type Pokémon introduced in Generation 3. It is known as the Iron Armor Pokémon.",
     "species": "Iron Armor Pok\u00e9mon",
-    "height": "2.1m",
-    "weight": "360.0kg",
+    "height": "2.2m",
+    "weight": "395.0kg",
     "catchRate": "45",
-    "baseExp": "239",
+    "baseExp": "284",
     "growthRate": "Slow",
     "eggGroups": [
       "Monster"
     ],
     "genders": "0.5",
     "ability": [
-      "Sturdy",
-      "Rock Head"
+      "Filter"
     ],
-    "hiddenAbility": [
-      "Heavy Metal"
-    ],
+    "hiddenAbility": [],
     "eggCycles": "35 (8,739–8,995 steps)",
     "evYield": "3 Defense"
   },
@@ -186,15 +183,15 @@
     },
     "attack": {
       "name": "Attack",
-      "base": 110,
-      "min": 202,
-      "max": 350
+      "base": 140,
+      "min": 256,
+      "max": 416
     },
     "defense": {
       "name": "Defense",
-      "base": 180,
-      "min": 328,
-      "max": 504
+      "base": 230,
+      "min": 418,
+      "max": 614
     },
     "spAttack": {
       "name": "Sp. Attack",
@@ -204,9 +201,9 @@
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 60,
-      "min": 112,
-      "max": 240
+      "base": 80,
+      "min": 148,
+      "max": 284
     },
     "speed": {
       "name": "Speed",
