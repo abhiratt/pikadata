@@ -3132,6 +3132,14 @@
       "Dark"
     ]
   },
+  "Mega Absol": {
+    "name": "Mega Absol",
+    "id": "359",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/359_f2.png",
+    "types": [
+      "Dark"
+    ]
+  },
   "Wynaut": {
     "name": "Wynaut",
     "id": "360",
@@ -3989,6 +3997,15 @@
     "name": "Abomasnow",
     "id": "460",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/460.png",
+    "types": [
+      "Ice",
+      "Grass"
+    ]
+  },
+  "Mega Abomasnow": {
+    "name": "Mega Abomasnow",
+    "id": "460",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/460_f2.png",
     "types": [
       "Ice",
       "Grass"
@@ -5876,13 +5893,22 @@
       "Steel"
     ]
   },
-  "Aegislash": {
-    "name": "Aegislash",
+  "Aegislash - Shield Forme": {
+    "name": "Aegislash - Shield Forme",
     "id": "681",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/681.png",
     "types": [
-      "Ghost",
-      "Steel"
+      "Steel",
+      "Ghost"
+    ]
+  },
+  "Aegislash - Blade Forme": {
+    "name": "Aegislash - Blade Forme",
+    "id": "681",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/681_f2.png",
+    "types": [
+      "Steel",
+      "Ghost"
     ]
   },
   "Spritzee": {
