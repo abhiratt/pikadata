@@ -9,8 +9,8 @@
   "info": {
     "description": "Abomasnow is a Grass/Ice type Pokémon introduced in Generation 4. It is known as the Frost Tree Pokémon.",
     "species": "Frost Tree Pok\u00e9mon",
-    "height": "2.2m",
-    "weight": "135.5kg",
+    "height": "2.2 m (7′03″)",
+    "weight": "135.5 kg (298.7 lbs)",
     "catchRate": "60",
     "baseExp": "173",
     "growthRate": "Slow",
@@ -19,8 +19,12 @@
       "Monster"
     ],
     "genders": "0.5",
-    "ability": "Snow Warning",
-    "hiddenAbility": "Soundproof",
+    "ability": [
+      "Snow Warning"
+    ],
+    "hiddenAbility": [
+      "Soundproof"
+    ],
     "eggCycles": "20 (4,884–5,140 steps)",
     "evYield": "1 Attack, 1 Special Attack"
   },
