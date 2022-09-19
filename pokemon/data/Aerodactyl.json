@@ -1,5 +1,6 @@
 {
   "name": "Aerodactyl",
+  "subname": "",
   "id": "142",
   "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
   "types": [
@@ -158,21 +159,21 @@
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 65,
-      "min": 121,
-      "max": 251
+      "base": 60,
+      "min": 112,
+      "max": 240
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 65,
-      "min": 121,
-      "max": 251
+      "base": 75,
+      "min": 139,
+      "max": 273
     },
     "speed": {
       "name": "Speed",
-      "base": 80,
-      "min": 270,
-      "max": 364
+      "base": 130,
+      "min": 238,
+      "max": 394
     }
   }
 }
