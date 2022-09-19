@@ -1620,8 +1620,18 @@
   },
   "Ampharos": {
     "name": "Ampharos",
+    "subname": "",
     "id": "181",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/181.png",
+    "types": [
+      "Electric"
+    ]
+  },
+  "Mega Ampharos": {
+    "name": "Ampharos",
+    "subname": "Mega Ampharos",
+    "id": "181",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/181_f2.png",
     "types": [
       "Electric",
       "Dragon"
@@ -3734,6 +3744,7 @@
   },
   "Ambipom": {
     "name": "Ambipom",
+    "subname": "",
     "id": "424",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/424.png",
     "types": [
@@ -5173,6 +5184,7 @@
   },
   "Amoonguss": {
     "name": "Amoonguss",
+    "subname": "",
     "id": "591",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/591.png",
     "types": [
@@ -6105,11 +6117,12 @@
   },
   "Amaura": {
     "name": "Amaura",
+    "subname": "",
     "id": "698",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/698.png",
     "types": [
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ]
   },
   "Aurorus": {
