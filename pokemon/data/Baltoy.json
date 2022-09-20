@@ -1,1 +1,169 @@
-{"name": "Baltoy", "id": "343", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/343.png", "types": ["Psychic", "Ground"], "info": {"description": "", "species": "Clay Doll Pok\u00e9mon", "height": "0.5m", "weight": "21.5kg", "catchRate": "255", "baseExp": "60", "growthRate": "Medium Fast", "eggGroups": ["Mineral"]}, "evolutions": ["Baltoy", "Claydol"], "moves": {"levelUp": ["Harden", "Mud-Slap", "Rapid Spin", "Confusion", "Rock Tomb", "Power Trick", "Psybeam", "Ancient Power", "Imprison", "Cosmic Power", "Extrasensory", "Earth Power", "Self-Destruct", "Guard Split", "Power Split", "Sandstorm", "Explosion"], "egg": ["Expanding Force", "Scorching Sands"], "tutor": [], "tm": ["Calm Mind", "Sunny Day", "Ice Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Dazzling Gleam", "Solar Beam", "Earthquake", "Dig", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Skill Swap", "Charge Beam", "Endure", "Explosion", "Recycle", "Rock Polish", "Flash", "Gyro Ball", "Stealth Rock", "Psych Up", "Rock Slide", "Sleep Talk", "Bulldoze", "Dream Eater", "Grass Knot", "Swagger", "Substitute", "Trick Room", "Self-Destruct", "Snore", "Imprison", "Sand Tomb", "Power Swap", "Guard Swap", "Wonder Room", "Round", "Hex", "Psychic Terrain", "Eerie Impulse"], "tr": ["Ice Beam", "Earthquake", "Psychic", "Substitute", "Psyshock", "Endure", "Sleep Talk", "Shadow Ball", "Trick", "Skill Swap", "Cosmic Power", "Calm Mind", "Gyro Ball", "Earth Power", "Zen Headbutt", "Stealth Rock", "Grass Knot", "Ally Switch", "Drill Run", "Dazzling Gleam"]}, "stats": {"hp": {"name": "HP", "base": 40, "min": 190, "max": 284}, "attack": {"name": "Attack", "base": 40, "min": 76, "max": 196}, "defense": {"name": "Defense", "base": 55, "min": 103, "max": 229}, "spAttack": {"name": "Sp. Attack", "base": 55, "min": 103, "max": 229}, "spDefense": {"name": "Sp. Defense", "base": 55, "min": 103, "max": 229}, "speed": {"name": "Speed", "base": 40, "min": 190, "max": 284}}}
+{
+  "name": "Baltoy",
+  "subname": "",
+  "id": "343",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/343.png",
+  "types": [
+    "Ground",
+    "Psychic"
+  ],
+  "info": {
+    "description": "Baltoy is a Ground/Psychic type Pokémon introduced in Generation 3. It is known as the Clay Doll Pokémon.",
+    "species": "Clay Doll Pok\u00e9mon",
+    "height": "0.5m",
+    "weight": "21.5kg",
+    "catchRate": "255",
+    "baseExp": "60",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Mineral"
+    ],
+    "genders": "-",
+    "ability": [
+      "Levitate"
+    ],
+    "hiddenAbility": [],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 Special Defense"
+  },
+  "evolutions": [
+    "Baltoy",
+    "Claydol"
+  ],
+  "moves": {
+    "levelUp": [
+      "Harden",
+      "Mud-Slap",
+      "Rapid Spin",
+      "Confusion",
+      "Rock Tomb",
+      "Power Trick",
+      "Psybeam",
+      "Ancient Power",
+      "Imprison",
+      "Cosmic Power",
+      "Extrasensory",
+      "Earth Power",
+      "Self-Destruct",
+      "Guard Split",
+      "Power Split",
+      "Sandstorm",
+      "Explosion"
+    ],
+    "egg": [
+      "Expanding Force",
+      "Scorching Sands"
+    ],
+    "tutor": [],
+    "tm": [
+      "Calm Mind",
+      "Sunny Day",
+      "Ice Beam",
+      "Light Screen",
+      "Protect",
+      "Rain Dance",
+      "Safeguard",
+      "Dazzling Gleam",
+      "Solar Beam",
+      "Earthquake",
+      "Dig",
+      "Psychic",
+      "Shadow Ball",
+      "Double Team",
+      "Reflect",
+      "Sandstorm",
+      "Rock Tomb",
+      "Facade",
+      "Rest",
+      "Skill Swap",
+      "Charge Beam",
+      "Endure",
+      "Explosion",
+      "Recycle",
+      "Rock Polish",
+      "Flash",
+      "Gyro Ball",
+      "Stealth Rock",
+      "Psych Up",
+      "Rock Slide",
+      "Sleep Talk",
+      "Bulldoze",
+      "Dream Eater",
+      "Grass Knot",
+      "Swagger",
+      "Substitute",
+      "Trick Room",
+      "Self-Destruct",
+      "Snore",
+      "Imprison",
+      "Sand Tomb",
+      "Power Swap",
+      "Guard Swap",
+      "Wonder Room",
+      "Round",
+      "Hex",
+      "Psychic Terrain",
+      "Eerie Impulse"
+    ],
+    "tr": [
+      "Ice Beam",
+      "Earthquake",
+      "Psychic",
+      "Substitute",
+      "Psyshock",
+      "Endure",
+      "Sleep Talk",
+      "Shadow Ball",
+      "Trick",
+      "Skill Swap",
+      "Cosmic Power",
+      "Calm Mind",
+      "Gyro Ball",
+      "Earth Power",
+      "Zen Headbutt",
+      "Stealth Rock",
+      "Grass Knot",
+      "Ally Switch",
+      "Drill Run",
+      "Dazzling Gleam"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 40,
+      "min": 190,
+      "max": 284
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 40,
+      "min": 76,
+      "max": 196
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 55,
+      "min": 103,
+      "max": 229
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 40,
+      "min": 76,
+      "max": 196
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 55,
+      "min": 103,
+      "max": 229
+    }
+  }
+}
