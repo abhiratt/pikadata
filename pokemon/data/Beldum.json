@@ -1,1 +1,84 @@
-{"name": "Beldum", "id": "374", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/374.png", "types": ["Psychic", "Steel"], "info": {"description": "", "species": "Iron Ball Pok\u00e9mon", "height": "0.6m", "weight": "95.2kg", "catchRate": "3", "baseExp": "60", "growthRate": "Slow", "eggGroups": ["Mineral"]}, "evolutions": ["Beldum", "Metang", "Metagross"], "moves": {"levelUp": ["Tackle"], "egg": [], "tutor": [], "tm": [], "tr": []}, "stats": {"hp": {"name": "HP", "base": 40, "min": 190, "max": 284}, "attack": {"name": "Attack", "base": 55, "min": 103, "max": 229}, "defense": {"name": "Defense", "base": 80, "min": 148, "max": 284}, "spAttack": {"name": "Sp. Attack", "base": 80, "min": 148, "max": 284}, "spDefense": {"name": "Sp. Defense", "base": 80, "min": 148, "max": 284}, "speed": {"name": "Speed", "base": 40, "min": 190, "max": 284}}}
+{
+  "name": "Beldum",
+  "subname": "",
+  "id": "374",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/374.png",
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "info": {
+    "description": "Beldum is a Steel/Psychic type Pokémon introduced in Generation 3. It is known as the Iron Ball Pokémon.",
+    "species": "Iron Ball Pok\u00e9mon",
+    "height": "0.6m",
+    "weight": "95.2kg",
+    "catchRate": "3",
+    "baseExp": "60",
+    "growthRate": "Slow",
+    "eggGroups": [
+      "Mineral"
+    ],
+    "genders": "-",
+    "ability": [
+      "Clear Body"
+    ],
+    "hiddenAbility": [
+      "Light Metal"
+    ],
+    "eggCycles": "40 (10,024–10,280 steps)",
+    "evYield": "1 Defense"
+  },
+  "evolutions": [
+    "Beldum",
+    "Metang",
+    "Metagross",
+    "Mega Metagross"
+  ],
+  "moves": {
+    "levelUp": [
+      "Tackle"
+    ],
+    "egg": [],
+    "tutor": [],
+    "tm": [],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 40,
+      "min": 190,
+      "max": 284
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 55,
+      "min": 103,
+      "max": 229
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 80,
+      "min": 148,
+      "max": 284
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 35,
+      "min": 67,
+      "max": 185
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    }
+  }
+}
