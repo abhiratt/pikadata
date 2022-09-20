@@ -1,30 +1,27 @@
 {
   "name": "Banette",
-  "subname": "",
+  "subname": "Mega Banette",
   "id": "354",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/354.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/354_f2.png",
   "types": [
     "Ghost"
   ],
   "info": {
-    "description": "Banette is a Ghost type Pokémon introduced in Generation 3. It is known as the Marionette Pokémon.",
+    "description": "Banette is a Ghost type Pokémon introduced in Generation 3. It is known as the Marionette Pokémon. Banette has a Mega Evolution, available from X & Y onwards.",
     "species": "Marionette Pok\u00e9mon",
-    "height": "1.1m",
-    "weight": "12.5kg",
+    "height": "1.2m",
+    "weight": "13kg",
     "catchRate": "45",
-    "baseExp": "159",
+    "baseExp": "194",
     "growthRate": "Fast",
     "eggGroups": [
       "Amorphous"
     ],
     "genders": "0.5",
     "ability": [
-      "Insomnia",
-      "Frisk"
+      "Prankster"
     ],
-    "hiddenAbility": [
-      "Cursed Body"
-    ],
+    "hiddenAbility": [],
     "eggCycles": "25 (6,169–6,425 steps)",
     "evYield": "2 Attack"
   },
@@ -169,33 +166,33 @@
     },
     "attack": {
       "name": "Attack",
-      "base": 115,
-      "min": 211,
-      "max": 361
+      "base": 165,
+      "min": 301,
+      "max": 471
     },
     "defense": {
       "name": "Defense",
-      "base": 65,
-      "min": 121,
-      "max": 251
+      "base": 75,
+      "min": 139,
+      "max": 273
     },
     "spAttack": {
       "name": "Sp. Attack",
+      "base": 93,
+      "min": 171,
+      "max": 313
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
       "base": 83,
       "min": 153,
       "max": 291
     },
-    "spDefense": {
-      "name": "Sp. Defense",
-      "base": 63,
-      "min": 117,
-      "max": 247
-    },
     "speed": {
       "name": "Speed",
-      "base": 65,
-      "min": 121,
-      "max": 251
+      "base": 75,
+      "min": 139,
+      "max": 273
     }
   }
 }
