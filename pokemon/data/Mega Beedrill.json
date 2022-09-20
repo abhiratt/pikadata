@@ -1,30 +1,28 @@
 {
   "name": "Beedrill",
-  "subname": "",
+  "subname": "Mega Beedrill",
   "id": "015",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015_f2.png",
   "types": [
     "Bug",
     "Poison"
   ],
   "info": {
-    "description": "Beedrill is a Bug/Poison type Pokémon introduced in Generation 1. It is known as the Poison Bee Pokémon.",
+    "description": "Beedrill is a Bug/Poison type Pokémon introduced in Generation 1. It is known as the Poison Bee Pokémon. Beedrill has a Mega Evolution, available from Omega Ruby & Alpha Sapphire onwards.",
     "species": "Poison Bee Pok\u00e9mon",
-    "height": "1.0m",
-    "weight": "29.5kg",
+    "height": "1.4m",
+    "weight": "40.5kg",
     "catchRate": "45",
-    "baseExp": "178",
+    "baseExp": "223",
     "growthRate": "Medium Fast",
     "eggGroups": [
       "Bug"
     ],
     "genders": "0.5",
     "ability": [
-      "Swarm"
+      "Adaptability"
     ],
-    "hiddenAbility": [
-      "Sniper"
-    ],
+    "hiddenAbility": [],
     "eggCycles": "15 (3,599–3,855 steps)",
     "evYield": "2 Attack, 1 Special Defense"
   },
@@ -110,9 +108,9 @@
     },
     "attack": {
       "name": "Attack",
-      "base": 90,
-      "min": 166,
-      "max": 306
+      "base": 150,
+      "min": 274,
+      "max": 438
     },
     "defense": {
       "name": "Defense",
@@ -122,9 +120,9 @@
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 45,
-      "min": 85,
-      "max": 207
+      "base": 15,
+      "min": 31,
+      "max": 141
     },
     "spDefense": {
       "name": "Sp. Defense",
@@ -134,9 +132,9 @@
     },
     "speed": {
       "name": "Speed",
-      "base": 75,
-      "min": 139,
-      "max": 273
+      "base": 145,
+      "min": 265,
+      "max": 427
     }
   }
 }
