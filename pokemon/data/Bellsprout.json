@@ -1,1 +1,135 @@
-{"name": "Bellsprout", "id": "069", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png", "types": ["Grass", "Poison"], "info": {"description": "", "species": "Flower Pok\u00e9mon", "height": "0.7m", "weight": "4.0kg", "catchRate": "255", "baseExp": "60", "growthRate": "Medium Slow", "eggGroups": ["Grass"]}, "evolutions": ["Bellsprout", "Weepinbell", "Victreebel"], "moves": {"levelUp": ["Vine Whip", "Growth", "Wrap", "Sleep Powder", "Poison Powder", "Stun Spore", "Acid", "Knock Off", "Sweet Scent", "Gastro Acid", "Razor Leaf", "Poison Jab", "Slam"], "egg": ["Acid Spray", "Belch", "Clear Smog", "Encore", "Ingrain", "Leech Life", "Magical Leaf", "Power Whip", "Strength Sap", "Synthesis", "Tickle", "Weather Ball", "Worry Seed"], "tutor": [], "tm": ["Bullet Seed", "Sunny Day", "Protect", "Giga Drain", "Solar Beam", "Double Team", "Reflect", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Energy Ball", "Endure", "Flash", "Swords Dance", "Sleep Talk", "Poison Jab", "Grass Knot", "Swagger", "Substitute", "Cut", "Headbutt", "Toxic", "Mega Drain"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 50, "min": 210, "max": 304}, "attack": {"name": "Attack", "base": 75, "min": 139, "max": 273}, "defense": {"name": "Defense", "base": 35, "min": 67, "max": 185}, "spAttack": {"name": "Sp. Attack", "base": 35, "min": 67, "max": 185}, "spDefense": {"name": "Sp. Defense", "base": 35, "min": 67, "max": 185}, "speed": {"name": "Speed", "base": 50, "min": 210, "max": 304}}}
+{
+  "name": "Bellsprout",
+  "subname": "",
+  "id": "069",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "info": {
+    "description": "Bellsprout is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Flower Pokémon.",
+    "species": "Flower Pok\u00e9mon",
+    "height": "0.7m",
+    "weight": "4.0kg",
+    "catchRate": "255",
+    "baseExp": "60",
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+      "Grass"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Chlorophyll"
+    ],
+    "hiddenAbility": [
+      "Gluttony"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 Attack"
+  },
+  "evolutions": [
+    "Bellsprout",
+    "Weepinbell",
+    "Victreebel"
+  ],
+  "moves": {
+    "levelUp": [
+      "Vine Whip",
+      "Growth",
+      "Wrap",
+      "Sleep Powder",
+      "Poison Powder",
+      "Stun Spore",
+      "Acid",
+      "Knock Off",
+      "Sweet Scent",
+      "Gastro Acid",
+      "Razor Leaf",
+      "Poison Jab",
+      "Slam"
+    ],
+    "egg": [
+      "Acid Spray",
+      "Belch",
+      "Clear Smog",
+      "Encore",
+      "Ingrain",
+      "Leech Life",
+      "Magical Leaf",
+      "Power Whip",
+      "Strength Sap",
+      "Synthesis",
+      "Tickle",
+      "Weather Ball",
+      "Worry Seed"
+    ],
+    "tutor": [],
+    "tm": [
+      "Bullet Seed",
+      "Sunny Day",
+      "Protect",
+      "Giga Drain",
+      "Solar Beam",
+      "Double Team",
+      "Reflect",
+      "Sludge Bomb",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Thief",
+      "Energy Ball",
+      "Endure",
+      "Flash",
+      "Swords Dance",
+      "Sleep Talk",
+      "Poison Jab",
+      "Grass Knot",
+      "Swagger",
+      "Substitute",
+      "Cut",
+      "Headbutt",
+      "Toxic",
+      "Mega Drain"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 50,
+      "min": 210,
+      "max": 304
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 75,
+      "min": 139,
+      "max": 273
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 35,
+      "min": 67,
+      "max": 185
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 40,
+      "min": 76,
+      "max": 196
+    }
+  }
+}
