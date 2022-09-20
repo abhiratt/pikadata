@@ -1,1 +1,206 @@
-{"name": "Aurorus", "id": "699", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/699.png", "types": ["Ice", "Rock"], "info": {"description": "", "species": "Tundra Pok\u00e9mon", "height": "2.7m", "weight": "225.0kg", "catchRate": "45", "baseExp": "104", "growthRate": "Medium Fast", "eggGroups": ["Monster"]}, "evolutions": ["Amaura", "Aurorus"], "moves": {"levelUp": ["Ancient Power", "Encore", "Growl", "Powder Snow", "Icy Wind", "Round", "Mist", "Aurora Beam", "Thunder Wave", "Nature Power", "Freeze-Dry", "Ice Beam", "Light Screen", "Hail", "Blizzard", "Hyper Beam", "Rock Throw", "Take Down", "Avalanche"], "egg": ["Meteor Beam", "Freeze-Dry", "Barrier", "Discharge", "Haze", "Magnet Rise", "Mirror Coat", "Aqua Tail", "Earth Power", "Hyper Voice", "Icy Wind", "Iron Defense", "Iron Head", "Iron Tail", "Outrage", "Snore", "Stealth Rock", "Water Pulse", "Zen Headbutt", "Flash", "Rock Smash", "Secret Power"], "tutor": ["Barrier", "Discharge", "Haze", "Magnet Rise", "Mirror Coat"], "tm": ["Hyper Beam", "Giga Impact", "Thunder Wave", "Light Screen", "Reflect", "Safeguard", "Rest", "Rock Slide", "Snore", "Protect", "Icy Wind", "Attract", "Sandstorm", "Rain Dance", "Hail", "Facade", "Weather Ball", "Rock Tomb", "Icicle Spear", "Mud Shot", "Rock Blast", "Avalanche", "Round", "Bulldoze", "Calm Mind", "Roar", "Toxic", "Hidden Power", "Ice Beam", "Blizzard", "Frustration", "Thunderbolt", "Thunder", "Earthquake", "Return", "Psychic", "Double Team", "Echoed Voice", "Charge Beam", "Rock Polish", "Stone Edge", "Psych Up", "Frost Breath", "Dragon Tail", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Flash Cannon", "Nature Power", "Dark Pulse", "Confide"], "tr": ["Body Slam", "Ice Beam", "Blizzard", "Thunderbolt", "Thunder", "Earthquake", "Psychic", "Substitute", "Outrage", "Endure", "Sleep Talk", "Encore", "Iron Tail", "Hyper Voice", "Iron Defense", "Calm Mind", "Dark Pulse", "Earth Power", "Zen Headbutt", "Flash Cannon", "Iron Head", "Stone Edge", "Stealth Rock"]}, "stats": {"hp": {"name": "HP", "base": 123, "min": 356, "max": 450}, "attack": {"name": "Attack", "base": 77, "min": 143, "max": 278}, "defense": {"name": "Defense", "base": 72, "min": 134, "max": 267}, "spAttack": {"name": "Sp. Attack", "base": 72, "min": 134, "max": 267}, "spDefense": {"name": "Sp. Defense", "base": 72, "min": 134, "max": 267}, "speed": {"name": "Speed", "base": 123, "min": 356, "max": 450}}}
+{
+  "name": "Aurorus",
+  "subname": "",
+  "id": "699",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/699.png",
+  "types": [
+    "Rock",
+    "Ice"
+  ],
+  "info": {
+    "description": "Aurorus is a Rock/Ice type Pokémon introduced in Generation 6. It is known as the Tundra Pokémon. Aurorus can blast freezing cold air to form a wall of ice to protect itself from attacks.",
+    "species": "Tundra Pok\u00e9mon",
+    "height": "2.7m",
+    "weight": "225.0kg",
+    "catchRate": "45",
+    "baseExp": "104",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Monster"
+    ],
+    "genders": "0.875",
+    "ability": [
+      "Refrigerate"
+    ],
+    "hiddenAbility": [
+      "Snow Warning"
+    ],
+    "eggCycles": "30 (7,454–7,710 steps)",
+    "evYield": "2 HP"
+  },
+  "evolutions": [
+    "Amaura",
+    "Aurorus"
+  ],
+  "moves": {
+    "levelUp": [
+      "Ancient Power",
+      "Encore",
+      "Growl",
+      "Powder Snow",
+      "Icy Wind",
+      "Round",
+      "Mist",
+      "Aurora Beam",
+      "Thunder Wave",
+      "Nature Power",
+      "Freeze-Dry",
+      "Ice Beam",
+      "Light Screen",
+      "Hail",
+      "Blizzard",
+      "Hyper Beam",
+      "Rock Throw",
+      "Take Down",
+      "Avalanche"
+    ],
+    "egg": [
+      "Meteor Beam",
+      "Freeze-Dry",
+      "Barrier",
+      "Discharge",
+      "Haze",
+      "Magnet Rise",
+      "Mirror Coat",
+      "Aqua Tail",
+      "Earth Power",
+      "Hyper Voice",
+      "Icy Wind",
+      "Iron Defense",
+      "Iron Head",
+      "Iron Tail",
+      "Outrage",
+      "Snore",
+      "Stealth Rock",
+      "Water Pulse",
+      "Zen Headbutt",
+      "Flash",
+      "Rock Smash",
+      "Secret Power"
+    ],
+    "tutor": [
+      "Barrier",
+      "Discharge",
+      "Haze",
+      "Magnet Rise",
+      "Mirror Coat"
+    ],
+    "tm": [
+      "Hyper Beam",
+      "Giga Impact",
+      "Thunder Wave",
+      "Light Screen",
+      "Reflect",
+      "Safeguard",
+      "Rest",
+      "Rock Slide",
+      "Snore",
+      "Protect",
+      "Icy Wind",
+      "Attract",
+      "Sandstorm",
+      "Rain Dance",
+      "Hail",
+      "Facade",
+      "Weather Ball",
+      "Rock Tomb",
+      "Icicle Spear",
+      "Mud Shot",
+      "Rock Blast",
+      "Avalanche",
+      "Round",
+      "Bulldoze",
+      "Calm Mind",
+      "Roar",
+      "Toxic",
+      "Hidden Power",
+      "Ice Beam",
+      "Blizzard",
+      "Frustration",
+      "Thunderbolt",
+      "Thunder",
+      "Earthquake",
+      "Return",
+      "Psychic",
+      "Double Team",
+      "Echoed Voice",
+      "Charge Beam",
+      "Rock Polish",
+      "Stone Edge",
+      "Psych Up",
+      "Frost Breath",
+      "Dragon Tail",
+      "Dream Eater",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Flash Cannon",
+      "Nature Power",
+      "Dark Pulse",
+      "Confide"
+    ],
+    "tr": [
+      "Body Slam",
+      "Ice Beam",
+      "Blizzard",
+      "Thunderbolt",
+      "Thunder",
+      "Earthquake",
+      "Psychic",
+      "Substitute",
+      "Outrage",
+      "Endure",
+      "Sleep Talk",
+      "Encore",
+      "Iron Tail",
+      "Hyper Voice",
+      "Iron Defense",
+      "Calm Mind",
+      "Dark Pulse",
+      "Earth Power",
+      "Zen Headbutt",
+      "Flash Cannon",
+      "Iron Head",
+      "Stone Edge",
+      "Stealth Rock"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 123,
+      "min": 356,
+      "max": 450
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 77,
+      "min": 143,
+      "max": 278
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 72,
+      "min": 134,
+      "max": 267
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 99,
+      "min": 182,
+      "max": 326
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 92,
+      "min": 170,
+      "max": 311
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 58,
+      "min": 108,
+      "max": 236
+    }
+  }
+}
