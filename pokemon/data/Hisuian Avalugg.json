@@ -1,33 +1,31 @@
 {
   "name": "Avalugg",
-  "subname": "",
+  "subname": "Hisuian Avalugg",
   "id": "713",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/713.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/713_f2.png",
   "types": [
-    "Ice"
+    "Ice",
+    "Rock"
   ],
   "info": {
     "description": "Avalugg is an Ice type Pokémon introduced in Generation 6. It is known as the Iceberg Pokémon.",
     "species": "Iceberg Pok\u00e9mon",
-    "height": "2.0m",
-    "weight": "505.0kg",
-    "catchRate": "55",
-    "baseExp": "180",
-    "growthRate": "Medium Fast",
-    "eggGroups": [
-      "Mineral",
-      "Monster"
-    ],
-    "genders": "0.5",
+    "height": "1.4m",
+    "weight": "262.4kg",
+    "catchRate": "-",
+    "baseExp": "-",
+    "growthRate": "-",
+    "eggGroups": [],
+    "genders": "-",
     "ability": [
-      "Own Tempo",
+      "Strong Jaw",
       "Ice Body"
     ],
     "hiddenAbility": [
       "Sturdy"
     ],
-    "eggCycles": "20 (4,884–5,140 steps)",
-    "evYield": "2 Defense"
+    "eggCycles": "",
+    "evYield": ""
   },
   "evolutions": [
     "Bergmite",
@@ -141,9 +139,9 @@
     },
     "attack": {
       "name": "Attack",
-      "base": 117,
-      "min": 215,
-      "max": 366
+      "base": 127,
+      "min": 233,
+      "max": 388
     },
     "defense": {
       "name": "Defense",
@@ -153,21 +151,21 @@
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 44,
-      "min": 83,
-      "max": 205
+      "base": 34,
+      "min": 65,
+      "max": 183
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 46,
-      "min": 87,
-      "max": 210
+      "base": 36,
+      "min": 69,
+      "max": 188
     },
     "speed": {
       "name": "Speed",
-      "base": 28,
-      "min": 54,
-      "max": 170
+      "base": 38,
+      "min": 72,
+      "max": 192
     }
   }
 }
