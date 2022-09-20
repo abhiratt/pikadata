@@ -1,31 +1,29 @@
 {
   "name": "Articuno",
-  "subname": "",
+  "subname": "Galarian Articuno",
   "id": "144",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144_f2.png",
   "types": [
-    "Ice",
+    "Psychic",
     "Flying"
   ],
   "info": {
     "description": "Articuno is an Ice/Flying type Pokémon introduced in Generation 1. It is known as the Freeze Pokémon.",
     "species": "Freeze Pok\u00e9mon",
     "height": "1.7m",
-    "weight": "55.4kg",
+    "weight": "50.9kg",
     "catchRate": "3",
-    "baseExp": "261",
+    "baseExp": "290",
     "growthRate": "Slow",
     "eggGroups": [
       "Undiscovered"
     ],
     "genders": "-",
     "ability": [
-      "Pressure"
+      "Competitive"
     ],
-    "hiddenAbility": [
-      "Snow Cloak"
-    ],
-    "eggCycles": "80 (20,304–20,560 steps)",
+    "hiddenAbility": [],
+    "eggCycles": "120 (30,584–30,840 steps)",
     "evYield": "3 Special Defense"
   },
   "evolutions": [
@@ -113,27 +111,27 @@
     },
     "defense": {
       "name": "Defense",
-      "base": 100,
-      "min": 184,
-      "max": 328
+      "base": 85,
+      "min": 157,
+      "max": 295
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 95,
-      "min": 175,
-      "max": 317
-    },
-    "spDefense": {
-      "name": "Sp. Defense",
       "base": 125,
       "min": 229,
       "max": 383
     },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 100,
+      "min": 184,
+      "max": 328
+    },
     "speed": {
       "name": "Speed",
-      "base": 85,
-      "min": 157,
-      "max": 295
+      "base": 95,
+      "min": 175,
+      "max": 317
     }
   }
 }
