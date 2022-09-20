@@ -1,1 +1,146 @@
-{"name": "Zigzagoon", "id": "263", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/263.png", "types": ["Dark", "Normal"], "info": {"description": "", "species": "TinyRaccoon Pok\u00e9mon", "height": "0.4m", "weight": "17.5kg", "catchRate": "255", "baseExp": "56", "growthRate": "Medium Fast", "eggGroups": ["Field"]}, "evolutions": ["Zigzagoon", "Linoone", "Zigzagoon", "Linoone", "Obstagoon"], "moves": {"levelUp": ["Growl", "Tackle", "Sand Attack", "Tail Whip", "Covet", "Headbutt", "Baby-Doll Eyes", "Pin Missile", "Rest", "Take Down", "Fling", "Flail", "Belly Drum", "Double-Edge", "Leer", "Lick", "Snarl", "Scary Face", "Counter", "Taunt"], "egg": ["Charm", "Extreme Speed", "Helping Hand", "Mud-Slap", "Simple Beam", "Tickle", "Trick", "Knock Off", "Parting Shot", "Quick Guard", "Lash Out"], "tutor": [], "tm": ["Water Pulse", "Work Up", "Sunny Day", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Iron Tail", "Thunderbolt", "Thunder", "Dig", "Shadow Ball", "Double Team", "Shock Wave", "Facade", "Rest", "Attract", "Thief", "Fling", "Charge Beam", "Endure", "Thunder Wave", "Sleep Talk", "Grass Knot", "Swagger", "Substitute", "Cut", "Surf", "Rock Smash"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 38, "min": 186, "max": 280}, "attack": {"name": "Attack", "base": 30, "min": 58, "max": 174}, "defense": {"name": "Defense", "base": 41, "min": 78, "max": 199}, "spAttack": {"name": "Sp. Attack", "base": 41, "min": 78, "max": 199}, "spDefense": {"name": "Sp. Defense", "base": 41, "min": 78, "max": 199}, "speed": {"name": "Speed", "base": 38, "min": 186, "max": 280}}}
+{
+  "name": "Zigzagoon",
+  "subname": "",
+  "id": "263",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/263.png",
+  "types": [
+    "Normal"
+  ],
+  "info": {
+    "description": "Zigzagoon is a Normal type Pokémon introduced in Generation 3. It is known as the TinyRaccoon Pokémon.",
+    "species": "TinyRaccoon Pok\u00e9mon",
+    "height": "0.4m",
+    "weight": "17.5kg",
+    "catchRate": "255",
+    "baseExp": "56",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Field"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Pickup",
+      "Gluttony"
+    ],
+    "hiddenAbility": [
+      "Quick Feet"
+    ],
+    "eggCycles": "15 (3,599–3,855 steps)",
+    "evYield": "1 Speed"
+  },
+  "evolutions": [
+    "Zigzagoon",
+    "Galarian Zigzagoon",
+    "Linoone",
+    "Galarian Linoone",
+    "Obstagoon"
+  ],
+  "moves": {
+    "levelUp": [
+      "Growl",
+      "Tackle",
+      "Sand Attack",
+      "Tail Whip",
+      "Covet",
+      "Headbutt",
+      "Baby-Doll Eyes",
+      "Pin Missile",
+      "Rest",
+      "Take Down",
+      "Fling",
+      "Flail",
+      "Belly Drum",
+      "Double-Edge",
+      "Leer",
+      "Lick",
+      "Snarl",
+      "Scary Face",
+      "Counter",
+      "Taunt"
+    ],
+    "egg": [
+      "Charm",
+      "Extreme Speed",
+      "Helping Hand",
+      "Mud-Slap",
+      "Simple Beam",
+      "Tickle",
+      "Trick",
+      "Knock Off",
+      "Parting Shot",
+      "Quick Guard",
+      "Lash Out"
+    ],
+    "tutor": [],
+    "tm": [
+      "Water Pulse",
+      "Work Up",
+      "Sunny Day",
+      "Ice Beam",
+      "Blizzard",
+      "Protect",
+      "Rain Dance",
+      "Iron Tail",
+      "Thunderbolt",
+      "Thunder",
+      "Dig",
+      "Shadow Ball",
+      "Double Team",
+      "Shock Wave",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Thief",
+      "Fling",
+      "Charge Beam",
+      "Endure",
+      "Thunder Wave",
+      "Sleep Talk",
+      "Grass Knot",
+      "Swagger",
+      "Substitute",
+      "Cut",
+      "Surf",
+      "Rock Smash"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 38,
+      "min": 186,
+      "max": 280
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 41,
+      "min": 78,
+      "max": 199
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 41,
+      "min": 78,
+      "max": 199
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    }
+  }
+}
