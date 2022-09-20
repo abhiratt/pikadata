@@ -1,1 +1,212 @@
-{"name": "Beartic", "id": "614", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/614.png", "types": ["Ice"], "info": {"description": "", "species": "Freezing Pok\u00e9mon", "height": "2.6m", "weight": "260.0kg", "catchRate": "60", "baseExp": "177", "growthRate": "Medium Fast", "eggGroups": ["Field"]}, "evolutions": ["Cubchoo", "Beartic"], "moves": {"levelUp": ["Aqua Jet", "Charm", "Endure", "Fury Swipes", "Growl", "Icicle Crash", "Powder Snow", "Icy Wind", "Play Nice", "Brine", "Frost Breath", "Slash", "Flail", "Swagger", "Hail", "Thrash", "Rest", "Blizzard", "Sheer Cold", "Superpower", "Bide"], "egg": ["Icicle Crash", "Focus Punch", "Night Slash", "Yawn", "Assurance", "Avalanche", "Encore", "Ice Punch", "Play Rough", "Sleep Talk", "Covet", "Icy Wind", "Low Kick", "Snore", "Superpower", "Throat Chop", "Water Pulse", "Charm", "Dig", "Hone Claws", "Power-Up Punch", "Rock Smash", "Secret Power", "Cut", "Dive", "Strength"], "tutor": ["Focus Punch", "Night Slash", "Yawn", "Assurance", "Avalanche", "Encore", "Ice Punch", "Play Rough", "Sleep Talk"], "tm": ["Mega Punch", "Mega Kick", "Ice Punch", "Hyper Beam", "Giga Impact", "Dig", "Rest", "Rock Slide", "Snore", "Protect", "Scary Face", "Icy Wind", "Charm", "Attract", "Rain Dance", "Hail", "Facade", "Brick Break", "Dive", "Rock Tomb", "Icicle Spear", "Brine", "Assurance", "Fling", "Avalanche", "Shadow Claw", "Ice Fang", "Round", "Bulldoze", "Roar", "Toxic", "Bulk Up", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Frustration", "Return", "Double Team", "Aerial Ace", "Echoed Voice", "Focus Blast", "Stone Edge", "Swords Dance", "Frost Breath", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Surf", "Confide"], "tr": ["Swords Dance", "Surf", "Ice Beam", "Blizzard", "Low Kick", "Substitute", "Endure", "Sleep Talk", "Encore", "Taunt", "Superpower", "Bulk Up", "Focus Blast", "Stone Edge", "Grass Knot", "Heavy Slam", "Play Rough", "Throat Chop", "Liquidation", "Body Press"]}, "stats": {"hp": {"name": "HP", "base": 95, "min": 300, "max": 394}, "attack": {"name": "Attack", "base": 130, "min": 238, "max": 394}, "defense": {"name": "Defense", "base": 80, "min": 148, "max": 284}, "spAttack": {"name": "Sp. Attack", "base": 80, "min": 148, "max": 284}, "spDefense": {"name": "Sp. Defense", "base": 80, "min": 148, "max": 284}, "speed": {"name": "Speed", "base": 95, "min": 300, "max": 394}}}
+{
+  "name": "Beartic",
+  "subname": "",
+  "id": "614",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/614.png",
+  "types": [
+    "Ice"
+  ],
+  "info": {
+    "description": "Beartic is an Ice type Pokémon introduced in Generation 5. It is known as the Freezing Pokémon.",
+    "species": "Freezing Pok\u00e9mon",
+    "height": "2.6m",
+    "weight": "260.0kg",
+    "catchRate": "60",
+    "baseExp": "177",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Field"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Snow Cloak",
+      "Slush Rush"
+    ],
+    "hiddenAbility": [
+      "Swift Swim"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "2 Attack"
+  },
+  "evolutions": [
+    "Cubchoo",
+    "Beartic"
+  ],
+  "moves": {
+    "levelUp": [
+      "Aqua Jet",
+      "Charm",
+      "Endure",
+      "Fury Swipes",
+      "Growl",
+      "Icicle Crash",
+      "Powder Snow",
+      "Icy Wind",
+      "Play Nice",
+      "Brine",
+      "Frost Breath",
+      "Slash",
+      "Flail",
+      "Swagger",
+      "Hail",
+      "Thrash",
+      "Rest",
+      "Blizzard",
+      "Sheer Cold",
+      "Superpower",
+      "Bide"
+    ],
+    "egg": [
+      "Icicle Crash",
+      "Focus Punch",
+      "Night Slash",
+      "Yawn",
+      "Assurance",
+      "Avalanche",
+      "Encore",
+      "Ice Punch",
+      "Play Rough",
+      "Sleep Talk",
+      "Covet",
+      "Icy Wind",
+      "Low Kick",
+      "Snore",
+      "Superpower",
+      "Throat Chop",
+      "Water Pulse",
+      "Charm",
+      "Dig",
+      "Hone Claws",
+      "Power-Up Punch",
+      "Rock Smash",
+      "Secret Power",
+      "Cut",
+      "Dive",
+      "Strength"
+    ],
+    "tutor": [
+      "Focus Punch",
+      "Night Slash",
+      "Yawn",
+      "Assurance",
+      "Avalanche",
+      "Encore",
+      "Ice Punch",
+      "Play Rough",
+      "Sleep Talk"
+    ],
+    "tm": [
+      "Mega Punch",
+      "Mega Kick",
+      "Ice Punch",
+      "Hyper Beam",
+      "Giga Impact",
+      "Dig",
+      "Rest",
+      "Rock Slide",
+      "Snore",
+      "Protect",
+      "Scary Face",
+      "Icy Wind",
+      "Charm",
+      "Attract",
+      "Rain Dance",
+      "Hail",
+      "Facade",
+      "Brick Break",
+      "Dive",
+      "Rock Tomb",
+      "Icicle Spear",
+      "Brine",
+      "Assurance",
+      "Fling",
+      "Avalanche",
+      "Shadow Claw",
+      "Ice Fang",
+      "Round",
+      "Bulldoze",
+      "Roar",
+      "Toxic",
+      "Bulk Up",
+      "Hidden Power",
+      "Taunt",
+      "Ice Beam",
+      "Blizzard",
+      "Frustration",
+      "Return",
+      "Double Team",
+      "Aerial Ace",
+      "Echoed Voice",
+      "Focus Blast",
+      "Stone Edge",
+      "Swords Dance",
+      "Frost Breath",
+      "Grass Knot",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Surf",
+      "Confide"
+    ],
+    "tr": [
+      "Swords Dance",
+      "Surf",
+      "Ice Beam",
+      "Blizzard",
+      "Low Kick",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Encore",
+      "Taunt",
+      "Superpower",
+      "Bulk Up",
+      "Focus Blast",
+      "Stone Edge",
+      "Grass Knot",
+      "Heavy Slam",
+      "Play Rough",
+      "Throat Chop",
+      "Liquidation",
+      "Body Press"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 95,
+      "min": 300,
+      "max": 394
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 130,
+      "min": 238,
+      "max": 394
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 80,
+      "min": 148,
+      "max": 284
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 80,
+      "min": 148,
+      "max": 284
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 50,
+      "min": 94,
+      "max": 218
+    }
+  }
+}
