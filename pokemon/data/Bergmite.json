@@ -1,1 +1,148 @@
-{"name": "Bergmite", "id": "712", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/712.png", "types": ["Ice"], "info": {"description": "", "species": "Ice Chunk Pok\u00e9mon", "height": "1.0m", "weight": "99.5kg", "catchRate": "190", "baseExp": "61", "growthRate": "Medium Fast", "eggGroups": ["Mineral", "Monster"]}, "evolutions": ["Bergmite", "Avalugg", "Avalugg"], "moves": {"levelUp": ["Harden", "Rapid Spin", "Tackle", "Powder Snow", "Curse", "Icy Wind", "Protect", "Avalanche", "Bite", "Ice Fang", "Iron Defense", "Recover", "Crunch", "Take Down", "Blizzard", "Double-Edge", "Ice Shard"], "egg": ["Aurora Veil", "Mirror Coat", "Mist", "Flash Cannon", "Ice Ball", "Ice Beam", "Ice Fang", "Icy Wind", "Rest", "Rock Slide", "Rock Smash", "Stone Edge", "Water Pulse"], "tutor": [], "tm": ["Safeguard", "Rest", "Rock Slide", "Snore", "Protect", "Icy Wind", "Attract", "Rain Dance", "Hail", "Facade", "Rock Tomb", "Icicle Spear", "Avalanche", "Ice Fang", "Round", "Flash Cannon", "Ice Ball", "Ice Beam", "Rock Smash", "Stone Edge", "Water Pulse"], "tr": ["Surf", "Ice Beam", "Blizzard", "Substitute", "Endure", "Sleep Talk", "Crunch", "Iron Defense", "Gyro Ball", "Flash Cannon", "Stone Edge"]}, "stats": {"hp": {"name": "HP", "base": 55, "min": 220, "max": 314}, "attack": {"name": "Attack", "base": 69, "min": 128, "max": 260}, "defense": {"name": "Defense", "base": 85, "min": 157, "max": 295}, "spAttack": {"name": "Sp. Attack", "base": 85, "min": 157, "max": 295}, "spDefense": {"name": "Sp. Defense", "base": 85, "min": 157, "max": 295}, "speed": {"name": "Speed", "base": 55, "min": 220, "max": 314}}}
+{
+  "name": "Bergmite",
+  "subname": "",
+  "id": "712",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/712.png",
+  "types": [
+    "Ice"
+  ],
+  "info": {
+    "description": "Bergmite is an Ice type Pokémon introduced in Generation 6. It is known as the Ice Chunk Pokémon. Using air of -150 degrees Farenheit, they freeze opponents solid.",
+    "species": "Ice Chunk Pok\u00e9mon",
+    "height": "1.0m",
+    "weight": "99.5kg",
+    "catchRate": "190",
+    "baseExp": "61",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Mineral",
+      "Monster"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Own Tempo",
+      "Ice Body"
+    ],
+    "hiddenAbility": [
+      "Sturdy"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 Defense"
+  },
+  "evolutions": [
+    "Bergmite",
+    "Avalugg",
+    "Hisuian Avalugg"
+  ],
+  "moves": {
+    "levelUp": [
+      "Harden",
+      "Rapid Spin",
+      "Tackle",
+      "Powder Snow",
+      "Curse",
+      "Icy Wind",
+      "Protect",
+      "Avalanche",
+      "Bite",
+      "Ice Fang",
+      "Iron Defense",
+      "Recover",
+      "Crunch",
+      "Take Down",
+      "Blizzard",
+      "Double-Edge",
+      "Ice Shard"
+    ],
+    "egg": [
+      "Aurora Veil",
+      "Mirror Coat",
+      "Mist",
+      "Flash Cannon",
+      "Ice Ball",
+      "Ice Beam",
+      "Ice Fang",
+      "Icy Wind",
+      "Rest",
+      "Rock Slide",
+      "Rock Smash",
+      "Stone Edge",
+      "Water Pulse"
+    ],
+    "tutor": [],
+    "tm": [
+      "Safeguard",
+      "Rest",
+      "Rock Slide",
+      "Snore",
+      "Protect",
+      "Icy Wind",
+      "Attract",
+      "Rain Dance",
+      "Hail",
+      "Facade",
+      "Rock Tomb",
+      "Icicle Spear",
+      "Avalanche",
+      "Ice Fang",
+      "Round",
+      "Flash Cannon",
+      "Ice Ball",
+      "Ice Beam",
+      "Rock Smash",
+      "Stone Edge",
+      "Water Pulse"
+    ],
+    "tr": [
+      "Surf",
+      "Ice Beam",
+      "Blizzard",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Crunch",
+      "Iron Defense",
+      "Gyro Ball",
+      "Flash Cannon",
+      "Stone Edge"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 55,
+      "min": 220,
+      "max": 314
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 69,
+      "min": 128,
+      "max": 260
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 85,
+      "min": 157,
+      "max": 295
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 32,
+      "min": 62,
+      "max": 179
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 35,
+      "min": 67,
+      "max": 185
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 28,
+      "min": 54,
+      "max": 170
+    }
+  }
+}
