@@ -1,1 +1,160 @@
-{"name": "Arbok", "id": "024", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png", "types": ["Poison"], "info": {"description": "", "species": "Cobra Pok\u00e9mon", "height": "3.5m", "weight": "65.0kg", "catchRate": "90", "baseExp": "157", "growthRate": "Medium Fast", "eggGroups": ["Dragon", "Field"]}, "evolutions": ["Ekans", "Arbok"], "moves": {"levelUp": ["Bite", "Crunch", "Fire Fang", "Ice Fang", "Leer", "Poison Sting", "Thunder Fang", "Wrap", "Glare", "Screech", "Acid", "Spit Up", "Stockpile", "Swallow", "Acid Spray", "Sludge Bomb", "Gastro Acid", "Belch", "Haze", "Coil", "Gunk Shot", "Sucker Punch", "Poison Jab", "Slam", "Toxic"], "egg": ["Crunch", "Beat Up", "Disable", "Poison Fang", "Poison Tail", "Scary Face", "Slam", "Spite", "Sucker Punch", "Switcheroo"], "tutor": ["Beat Up", "Disable", "Poison Fang", "Poison Tail", "Scary Face", "Slam", "Spite", "Sucker Punch", "Switcheroo"], "tm": ["Sunny Day", "Hyper Beam", "Protect", "Rain Dance", "Giga Drain", "Iron Tail", "Earthquake", "Dig", "Double Team", "Sludge Bomb", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Endure", "Payback", "Giga Impact", "Dark Pulse", "Rock Slide", "Sleep Talk", "Bulldoze", "Poison Jab", "Swagger", "Substitute", "Strength", "Headbutt", "Dragon Tail", "Toxic", "Mega Drain"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 60, "min": 230, "max": 324}, "attack": {"name": "Attack", "base": 95, "min": 175, "max": 317}, "defense": {"name": "Defense", "base": 69, "min": 128, "max": 260}, "spAttack": {"name": "Sp. Attack", "base": 69, "min": 128, "max": 260}, "spDefense": {"name": "Sp. Defense", "base": 69, "min": 128, "max": 260}, "speed": {"name": "Speed", "base": 60, "min": 230, "max": 324}}}
+{
+  "name": "Arbok",
+  "subname": "",
+  "id": "024",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png",
+  "types": [
+    "Poison"
+  ],
+  "info": {
+    "description": "Arbok is a Poison type Pokémon introduced in Generation 1. It is known as the Cobra Pokémon.",
+    "species": "Cobra Pok\u00e9mon",
+    "height": "3.5m",
+    "weight": "65.0kg",
+    "catchRate": "90",
+    "baseExp": "157",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Dragon",
+      "Field"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Intimidate",
+      "Shed Skin"
+    ],
+    "hiddenAbility": [
+      "Unnerve"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "2 Attack"
+  },
+  "evolutions": [
+    "Ekans",
+    "Arbok"
+  ],
+  "moves": {
+    "levelUp": [
+      "Bite",
+      "Crunch",
+      "Fire Fang",
+      "Ice Fang",
+      "Leer",
+      "Poison Sting",
+      "Thunder Fang",
+      "Wrap",
+      "Glare",
+      "Screech",
+      "Acid",
+      "Spit Up",
+      "Stockpile",
+      "Swallow",
+      "Acid Spray",
+      "Sludge Bomb",
+      "Gastro Acid",
+      "Belch",
+      "Haze",
+      "Coil",
+      "Gunk Shot",
+      "Sucker Punch",
+      "Poison Jab",
+      "Slam",
+      "Toxic"
+    ],
+    "egg": [
+      "Crunch",
+      "Beat Up",
+      "Disable",
+      "Poison Fang",
+      "Poison Tail",
+      "Scary Face",
+      "Slam",
+      "Spite",
+      "Sucker Punch",
+      "Switcheroo"
+    ],
+    "tutor": [
+      "Beat Up",
+      "Disable",
+      "Poison Fang",
+      "Poison Tail",
+      "Scary Face",
+      "Slam",
+      "Spite",
+      "Sucker Punch",
+      "Switcheroo"
+    ],
+    "tm": [
+      "Sunny Day",
+      "Hyper Beam",
+      "Protect",
+      "Rain Dance",
+      "Giga Drain",
+      "Iron Tail",
+      "Earthquake",
+      "Dig",
+      "Double Team",
+      "Sludge Bomb",
+      "Rock Tomb",
+      "Torment",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Thief",
+      "Endure",
+      "Payback",
+      "Giga Impact",
+      "Dark Pulse",
+      "Rock Slide",
+      "Sleep Talk",
+      "Bulldoze",
+      "Poison Jab",
+      "Swagger",
+      "Substitute",
+      "Strength",
+      "Headbutt",
+      "Dragon Tail",
+      "Toxic",
+      "Mega Drain"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 60,
+      "min": 230,
+      "max": 324
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 95,
+      "min": 175,
+      "max": 317
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 69,
+      "min": 128,
+      "max": 260
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 65,
+      "min": 121,
+      "max": 251
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 79,
+      "min": 146,
+      "max": 282
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 80,
+      "min": 148,
+      "max": 284
+    }
+  }
+}
