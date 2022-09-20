@@ -1,1 +1,154 @@
-{"name": "Azurill", "id": "298", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/298.png", "types": ["Normal", "Fairy"], "info": {"description": "", "species": "Polka Dot Pok\u00e9mon", "height": "0.2m", "weight": "2.0kg", "catchRate": "150", "baseExp": "38", "growthRate": "Fast", "eggGroups": ["Undiscovered"]}, "evolutions": ["Azurill", "Marill", "Azumarill"], "moves": {"levelUp": ["Splash", "Tail Whip", "Water Gun", "Helping Hand", "Bubble Beam", "Charm", "Slam", "Bounce"], "egg": ["Aqua Jet", "Belly Drum", "Body Slam", "Copycat", "Encore", "Fake Tears", "Muddy Water", "Perish Song", "Present", "Sing", "Slam", "Soak", "Supersonic", "Tickle"], "tutor": [], "tm": ["Water Pulse", "Hail", "Work Up", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Iron Tail", "Double Team", "Facade", "Rest", "Attract", "Scald", "Endure", "Sleep Talk", "Swagger", "Substitute", "Surf", "Waterfall", "Snore", "Icy Wind", "Charm", "Whirlpool", "Helping Hand", "Fake Tears", "Bounce", "Mud Shot", "Round", "Draining Kiss", "Brutal Swing"], "tr": ["Body Slam", "Surf", "Ice Beam", "Blizzard", "Waterfall", "Substitute", "Endure", "Sleep Talk", "Encore", "Iron Tail", "Uproar", "Hyper Voice", "Muddy Water", "Scald", "Work Up"]}, "stats": {"hp": {"name": "HP", "base": 50, "min": 210, "max": 304}, "attack": {"name": "Attack", "base": 20, "min": 40, "max": 152}, "defense": {"name": "Defense", "base": 40, "min": 76, "max": 196}, "spAttack": {"name": "Sp. Attack", "base": 40, "min": 76, "max": 196}, "spDefense": {"name": "Sp. Defense", "base": 40, "min": 76, "max": 196}, "speed": {"name": "Speed", "base": 50, "min": 210, "max": 304}}}
+{
+  "name": "Azurill",
+  "subname": "",
+  "id": "298",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/298.png",
+  "types": [
+    "Normal",
+    "Fairy"
+  ],
+  "info": {
+    "description": "Azurill is a Normal/Fairy type Pokémon introduced in Generation 3. It is known as the Polka Dot Pokémon.",
+    "species": "Polka Dot Pok\u00e9mon",
+    "height": "0.2m",
+    "weight": "2.0kg",
+    "catchRate": "150",
+    "baseExp": "38",
+    "growthRate": "Fast",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "genders": "0.25",
+    "ability": [
+      "Thick Fat",
+      "Huge Power"
+    ],
+    "hiddenAbility": [
+      "Sap Sipper"
+    ],
+    "eggCycles": "10 (2,314–2,570 steps)",
+    "evYield": "1 HP"
+  },
+  "evolutions": [
+    "Azurill",
+    "Marill",
+    "Azumarill"
+  ],
+  "moves": {
+    "levelUp": [
+      "Splash",
+      "Tail Whip",
+      "Water Gun",
+      "Helping Hand",
+      "Bubble Beam",
+      "Charm",
+      "Slam",
+      "Bounce"
+    ],
+    "egg": [
+      "Aqua Jet",
+      "Belly Drum",
+      "Body Slam",
+      "Copycat",
+      "Encore",
+      "Fake Tears",
+      "Muddy Water",
+      "Perish Song",
+      "Present",
+      "Sing",
+      "Slam",
+      "Soak",
+      "Supersonic",
+      "Tickle"
+    ],
+    "tutor": [],
+    "tm": [
+      "Water Pulse",
+      "Hail",
+      "Work Up",
+      "Ice Beam",
+      "Blizzard",
+      "Light Screen",
+      "Protect",
+      "Rain Dance",
+      "Iron Tail",
+      "Double Team",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Scald",
+      "Endure",
+      "Sleep Talk",
+      "Swagger",
+      "Substitute",
+      "Surf",
+      "Waterfall",
+      "Snore",
+      "Icy Wind",
+      "Charm",
+      "Whirlpool",
+      "Helping Hand",
+      "Fake Tears",
+      "Bounce",
+      "Mud Shot",
+      "Round",
+      "Draining Kiss",
+      "Brutal Swing"
+    ],
+    "tr": [
+      "Body Slam",
+      "Surf",
+      "Ice Beam",
+      "Blizzard",
+      "Waterfall",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Encore",
+      "Iron Tail",
+      "Uproar",
+      "Hyper Voice",
+      "Muddy Water",
+      "Scald",
+      "Work Up"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 50,
+      "min": 210,
+      "max": 304
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 20,
+      "min": 40,
+      "max": 152
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 40,
+      "min": 76,
+      "max": 196
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 20,
+      "min": 40,
+      "max": 152
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 40,
+      "min": 76,
+      "max": 196
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 20,
+      "min": 40,
+      "max": 152
+    }
+  }
+}
