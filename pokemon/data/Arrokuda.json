@@ -1,1 +1,128 @@
-{"name": "Arrokuda", "id": "846", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/846.png", "types": ["Water"], "info": {"description": "", "species": "Rush Pok\u00e9mon", "height": "0.5m", "weight": "1.0kg", "catchRate": "255", "baseExp": "56", "growthRate": "Slow", "eggGroups": ["Water 2"]}, "evolutions": ["Arrokuda", "Barraskewda"], "moves": {"levelUp": ["Aqua Jet", "Peck", "Fury Attack", "Bite", "Agility", "Dive", "Laser Focus", "Crunch", "Liquidation", "Double-Edge"], "egg": ["Acupressure", "Night Slash", "Slash", "Thrash", "Scale Shot"], "tutor": ["Scale Shot"], "tm": ["Rest", "Snore", "Protect", "Attract", "Rain Dance", "Whirlpool", "Facade", "Swift", "Brick Break", "Dive", "Bounce", "Assurance", "Ice Fang", "Round"], "tr": ["Agility", "Focus Energy", "Waterfall", "Substitute", "Endure", "Sleep Talk", "Crunch", "Close Combat", "Poison Jab", "Scald", "Drill Run", "Throat Chop", "Psychic Fangs", "Liquidation"]}, "stats": {"hp": {"name": "HP", "base": 41, "min": 192, "max": 286}, "attack": {"name": "Attack", "base": 63, "min": 117, "max": 247}, "defense": {"name": "Defense", "base": 40, "min": 76, "max": 196}, "spAttack": {"name": "Sp. Attack", "base": 40, "min": 76, "max": 196}, "spDefense": {"name": "Sp. Defense", "base": 40, "min": 76, "max": 196}, "speed": {"name": "Speed", "base": 41, "min": 192, "max": 286}}}
+{
+  "name": "Arrokuda",
+  "subname": "",
+  "id": "846",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/846.png",
+  "types": [
+    "Water"
+  ],
+  "info": {
+    "description": "Arrokuda is a Water type Pokémon introduced in Generation 8. It is known as the Rush Pokémon.",
+    "species": "Rush Pok\u00e9mon",
+    "height": "0.5m",
+    "weight": "1.0kg",
+    "catchRate": "255",
+    "baseExp": "56",
+    "growthRate": "Slow",
+    "eggGroups": [
+      "Water 2"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Swift Swim"
+    ],
+    "hiddenAbility": [
+      "Propeller Tail"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 Speed"
+  },
+  "evolutions": [
+    "Arrokuda",
+    "Barraskewda"
+  ],
+  "moves": {
+    "levelUp": [
+      "Aqua Jet",
+      "Peck",
+      "Fury Attack",
+      "Bite",
+      "Agility",
+      "Dive",
+      "Laser Focus",
+      "Crunch",
+      "Liquidation",
+      "Double-Edge"
+    ],
+    "egg": [
+      "Acupressure",
+      "Night Slash",
+      "Slash",
+      "Thrash",
+      "Scale Shot"
+    ],
+    "tutor": [
+      "Scale Shot"
+    ],
+    "tm": [
+      "Rest",
+      "Snore",
+      "Protect",
+      "Attract",
+      "Rain Dance",
+      "Whirlpool",
+      "Facade",
+      "Swift",
+      "Brick Break",
+      "Dive",
+      "Bounce",
+      "Assurance",
+      "Ice Fang",
+      "Round"
+    ],
+    "tr": [
+      "Agility",
+      "Focus Energy",
+      "Waterfall",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Crunch",
+      "Close Combat",
+      "Poison Jab",
+      "Scald",
+      "Drill Run",
+      "Throat Chop",
+      "Psychic Fangs",
+      "Liquidation"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 41,
+      "min": 192,
+      "max": 286
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 63,
+      "min": 117,
+      "max": 247
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 40,
+      "min": 76,
+      "max": 196
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 40,
+      "min": 76,
+      "max": 196
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 66,
+      "min": 123,
+      "max": 254
+    }
+  }
+}
