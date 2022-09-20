@@ -1,1 +1,194 @@
-{"name": "Aromatisse", "id": "683", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/683.png", "types": ["Fairy"], "info": {"description": "", "species": "Fragrance Pok\u00e9mon", "height": "0.8m", "weight": "15.5kg", "catchRate": "140", "baseExp": "162", "growthRate": "Medium Fast", "eggGroups": ["Fairy"]}, "evolutions": ["Spritzee", "Aromatisse"], "moves": {"levelUp": ["Aromatic Mist", "Echoed Voice", "Fairy Wind", "Heal Pulse", "Sweet Kiss", "Sweet Scent", "Disarming Voice", "Aromatherapy", "Draining Kiss", "Attract", "Flail", "Misty Terrain", "Psychic", "Charm", "Calm Mind", "Moonblast", "Skill Swap", "Psych Up", "Odor Sleuth", "Reflect"], "egg": ["After You", "Disable", "Wish", "Misty Explosion", "Captivate", "Nasty Plot", "Refresh", "Ally Switch", "Covet", "Drain Punch", "Endeavor", "Heal Bell", "Helping Hand", "Magic Coat", "Skill Swap", "Snore", "Telekinesis", "Flash", "Secret Power"], "tutor": ["Misty Explosion", "After You", "Ally Switch", "Covet", "Drain Punch", "Endeavor", "Heal Bell", "Helping Hand", "Magic Coat", "Skill Swap", "Snore", "Telekinesis"], "tm": ["Hyper Beam", "Giga Impact", "Light Screen", "Reflect", "Rest", "Snore", "Protect", "Charm", "Attract", "Rain Dance", "Sunny Day", "Facade", "Helping Hand", "Fake Tears", "Drain Punch", "Trick Room", "Round", "Draining Kiss", "Misty Terrain", "Psyshock", "Calm Mind", "Toxic", "Hidden Power", "Frustration", "Thunderbolt", "Thunder", "Return", "Psychic", "Double Team", "Torment", "Echoed Voice", "Energy Ball", "Charge Beam", "Gyro Ball", "Psych Up", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Flash Cannon", "Dazzling Gleam", "Confide"], "tr": ["Thunderbolt", "Thunder", "Psychic", "Metronome", "Substitute", "Psyshock", "Endure", "Sleep Talk", "Encore", "Skill Swap", "Calm Mind", "Gyro Ball", "Energy Ball", "Nasty Plot", "Flash Cannon", "Ally Switch", "Dazzling Gleam"]}, "stats": {"hp": {"name": "HP", "base": 101, "min": 312, "max": 406}, "attack": {"name": "Attack", "base": 72, "min": 134, "max": 267}, "defense": {"name": "Defense", "base": 72, "min": 134, "max": 267}, "spAttack": {"name": "Sp. Attack", "base": 72, "min": 134, "max": 267}, "spDefense": {"name": "Sp. Defense", "base": 72, "min": 134, "max": 267}, "speed": {"name": "Speed", "base": 101, "min": 312, "max": 406}}}
+{
+  "name": "Aromatisse",
+  "subname": "",
+  "id": "683",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/683.png",
+  "types": [
+    "Fairy"
+  ],
+  "info": {
+    "description": "Aromatisse is a Fairy type Pokémon introduced in Generation 6. It is known as the Fragrance Pokémon. Aromatisse can give off a variety of different smells, from a pleasant fragrance to an odor so repugnant to its opponent that it can turn a battle in its favor.",
+    "species": "Fragrance Pok\u00e9mon",
+    "height": "0.8m",
+    "weight": "15.5kg",
+    "catchRate": "140",
+    "baseExp": "162",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Fairy"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Healer"
+    ],
+    "hiddenAbility": [
+      "Aroma Veil"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "2 HP"
+  },
+  "evolutions": [
+    "Spritzee",
+    "Aromatisse"
+  ],
+  "moves": {
+    "levelUp": [
+      "Aromatic Mist",
+      "Echoed Voice",
+      "Fairy Wind",
+      "Heal Pulse",
+      "Sweet Kiss",
+      "Sweet Scent",
+      "Disarming Voice",
+      "Aromatherapy",
+      "Draining Kiss",
+      "Attract",
+      "Flail",
+      "Misty Terrain",
+      "Psychic",
+      "Charm",
+      "Calm Mind",
+      "Moonblast",
+      "Skill Swap",
+      "Psych Up",
+      "Odor Sleuth",
+      "Reflect"
+    ],
+    "egg": [
+      "After You",
+      "Disable",
+      "Wish",
+      "Misty Explosion",
+      "Captivate",
+      "Nasty Plot",
+      "Refresh",
+      "Ally Switch",
+      "Covet",
+      "Drain Punch",
+      "Endeavor",
+      "Heal Bell",
+      "Helping Hand",
+      "Magic Coat",
+      "Skill Swap",
+      "Snore",
+      "Telekinesis",
+      "Flash",
+      "Secret Power"
+    ],
+    "tutor": [
+      "Misty Explosion",
+      "After You",
+      "Ally Switch",
+      "Covet",
+      "Drain Punch",
+      "Endeavor",
+      "Heal Bell",
+      "Helping Hand",
+      "Magic Coat",
+      "Skill Swap",
+      "Snore",
+      "Telekinesis"
+    ],
+    "tm": [
+      "Hyper Beam",
+      "Giga Impact",
+      "Light Screen",
+      "Reflect",
+      "Rest",
+      "Snore",
+      "Protect",
+      "Charm",
+      "Attract",
+      "Rain Dance",
+      "Sunny Day",
+      "Facade",
+      "Helping Hand",
+      "Fake Tears",
+      "Drain Punch",
+      "Trick Room",
+      "Round",
+      "Draining Kiss",
+      "Misty Terrain",
+      "Psyshock",
+      "Calm Mind",
+      "Toxic",
+      "Hidden Power",
+      "Frustration",
+      "Thunderbolt",
+      "Thunder",
+      "Return",
+      "Psychic",
+      "Double Team",
+      "Torment",
+      "Echoed Voice",
+      "Energy Ball",
+      "Charge Beam",
+      "Gyro Ball",
+      "Psych Up",
+      "Dream Eater",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Flash Cannon",
+      "Dazzling Gleam",
+      "Confide"
+    ],
+    "tr": [
+      "Thunderbolt",
+      "Thunder",
+      "Psychic",
+      "Metronome",
+      "Substitute",
+      "Psyshock",
+      "Endure",
+      "Sleep Talk",
+      "Encore",
+      "Skill Swap",
+      "Calm Mind",
+      "Gyro Ball",
+      "Energy Ball",
+      "Nasty Plot",
+      "Flash Cannon",
+      "Ally Switch",
+      "Dazzling Gleam"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 101,
+      "min": 312,
+      "max": 406
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 72,
+      "min": 134,
+      "max": 267
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 72,
+      "min": 134,
+      "max": 267
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 99,
+      "min": 182,
+      "max": 326
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 89,
+      "min": 164,
+      "max": 304
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 29,
+      "min": 56,
+      "max": 172
+    }
+  }
+}
