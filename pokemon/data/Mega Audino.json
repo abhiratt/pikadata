@@ -1,30 +1,28 @@
 {
   "name": "Audino",
-  "subname": "",
+  "subname": "Mega Audino",
   "id": "531",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/531.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/531_f2.png",
   "types": [
-    "Normal"
+    "Normal",
+    "Fairy"
   ],
   "info": {
     "description": "Audino is a Normal type Pokémon introduced in Generation 5. It is known as the Hearing Pokémon.",
     "species": "Hearing Pok\u00e9mon",
-    "height": "1.1m",
-    "weight": "31.0kg",
+    "height": "1.5m",
+    "weight": "32.0kg",
     "catchRate": "255",
-    "baseExp": "390",
+    "baseExp": "425",
     "growthRate": "Fast",
     "eggGroups": [
       "Fairy"
     ],
     "genders": "0.5",
     "ability": [
-      "Healer",
-      "Regenerator"
+      "Healer"
     ],
-    "hiddenAbility": [
-      "Klutz"
-    ],
+    "hiddenAbility": [],
     "eggCycles": "20 (4,884–5,140 steps)",
     "evYield": "2 HP"
   },
@@ -242,21 +240,21 @@
     },
     "defense": {
       "name": "Defense",
-      "base": 86,
-      "min": 159,
-      "max": 298
+      "base": 126,
+      "min": 231,
+      "max": 386
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 60,
-      "min": 112,
-      "max": 240
+      "base": 80,
+      "min": 148,
+      "max": 284
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 86,
-      "min": 159,
-      "max": 298
+      "base": 126,
+      "min": 231,
+      "max": 386
     },
     "speed": {
       "name": "Speed",
