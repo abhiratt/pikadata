@@ -1346,11 +1346,21 @@
   },
   "Zapdos": {
     "name": "Zapdos",
+    "subname": "",
     "id": "145",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
     "types": [
-      "Fighting",
       "Electric",
+      "Flying"
+    ]
+  },
+  "Galarian Zapdos": {
+    "name": "Zapdos",
+    "subname": "Galarian Zapdos",
+    "id": "145",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145_f2.png",
+    "types": [
+      "Fighting",
       "Flying"
     ]
   },
@@ -2373,8 +2383,18 @@
   },
   "Zigzagoon": {
     "name": "Zigzagoon",
+    "subname": "",
     "id": "263",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/263.png",
+    "types": [
+      "Normal"
+    ]
+  },
+  "Galarian Zigzagoon": {
+    "name": "Zigzagoon",
+    "subname": "Galarian Zigzagoon",
+    "id": "263",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/263_f2.png",
     "types": [
       "Dark",
       "Normal"
@@ -3016,6 +3036,7 @@
   },
   "Zangoose": {
     "name": "Zangoose",
+    "subname": "",
     "id": "335",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/335.png",
     "types": [
@@ -4658,6 +4679,7 @@
   },
   "Zebstrika": {
     "name": "Zebstrika",
+    "subname": "",
     "id": "523",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/523.png",
     "types": [
@@ -5757,6 +5779,7 @@
   },
   "Zekrom": {
     "name": "Zekrom",
+    "subname": "",
     "id": "644",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/644.png",
     "types": [
@@ -7224,6 +7247,7 @@
   },
   "Zeraora": {
     "name": "Zeraora",
+    "subname": "",
     "id": "807",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/807.png",
     "types": [
@@ -7957,6 +7981,7 @@
   },
   "Zarude": {
     "name": "Zarude",
+    "subname": "",
     "id": "893",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/893.png",
     "types": [
