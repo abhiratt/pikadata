@@ -6346,10 +6346,31 @@
       "Flying"
     ]
   },
-  "Zygarde": {
+  "50% Forme": {
     "name": "Zygarde",
+    "subname": "50% Forme",
     "id": "718",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/718.png",
+    "types": [
+      "Dragon",
+      "Ground"
+    ]
+  },
+  "10% Forme": {
+    "name": "Zygarde",
+    "subname": "10% Forme",
+    "id": "718",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/718_f2.png",
+    "types": [
+      "Dragon",
+      "Ground"
+    ]
+  },
+  "Complete Forme": {
+    "name": "Zygarde",
+    "subname": "Complete Forme",
+    "id": "718",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/718_f3.png",
     "types": [
       "Dragon",
       "Ground"
