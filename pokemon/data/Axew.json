@@ -1,1 +1,193 @@
-{"name": "Axew", "id": "610", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/610.png", "types": ["Dragon"], "info": {"description": "", "species": "Tusk Pok\u00e9mon", "height": "0.6m", "weight": "18.0kg", "catchRate": "75", "baseExp": "64", "growthRate": "Slow", "eggGroups": ["Dragon", "Monster"]}, "evolutions": ["Axew", "Fraxure", "Haxorus"], "moves": {"levelUp": ["Leer", "Scratch", "Bite", "False Swipe", "Assurance", "Taunt", "Slash", "Dragon Claw", "Scary Face", "Crunch", "Dragon Dance", "Dual Chop", "Laser Focus", "Dragon Pulse", "Swords Dance", "Outrage", "Guillotine", "Giga Impact", "Dragon Rage"], "egg": ["Counter", "Endeavor", "First Impression", "Harden", "Night Slash", "Scale Shot", "Dragon Pulse", "Endure", "Focus Energy", "Iron Tail", "Razor Wind", "Reversal", "Aqua Tail", "Draco Meteor", "Dual Chop", "Outrage", "Shock Wave", "Snore", "Superpower", "Dig", "Hone Claws", "Incinerate", "Rock Smash", "Secret Power", "Cut", "Strength"], "tutor": ["Scale Shot", "Aqua Tail", "Draco Meteor", "Dragon Pulse", "Dual Chop", "Endeavor", "Iron Tail", "Outrage", "Shock Wave", "Snore", "Superpower"], "tm": ["Giga Impact", "Dig", "Rest", "Snore", "Protect", "Scary Face", "Attract", "Rain Dance", "Sunny Day", "Facade", "Swift", "Rock Tomb", "Payback", "Assurance", "Fling", "Round", "False Swipe", "Breaking Swipe", "Dragon Claw", "Roar", "Toxic", "Hidden Power", "Taunt", "Frustration", "Return", "Double Team", "Aerial Ace", "Swords Dance", "X-Scissor", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Confide"], "tr": ["Swords Dance", "Focus Energy", "Substitute", "Reversal", "Outrage", "Endure", "Sleep Talk", "Iron Tail", "Crunch", "Taunt", "Superpower", "Dragon Claw", "Dragon Dance", "Poison Jab", "X-Scissor", "Dragon Pulse"]}, "stats": {"hp": {"name": "HP", "base": 46, "min": 202, "max": 296}, "attack": {"name": "Attack", "base": 87, "min": 161, "max": 300}, "defense": {"name": "Defense", "base": 60, "min": 112, "max": 240}, "spAttack": {"name": "Sp. Attack", "base": 60, "min": 112, "max": 240}, "spDefense": {"name": "Sp. Defense", "base": 60, "min": 112, "max": 240}, "speed": {"name": "Speed", "base": 46, "min": 202, "max": 296}}}
+{
+  "name": "Axew",
+  "subname": "",
+  "id": "610",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/610.png",
+  "types": [
+    "Dragon"
+  ],
+  "info": {
+    "description": "Axew is a Dragon type Pokémon introduced in Generation 5. It is known as the Tusk Pokémon.",
+    "species": "Tusk Pok\u00e9mon",
+    "height": "0.6m",
+    "weight": "18.0kg",
+    "catchRate": "75",
+    "baseExp": "64",
+    "growthRate": "Slow",
+    "eggGroups": [
+      "Dragon",
+      "Monster"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Rivalry",
+      "Mold Breaker"
+    ],
+    "hiddenAbility": [
+      "Unnerve"
+    ],
+    "eggCycles": "40 (10,024–10,280 steps)",
+    "evYield": "1 Attack"
+  },
+  "evolutions": [
+    "Axew",
+    "Fraxure",
+    "Haxorus"
+  ],
+  "moves": {
+    "levelUp": [
+      "Leer",
+      "Scratch",
+      "Bite",
+      "False Swipe",
+      "Assurance",
+      "Taunt",
+      "Slash",
+      "Dragon Claw",
+      "Scary Face",
+      "Crunch",
+      "Dragon Dance",
+      "Dual Chop",
+      "Laser Focus",
+      "Dragon Pulse",
+      "Swords Dance",
+      "Outrage",
+      "Guillotine",
+      "Giga Impact",
+      "Dragon Rage"
+    ],
+    "egg": [
+      "Counter",
+      "Endeavor",
+      "First Impression",
+      "Harden",
+      "Night Slash",
+      "Scale Shot",
+      "Dragon Pulse",
+      "Endure",
+      "Focus Energy",
+      "Iron Tail",
+      "Razor Wind",
+      "Reversal",
+      "Aqua Tail",
+      "Draco Meteor",
+      "Dual Chop",
+      "Outrage",
+      "Shock Wave",
+      "Snore",
+      "Superpower",
+      "Dig",
+      "Hone Claws",
+      "Incinerate",
+      "Rock Smash",
+      "Secret Power",
+      "Cut",
+      "Strength"
+    ],
+    "tutor": [
+      "Scale Shot",
+      "Aqua Tail",
+      "Draco Meteor",
+      "Dragon Pulse",
+      "Dual Chop",
+      "Endeavor",
+      "Iron Tail",
+      "Outrage",
+      "Shock Wave",
+      "Snore",
+      "Superpower"
+    ],
+    "tm": [
+      "Giga Impact",
+      "Dig",
+      "Rest",
+      "Snore",
+      "Protect",
+      "Scary Face",
+      "Attract",
+      "Rain Dance",
+      "Sunny Day",
+      "Facade",
+      "Swift",
+      "Rock Tomb",
+      "Payback",
+      "Assurance",
+      "Fling",
+      "Round",
+      "False Swipe",
+      "Breaking Swipe",
+      "Dragon Claw",
+      "Roar",
+      "Toxic",
+      "Hidden Power",
+      "Taunt",
+      "Frustration",
+      "Return",
+      "Double Team",
+      "Aerial Ace",
+      "Swords Dance",
+      "X-Scissor",
+      "Poison Jab",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Confide"
+    ],
+    "tr": [
+      "Swords Dance",
+      "Focus Energy",
+      "Substitute",
+      "Reversal",
+      "Outrage",
+      "Endure",
+      "Sleep Talk",
+      "Iron Tail",
+      "Crunch",
+      "Taunt",
+      "Superpower",
+      "Dragon Claw",
+      "Dragon Dance",
+      "Poison Jab",
+      "X-Scissor",
+      "Dragon Pulse"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 46,
+      "min": 202,
+      "max": 296
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 87,
+      "min": 161,
+      "max": 300
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 40,
+      "min": 76,
+      "max": 196
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 57,
+      "min": 107,
+      "max": 234
+    }
+  }
+}
