@@ -396,11 +396,12 @@
   },
   "Zubat": {
     "name": "Zubat",
+    "subname": "",
     "id": "041",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png",
     "types": [
-      "Flying",
-      "Poison"
+      "Poison",
+      "Flying"
     ]
   },
   "Golbat": {
@@ -658,6 +659,7 @@
   },
   "Bellsprout": {
     "name": "Bellsprout",
+    "subname": "",
     "id": "069",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png",
     "types": [
@@ -1673,6 +1675,7 @@
   },
   "Bellossom": {
     "name": "Bellossom",
+    "subname": "",
     "id": "182",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/182.png",
     "types": [
@@ -3370,11 +3373,12 @@
   },
   "Beldum": {
     "name": "Beldum",
+    "subname": "",
     "id": "374",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/374.png",
     "types": [
-      "Psychic",
-      "Steel"
+      "Steel",
+      "Psychic"
     ]
   },
   "Metang": {
@@ -5092,12 +5096,21 @@
   },
   "Zorua": {
     "name": "Zorua",
+    "subname": "",
     "id": "570",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/570.png",
     "types": [
-      "Dark",
-      "Ghost",
-      "Normal"
+      "Dark"
+    ]
+  },
+  "Hisuian Zorua": {
+    "name": "Zorua",
+    "subname": "Hisuian Zorua",
+    "id": "570",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/570_f2.png",
+    "types": [
+      "Normal",
+      "Ghost"
     ]
   },
   "Zoroark": {
@@ -5108,6 +5121,16 @@
       "Dark",
       "Ghost",
       "Normal"
+    ]
+  },
+  "Hisuian Zoroark": {
+    "name": "Zoroark",
+    "subname": "Hisuian Zoroark",
+    "id": "571",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/571_f2.png",
+    "types": [
+      "Normal",
+      "Ghost"
     ]
   },
   "Minccino": {
@@ -5400,6 +5423,7 @@
   },
   "Beheeyem": {
     "name": "Beheeyem",
+    "subname": "",
     "id": "606",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/606.png",
     "types": [
@@ -5643,6 +5667,7 @@
   },
   "Zweilous": {
     "name": "Zweilous",
+    "subname": "",
     "id": "634",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/634.png",
     "types": [
@@ -6334,6 +6359,7 @@
   },
   "Bergmite": {
     "name": "Bergmite",
+    "subname": "",
     "id": "712",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/712.png",
     "types": [
@@ -6786,11 +6812,12 @@
   },
   "Bewear": {
     "name": "Bewear",
+    "subname": "",
     "id": "760",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/760.png",
     "types": [
-      "Fighting",
-      "Normal"
+      "Normal",
+      "Fighting"
     ]
   },
   "Bounsweet": {
