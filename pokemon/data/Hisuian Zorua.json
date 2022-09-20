@@ -1,29 +1,28 @@
 {
   "name": "Zorua",
-  "subname": "",
+  "subname": "Hisuian Zorua",
   "id": "570",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/570.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/570_f2.png",
   "types": [
-    "Dark"
+    "Normal",
+    "Ghost"
   ],
   "info": {
-    "description": "Zorua is a Dark type Pokémon introduced in Generation 5. It is known as the Tricky Fox Pokémon.",
+    "description": "Zorua is a Dark type Pokémon introduced in Generation 5. It is known as the Tricky Fox Pokémon. Zorua has a new Hisuian form, available in Pokémon Legends: Arceus.",
     "species": "Tricky Fox Pok\u00e9mon",
     "height": "0.7m",
     "weight": "12.5kg",
-    "catchRate": "75",
-    "baseExp": "66",
-    "growthRate": "Medium Slow",
-    "eggGroups": [
-      "Field"
-    ],
-    "genders": "0.875",
+    "catchRate": "-",
+    "baseExp": "-",
+    "growthRate": "-",
+    "eggGroups": [],
+    "genders": "-",
     "ability": [
       "Illusion"
     ],
     "hiddenAbility": [],
-    "eggCycles": "25 (6,169–6,425 steps)",
-    "evYield": "1 Special Attack"
+    "eggCycles": "-",
+    "evYield": "-"
   },
   "evolutions": [
     "Zorua",
@@ -126,15 +125,15 @@
   "stats": {
     "hp": {
       "name": "HP",
-      "base": 40,
-      "min": 190,
-      "max": 284
+      "base": 35,
+      "min": 180,
+      "max": 274
     },
     "attack": {
       "name": "Attack",
-      "base": 65,
-      "min": 121,
-      "max": 251
+      "base": 60,
+      "min": 112,
+      "max": 240
     },
     "defense": {
       "name": "Defense",
@@ -144,9 +143,9 @@
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 80,
-      "min": 148,
-      "max": 284
+      "base": 85,
+      "min": 157,
+      "max": 295
     },
     "spDefense": {
       "name": "Sp. Defense",
@@ -156,9 +155,9 @@
     },
     "speed": {
       "name": "Speed",
-      "base": 65,
-      "min": 121,
-      "max": 251
+      "base": 70,
+      "min": 130,
+      "max": 262
     }
   }
 }
