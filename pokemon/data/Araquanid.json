@@ -1,1 +1,184 @@
-{"name": "Araquanid", "id": "752", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/752.png", "types": ["Bug", "Water"], "info": {"description": "", "species": "Water Bubble Pok\u00e9mon", "height": "1.8m", "weight": "82.0kg", "catchRate": "100", "baseExp": "159", "growthRate": "Medium Fast", "eggGroups": ["Water 1", "Bug"]}, "evolutions": ["Dewpider", "Araquanid"], "moves": {"levelUp": ["Bite", "Bug Bite", "Infestation", "Water Gun", "Wide Guard", "Bubble Beam", "Aqua Ring", "Headbutt", "Crunch", "Soak", "Entrainment", "Lunge", "Liquidation", "Leech Life", "Mirror Coat", "Bubble", "Spider Web"], "egg": ["Power Split", "Spit Up", "Sticky Web", "Stockpile", "Skitter Smack", "Aurora Beam", "Bug Bite", "Giga Drain", "Icy Wind", "Iron Defense", "Laser Focus", "Liquidation", "Magic Coat", "Magic Room", "Signal Beam", "Snore", "Water Pulse", "Wonder Room", "Water Sport"], "tutor": ["Skitter Smack", "Bug Bite", "Giga Drain", "Icy Wind", "Iron Defense", "Laser Focus", "Liquidation", "Magic Coat", "Magic Room", "Signal Beam", "Snore", "Water Pulse", "Wonder Room"], "tm": ["Reflect", "Safeguard", "Rest", "Snore", "Protect", "Icy Wind", "Giga Drain", "Attract", "Rain Dance", "Facade", "Dive", "Wonder Room", "Magic Room", "Round", "Toxic", "Hidden Power", "Ice Beam", "Blizzard", "Frustration", "Return", "Leech Life", "Double Team", "Scald", "Frost Breath", "X-Scissor", "Infestation", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall", "Confide"], "tr": ["Hydro Pump", "Surf", "Ice Beam", "Blizzard", "Waterfall", "Leech Life", "Substitute", "Endure", "Sleep Talk", "Crunch", "Iron Defense", "Poison Jab", "X-Scissor", "Bug Buzz", "Scald", "Liquidation"]}, "stats": {"hp": {"name": "HP", "base": 68, "min": 246, "max": 340}, "attack": {"name": "Attack", "base": 70, "min": 130, "max": 262}, "defense": {"name": "Defense", "base": 92, "min": 170, "max": 311}, "spAttack": {"name": "Sp. Attack", "base": 92, "min": 170, "max": 311}, "spDefense": {"name": "Sp. Defense", "base": 92, "min": 170, "max": 311}, "speed": {"name": "Speed", "base": 68, "min": 246, "max": 340}}}
+{
+  "name": "Araquanid",
+  "subname": "",
+  "id": "752",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/752.png",
+  "types": [
+    "Water",
+    "Bug"
+  ],
+  "info": {
+    "description": "Araquanid is a Water/Bug type Pokémon introduced in Generation 7. It is known as the Water Bubble Pokémon.",
+    "species": "Water Bubble Pok\u00e9mon",
+    "height": "1.8m",
+    "weight": "82.0kg",
+    "catchRate": "100",
+    "baseExp": "159",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Water 1",
+      "Bug"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Water Bubble"
+    ],
+    "hiddenAbility": [
+      "Water Absorb"
+    ],
+    "eggCycles": "15 (3,599–3,855 steps)",
+    "evYield": "2 Special Defense"
+  },
+  "evolutions": [
+    "Dewpider",
+    "Araquanid"
+  ],
+  "moves": {
+    "levelUp": [
+      "Bite",
+      "Bug Bite",
+      "Infestation",
+      "Water Gun",
+      "Wide Guard",
+      "Bubble Beam",
+      "Aqua Ring",
+      "Headbutt",
+      "Crunch",
+      "Soak",
+      "Entrainment",
+      "Lunge",
+      "Liquidation",
+      "Leech Life",
+      "Mirror Coat",
+      "Bubble",
+      "Spider Web"
+    ],
+    "egg": [
+      "Power Split",
+      "Spit Up",
+      "Sticky Web",
+      "Stockpile",
+      "Skitter Smack",
+      "Aurora Beam",
+      "Bug Bite",
+      "Giga Drain",
+      "Icy Wind",
+      "Iron Defense",
+      "Laser Focus",
+      "Liquidation",
+      "Magic Coat",
+      "Magic Room",
+      "Signal Beam",
+      "Snore",
+      "Water Pulse",
+      "Wonder Room",
+      "Water Sport"
+    ],
+    "tutor": [
+      "Skitter Smack",
+      "Bug Bite",
+      "Giga Drain",
+      "Icy Wind",
+      "Iron Defense",
+      "Laser Focus",
+      "Liquidation",
+      "Magic Coat",
+      "Magic Room",
+      "Signal Beam",
+      "Snore",
+      "Water Pulse",
+      "Wonder Room"
+    ],
+    "tm": [
+      "Reflect",
+      "Safeguard",
+      "Rest",
+      "Snore",
+      "Protect",
+      "Icy Wind",
+      "Giga Drain",
+      "Attract",
+      "Rain Dance",
+      "Facade",
+      "Dive",
+      "Wonder Room",
+      "Magic Room",
+      "Round",
+      "Toxic",
+      "Hidden Power",
+      "Ice Beam",
+      "Blizzard",
+      "Frustration",
+      "Return",
+      "Leech Life",
+      "Double Team",
+      "Scald",
+      "Frost Breath",
+      "X-Scissor",
+      "Infestation",
+      "Poison Jab",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Surf",
+      "Waterfall",
+      "Confide"
+    ],
+    "tr": [
+      "Hydro Pump",
+      "Surf",
+      "Ice Beam",
+      "Blizzard",
+      "Waterfall",
+      "Leech Life",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Crunch",
+      "Iron Defense",
+      "Poison Jab",
+      "X-Scissor",
+      "Bug Buzz",
+      "Scald",
+      "Liquidation"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 68,
+      "min": 246,
+      "max": 340
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 92,
+      "min": 170,
+      "max": 311
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 50,
+      "min": 94,
+      "max": 218
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 132,
+      "min": 242,
+      "max": 399
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 42,
+      "min": 80,
+      "max": 201
+    }
+  }
+}
