@@ -1678,6 +1678,7 @@
   },
   "Azumarill": {
     "name": "Azumarill",
+    "subname": "",
     "id": "184",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/184.png",
     "types": [
@@ -2659,6 +2660,7 @@
   },
   "Azurill": {
     "name": "Azurill",
+    "subname": "",
     "id": "298",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/298.png",
     "types": [
@@ -4283,6 +4285,7 @@
   },
   "Azelf": {
     "name": "Azelf",
+    "subname": "",
     "id": "482",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/482.png",
     "types": [
@@ -5386,6 +5389,7 @@
   },
   "Axew": {
     "name": "Axew",
+    "subname": "",
     "id": "610",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/610.png",
     "types": [
