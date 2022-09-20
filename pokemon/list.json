@@ -2700,6 +2700,7 @@
   },
   "Aron": {
     "name": "Aron",
+    "subname": "",
     "id": "304",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/304.png",
     "types": [
@@ -6004,6 +6005,7 @@
   },
   "Aromatisse": {
     "name": "Aromatisse",
+    "subname": "",
     "id": "683",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/683.png",
     "types": [
