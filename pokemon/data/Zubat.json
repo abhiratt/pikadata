@@ -1,1 +1,146 @@
-{"name": "Zubat", "id": "041", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png", "types": ["Flying", "Poison"], "info": {"description": "", "species": "Bat Pok\u00e9mon", "height": "0.8m", "weight": "7.5kg", "catchRate": "255", "baseExp": "49", "growthRate": "Medium Fast", "eggGroups": ["Flying"]}, "evolutions": ["Zubat", "Golbat", "Crobat"], "moves": {"levelUp": ["Absorb", "Supersonic", "Astonish", "Mean Look", "Poison Fang", "Quick Guard", "Air Cutter", "Bite", "Haze", "Venoshock", "Confuse Ray", "Air Slash", "Leech Life", "Gust", "Hypnosis", "Cross Poison"], "egg": ["Brave Bird", "Curse", "Gust", "Hypnosis", "Quick Attack", "Venom Drench", "Whirlwind", "Wing Attack", "Zen Headbutt", "Aerial Ace", "Leech Life", "Ominous Wind", "Rest", "Shadow Ball", "Sludge Bomb", "Swift"], "tutor": [], "tm": ["Sunny Day", "Taunt", "Protect", "Rain Dance", "Giga Drain", "Shadow Ball", "Double Team", "Sludge Bomb", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Thief", "Steel Wing", "Roost", "Endure", "Nasty Plot", "Payback", "Sleep Talk", "Swagger", "Pluck", "U-turn", "Substitute", "Fly", "Defog", "Leech Life", "Ominous Wind", "Swift", "Zen Headbutt"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 40, "min": 190, "max": 284}, "attack": {"name": "Attack", "base": 45, "min": 85, "max": 207}, "defense": {"name": "Defense", "base": 35, "min": 67, "max": 185}, "spAttack": {"name": "Sp. Attack", "base": 35, "min": 67, "max": 185}, "spDefense": {"name": "Sp. Defense", "base": 35, "min": 67, "max": 185}, "speed": {"name": "Speed", "base": 40, "min": 190, "max": 284}}}
+{
+  "name": "Zubat",
+  "subname": "",
+  "id": "041",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png",
+  "types": [
+    "Poison",
+    "Flying"
+  ],
+  "info": {
+    "description": "Zubat is a Poison/Flying type Pokémon introduced in Generation 1. It is known as the Bat Pokémon.",
+    "species": "Bat Pok\u00e9mon",
+    "height": "0.8m",
+    "weight": "7.5kg",
+    "catchRate": "255",
+    "baseExp": "49",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Flying"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Inner Focus"
+    ],
+    "hiddenAbility": [
+      "Infiltrator"
+    ],
+    "eggCycles": "15 (3,599–3,855 steps)",
+    "evYield": "1 Speed"
+  },
+  "evolutions": [
+    "Zubat",
+    "Golbat",
+    "Crobat"
+  ],
+  "moves": {
+    "levelUp": [
+      "Absorb",
+      "Supersonic",
+      "Astonish",
+      "Mean Look",
+      "Poison Fang",
+      "Quick Guard",
+      "Air Cutter",
+      "Bite",
+      "Haze",
+      "Venoshock",
+      "Confuse Ray",
+      "Air Slash",
+      "Leech Life",
+      "Gust",
+      "Hypnosis",
+      "Cross Poison"
+    ],
+    "egg": [
+      "Brave Bird",
+      "Curse",
+      "Gust",
+      "Hypnosis",
+      "Quick Attack",
+      "Venom Drench",
+      "Whirlwind",
+      "Wing Attack",
+      "Zen Headbutt",
+      "Aerial Ace",
+      "Leech Life",
+      "Ominous Wind",
+      "Rest",
+      "Shadow Ball",
+      "Sludge Bomb",
+      "Swift"
+    ],
+    "tutor": [],
+    "tm": [
+      "Sunny Day",
+      "Taunt",
+      "Protect",
+      "Rain Dance",
+      "Giga Drain",
+      "Shadow Ball",
+      "Double Team",
+      "Sludge Bomb",
+      "Aerial Ace",
+      "Torment",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Thief",
+      "Steel Wing",
+      "Roost",
+      "Endure",
+      "Nasty Plot",
+      "Payback",
+      "Sleep Talk",
+      "Swagger",
+      "Pluck",
+      "U-turn",
+      "Substitute",
+      "Fly",
+      "Defog",
+      "Leech Life",
+      "Ominous Wind",
+      "Swift",
+      "Zen Headbutt"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 40,
+      "min": 190,
+      "max": 284
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 45,
+      "min": 85,
+      "max": 207
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 35,
+      "min": 67,
+      "max": 185
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 40,
+      "min": 76,
+      "max": 196
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 55,
+      "min": 103,
+      "max": 229
+    }
+  }
+}
