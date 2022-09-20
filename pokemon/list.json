@@ -1313,11 +1313,21 @@
   },
   "Articuno": {
     "name": "Articuno",
+    "subname": "",
     "id": "144",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
     "types": [
-      "Psychic",
       "Ice",
+      "Flying"
+    ]
+  },
+  "Galarian Articuno": {
+    "name": "Articuno",
+    "subname": "Galarian Articuno",
+    "id": "144",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144_f2.png",
+    "types": [
+      "Psychic",
       "Flying"
     ]
   },
@@ -4681,8 +4691,18 @@
   },
   "Audino": {
     "name": "Audino",
+    "subname": "",
     "id": "531",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/531.png",
+    "types": [
+      "Normal"
+    ]
+  },
+  "Mega Audino": {
+    "name": "Audino",
+    "subname": "Mega Audino",
+    "id": "531",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/531_f2.png",
     "types": [
       "Normal",
       "Fairy"
@@ -6146,11 +6166,12 @@
   },
   "Aurorus": {
     "name": "Aurorus",
+    "subname": "",
     "id": "699",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/699.png",
     "types": [
-      "Ice",
-      "Rock"
+      "Rock",
+      "Ice"
     ]
   },
   "Sylveon": {
@@ -6269,8 +6290,18 @@
   },
   "Avalugg": {
     "name": "Avalugg",
+    "subname": "",
     "id": "713",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/713.png",
+    "types": [
+      "Ice"
+    ]
+  },
+  "Hisuian Avalugg": {
+    "name": "Avalugg",
+    "subname": "Hisuian Avalugg",
+    "id": "713",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/713_f2.png",
     "types": [
       "Ice",
       "Rock"
@@ -7417,6 +7448,7 @@
   },
   "Arrokuda": {
     "name": "Arrokuda",
+    "subname": "",
     "id": "846",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/846.png",
     "types": [
