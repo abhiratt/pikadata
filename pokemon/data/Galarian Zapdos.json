@@ -1,32 +1,30 @@
 {
   "name": "Zapdos",
-  "subname": "",
+  "subname": "Galarian Zapdos",
   "id": "145",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145_f2.png",
   "types": [
-    "Electric",
+    "Fighting",
     "Flying"
   ],
   "info": {
     "description": "Zapdos is an Electric/Flying type Pokémon introduced in Generation 1. It is known as the Electric Pokémon.",
     "species": "Electric Pok\u00e9mon",
     "height": "1.6m",
-    "weight": "52.6kg",
+    "weight": "58.2kg",
     "catchRate": "3",
-    "baseExp": "261",
+    "baseExp": "290",
     "growthRate": "Slow",
     "eggGroups": [
       "Undiscovered"
     ],
     "genders": "-",
     "ability": [
-      "Pressure"
+      "Defiant"
     ],
-    "hiddenAbility": [
-      "Static"
-    ],
-    "eggCycles": "80 (20,304–20,560 steps)",
-    "evYield": "3 Special Attack"
+    "hiddenAbility": [],
+    "eggCycles": "120 (30,584–30,840 steps)",
+    "evYield": "3 Attack"
   },
   "evolutions": [
     "Zapdos",
