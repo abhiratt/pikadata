@@ -1,26 +1,25 @@
 {
   "name": "Zygarde",
-  "subname": "50% Forme",
+  "subname": "Complete Forme",
   "id": "718",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/718.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/718_f3.png",
   "types": [
     "Dragon",
     "Ground"
   ],
   "info": {
-    "description": "Zygarde is a Dragon/Ground type Pokémon introduced in Generation 6. It is known as the Order Pokémon. Zygarde 50% Forme occurs when Zygarde Core gathers 50% of the Cells nearby. This is the standard form.",
+    "description": "Zygarde is a Dragon/Ground type Pokémon introduced in Generation 6. It is known as the Order Pokémon. Zygarde Complete Forme is the perfect form, which is more powerful than Xerneas and Yveltal. Zygarde takes this form when the ecosystem is under threat",
     "species": "Order Pok\u00e9mon",
-    "height": "5.0m",
-    "weight": "305.0kg",
+    "height": "4.5m",
+    "weight": "610.0kg",
     "catchRate": "3",
-    "baseExp": "270",
+    "baseExp": "319",
     "growthRate": "Slow",
     "eggGroups": [
       "Undiscovered"
     ],
     "genders": "0.5",
     "ability": [
-      "Aura Break",
       "Power Construct"
     ],
     "hiddenAbility": [],
@@ -145,9 +144,9 @@
   "stats": {
     "hp": {
       "name": "HP",
-      "base": 108,
-      "min": 326,
-      "max": 420
+      "base": 316,
+      "min": 542,
+      "max": 636
     },
     "attack": {
       "name": "Attack",
@@ -163,9 +162,9 @@
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 81,
-      "min": 150,
-      "max": 287
+      "base": 91,
+      "min": 168,
+      "max": 309
     },
     "spDefense": {
       "name": "Sp. Defense",
@@ -175,9 +174,9 @@
     },
     "speed": {
       "name": "Speed",
-      "base": 95,
-      "min": 175,
-      "max": 317
+      "base": 85,
+      "min": 157,
+      "max": 295
     }
   }
 }

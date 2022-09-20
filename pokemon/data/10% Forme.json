@@ -1,19 +1,19 @@
 {
   "name": "Zygarde",
-  "subname": "50% Forme",
+  "subname": "10% Forme",
   "id": "718",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/718.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/718_f2.png",
   "types": [
     "Dragon",
     "Ground"
   ],
   "info": {
-    "description": "Zygarde is a Dragon/Ground type Pokémon introduced in Generation 6. It is known as the Order Pokémon. Zygarde 50% Forme occurs when Zygarde Core gathers 50% of the Cells nearby. This is the standard form.",
+    "description": "Zygarde is a Dragon/Ground type Pokémon introduced in Generation 6. It is known as the Order Pokémon. Zygarde 10% Forme occurs when Zygarde Core gathers 10% of the Cells nearby. It has the appearance of a dog.",
     "species": "Order Pok\u00e9mon",
-    "height": "5.0m",
-    "weight": "305.0kg",
+    "height": "1.2m",
+    "weight": "33.5kg",
     "catchRate": "3",
-    "baseExp": "270",
+    "baseExp": "219",
     "growthRate": "Slow",
     "eggGroups": [
       "Undiscovered"
@@ -145,9 +145,9 @@
   "stats": {
     "hp": {
       "name": "HP",
-      "base": 108,
-      "min": 326,
-      "max": 420
+      "base": 54,
+      "min": 218,
+      "max": 312
     },
     "attack": {
       "name": "Attack",
@@ -157,27 +157,27 @@
     },
     "defense": {
       "name": "Defense",
-      "base": 121,
-      "min": 222,
-      "max": 375
+      "base": 71,
+      "min": 132,
+      "max": 265
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 81,
-      "min": 150,
-      "max": 287
+      "base": 61,
+      "min": 114,
+      "max": 243
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 95,
-      "min": 175,
-      "max": 317
+      "base": 85,
+      "min": 157,
+      "max": 295
     },
     "speed": {
       "name": "Speed",
-      "base": 95,
-      "min": 175,
-      "max": 317
+      "base": 115,
+      "min": 211,
+      "max": 361
     }
   }
 }
