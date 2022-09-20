@@ -1519,6 +1519,7 @@
   },
   "Ariados": {
     "name": "Ariados",
+    "subname": "",
     "id": "168",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/168.png",
     "types": [
@@ -3101,11 +3102,12 @@
   },
   "Armaldo": {
     "name": "Armaldo",
+    "subname": "",
     "id": "348",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/348.png",
     "types": [
-      "Bug",
-      "Rock"
+      "Rock",
+      "Bug"
     ]
   },
   "Feebas": {
@@ -4363,6 +4365,7 @@
   },
   "Arceus": {
     "name": "Arceus",
+    "subname": "",
     "id": "493",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png",
     "types": [
@@ -4983,20 +4986,22 @@
   },
   "Archen": {
     "name": "Archen",
+    "subname": "",
     "id": "566",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/566.png",
     "types": [
-      "Flying",
-      "Rock"
+      "Rock",
+      "Flying"
     ]
   },
   "Archeops": {
     "name": "Archeops",
+    "subname": "",
     "id": "567",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/567.png",
     "types": [
-      "Flying",
-      "Rock"
+      "Rock",
+      "Flying"
     ]
   },
   "Trubbish": {
@@ -7707,11 +7712,12 @@
   },
   "Arctozolt": {
     "name": "Arctozolt",
+    "subname": "",
     "id": "881",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/881.png",
     "types": [
-      "Ice",
-      "Electric"
+      "Electric",
+      "Ice"
     ]
   },
   "Dracovish": {
@@ -7725,11 +7731,12 @@
   },
   "Arctovish": {
     "name": "Arctovish",
+    "subname": "",
     "id": "883",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/883.png",
     "types": [
-      "Ice",
-      "Water"
+      "Water",
+      "Ice"
     ]
   },
   "Duraludon": {
