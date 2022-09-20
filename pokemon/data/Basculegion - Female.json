@@ -1,8 +1,8 @@
 {
   "name": "Basculegion",
-  "subname": "Basculegion - Male",
+  "subname": "Basculegion - Female",
   "id": "902",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/902.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/902_f2.png",
   "types": [
     "Water",
     "Ghost"
@@ -90,9 +90,9 @@
     },
     "attack": {
       "name": "Attack",
-      "base": 112,
-      "min": 206,
-      "max": 355
+      "base": 92,
+      "min": 170,
+      "max": 311
     },
     "defense": {
       "name": "Defense",
@@ -102,9 +102,9 @@
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 80,
-      "min": 148,
-      "max": 284
+      "base": 100,
+      "min": 184,
+      "max": 328
     },
     "spDefense": {
       "name": "Sp. Defense",
