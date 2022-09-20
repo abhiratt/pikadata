@@ -3034,6 +3034,7 @@
   },
   "Barboach": {
     "name": "Barboach",
+    "subname": "",
     "id": "339",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/339.png",
     "types": [
@@ -3069,11 +3070,12 @@
   },
   "Baltoy": {
     "name": "Baltoy",
+    "subname": "",
     "id": "343",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/343.png",
     "types": [
-      "Psychic",
-      "Ground"
+      "Ground",
+      "Psychic"
     ]
   },
   "Claydol": {
@@ -3168,8 +3170,18 @@
   },
   "Banette": {
     "name": "Banette",
+    "subname": "",
     "id": "354",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/354.png",
+    "types": [
+      "Ghost"
+    ]
+  },
+  "Mega Banette": {
+    "name": "Banette",
+    "subname": "Mega Banette",
+    "id": "354",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/354_f2.png",
     "types": [
       "Ghost"
     ]
@@ -3319,6 +3331,7 @@
   },
   "Bagon": {
     "name": "Bagon",
+    "subname": "",
     "id": "371",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/371.png",
     "types": [
@@ -4866,10 +4879,29 @@
       "Fighting"
     ]
   },
-  "Basculin": {
+  "Red-Striped Form": {
     "name": "Basculin",
+    "subname": "Red-Striped Form",
     "id": "550",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/550.png",
+    "types": [
+      "Water"
+    ]
+  },
+  "Blue-Striped Form": {
+    "name": "Basculin",
+    "subname": "Blue-Striped Form",
+    "id": "550",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/550_f2.png",
+    "types": [
+      "Water"
+    ]
+  },
+  "White-Striped Form": {
+    "name": "Basculin",
+    "subname": "White-Striped Form",
+    "id": "550",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/550_f3.png",
     "types": [
       "Water"
     ]
@@ -6081,11 +6113,12 @@
   },
   "Barbaracle": {
     "name": "Barbaracle",
+    "subname": "",
     "id": "689",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/689.png",
     "types": [
-      "Water",
-      "Rock"
+      "Rock",
+      "Water"
     ]
   },
   "Skrelp": {
@@ -7482,6 +7515,7 @@
   },
   "Barraskewda": {
     "name": "Barraskewda",
+    "subname": "",
     "id": "847",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/847.png",
     "types": [
@@ -7958,13 +7992,24 @@
       "Ground"
     ]
   },
-  "Basculegion": {
+  "Basculegion - Male": {
     "name": "Basculegion",
+    "subname": "Basculegion - Male",
     "id": "902",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/902.png",
     "types": [
-      "Ghost",
-      "Water"
+      "Water",
+      "Ghost"
+    ]
+  },
+  "Basculegion - Female": {
+    "name": "Basculegion",
+    "subname": "Basculegion - Female",
+    "id": "902",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/902_f2.png",
+    "types": [
+      "Water",
+      "Ghost"
     ]
   },
   "Sneasler": {
