@@ -156,8 +156,19 @@
   },
   "Beedrill": {
     "name": "Beedrill",
+    "subname": "",
     "id": "015",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+    "types": [
+      "Bug",
+      "Poison"
+    ]
+  },
+  "Mega Beedrill": {
+    "name": "Beedrill",
+    "subname": "Mega Beedrill",
+    "id": "015",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015_f2.png",
     "types": [
       "Bug",
       "Poison"
@@ -1403,6 +1414,7 @@
   },
   "Bayleef": {
     "name": "Bayleef",
+    "subname": "",
     "id": "153",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/153.png",
     "types": [
@@ -2392,6 +2404,7 @@
   },
   "Beautifly": {
     "name": "Beautifly",
+    "subname": "",
     "id": "267",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/267.png",
     "types": [
@@ -3672,11 +3685,12 @@
   },
   "Bastiodon": {
     "name": "Bastiodon",
+    "subname": "",
     "id": "411",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/411.png",
     "types": [
-      "Steel",
-      "Rock"
+      "Rock",
+      "Steel"
     ]
   },
   "Burmy": {
@@ -5454,6 +5468,7 @@
   },
   "Beartic": {
     "name": "Beartic",
+    "subname": "",
     "id": "614",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/614.png",
     "types": [
