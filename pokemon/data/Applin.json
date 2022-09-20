@@ -1,1 +1,96 @@
-{"name": "Applin", "id": "840", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/840.png", "types": ["Grass", "Dragon"], "info": {"description": "", "species": "Apple Core Pok\u00e9mon", "height": "0.2m", "weight": "0.5kg", "catchRate": "255", "baseExp": "52", "growthRate": "Erratic", "eggGroups": ["Dragon", "Grass"]}, "evolutions": ["Applin", "Flapple", "Appletun"], "moves": {"levelUp": ["Astonish", "Withdraw"], "egg": ["Defense Curl", "Recycle", "Rollout", "Sucker Punch", "Grassy Glide"], "tutor": ["Grassy Glide"], "tm": ["Attract"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 40, "min": 190, "max": 284}, "attack": {"name": "Attack", "base": 40, "min": 76, "max": 196}, "defense": {"name": "Defense", "base": 80, "min": 148, "max": 284}, "spAttack": {"name": "Sp. Attack", "base": 80, "min": 148, "max": 284}, "spDefense": {"name": "Sp. Defense", "base": 80, "min": 148, "max": 284}, "speed": {"name": "Speed", "base": 40, "min": 190, "max": 284}}}
+{
+  "name": "Applin",
+  "subname": "",
+  "id": "840",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/840.png",
+  "types": [
+    "Grass",
+    "Dragon"
+  ],
+  "info": {
+    "description": "Applin is a Grass/Dragon type Pokémon introduced in Generation 8. It is known as the Apple Core Pokémon.",
+    "species": "Apple Core Pok\u00e9mon",
+    "height": "0.2m",
+    "weight": "0.5kg",
+    "catchRate": "255",
+    "baseExp": "52",
+    "growthRate": "Erratic",
+    "eggGroups": [
+      "Dragon",
+      "Grass"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Ripen",
+      "Gluttony"
+    ],
+    "hiddenAbility": [
+      "Bulletproof"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 Attack, 1 Special Attack"
+  },
+  "evolutions": [
+    "Applin",
+    "Flapple",
+    "Appletun"
+  ],
+  "moves": {
+    "levelUp": [
+      "Astonish",
+      "Withdraw"
+    ],
+    "egg": [
+      "Defense Curl",
+      "Recycle",
+      "Rollout",
+      "Sucker Punch",
+      "Grassy Glide"
+    ],
+    "tutor": [
+      "Grassy Glide"
+    ],
+    "tm": [
+      "Attract"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 40,
+      "min": 190,
+      "max": 284
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 40,
+      "min": 76,
+      "max": 196
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 80,
+      "min": 148,
+      "max": 284
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 40,
+      "min": 76,
+      "max": 196
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 40,
+      "min": 76,
+      "max": 196
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 20,
+      "min": 40,
+      "max": 152
+    }
+  }
+}
