@@ -1,1 +1,189 @@
-{"name": "Ariados", "id": "168", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/168.png", "types": ["Bug", "Poison"], "info": {"description": "", "species": "Long Leg Pok\u00e9mon", "height": "1.1m", "weight": "33.5kg", "catchRate": "90", "baseExp": "140", "growthRate": "Fast", "eggGroups": ["Bug"]}, "evolutions": ["Spinarak", "Ariados"], "moves": {"levelUp": ["Absorb", "Bug Bite", "Fell Stinger", "Focus Energy", "Poison Sting", "String Shot", "Swords Dance", "Venom Drench", "Infestation", "Scary Face", "Night Shade", "Shadow Sneak", "Fury Swipes", "Sucker Punch", "Leech Life", "Agility", "Pin Missile", "Psychic", "Poison Jab", "Cross Poison", "Sticky Web", "Toxic Thread", "Constrict", "Spider Web"], "egg": ["Swords Dance", "Baton Pass", "Disable", "Lunge", "Megahorn", "Night Slash", "Psybeam", "Rage Powder", "Toxic Spikes", "Electroweb", "Pursuit", "Signal Beam", "Sonic Boom", "Twineedle", "Bounce", "Bug Bite", "Foul Play", "Giga Drain", "Snore", "Stomping Tantrum", "Throat Chop", "Screech", "Curse", "Body Slam", "Double-Edge", "Mimic", "Captivate", "Endure", "Natural Gift", "Dig", "Flash", "Hone Claws", "Secret Power", "Struggle Bug"], "tutor": ["Baton Pass", "Disable", "Lunge", "Megahorn", "Night Slash", "Psybeam", "Rage Powder", "Toxic Spikes", "Electroweb", "Pursuit", "Signal Beam", "Sonic Boom", "Twineedle"], "tm": ["Sunny Day", "Hyper Beam", "Protect", "Giga Drain", "Solar Beam", "Dig", "Psychic", "Double Team", "Sludge Bomb", "Facade", "Rest", "Attract", "Thief", "Endure", "Bug Buzz", "Giga Impact", "Flash", "Swords Dance", "X-Scissor", "Sleep Talk", "Poison Jab", "Swagger", "Substitute", "Toxic", "Venoshock", "Hidden Power", "Frustration", "Return", "Leech Life", "Round", "Smart Strike", "Infestation", "Confide"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 70, "min": 250, "max": 344}, "attack": {"name": "Attack", "base": 90, "min": 166, "max": 306}, "defense": {"name": "Defense", "base": 70, "min": 130, "max": 262}, "spAttack": {"name": "Sp. Attack", "base": 70, "min": 130, "max": 262}, "spDefense": {"name": "Sp. Defense", "base": 70, "min": 130, "max": 262}, "speed": {"name": "Speed", "base": 70, "min": 250, "max": 344}}}
+{
+  "name": "Ariados",
+  "subname": "",
+  "id": "168",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/168.png",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "info": {
+    "description": "Ariados is a Bug/Poison type Pokémon introduced in Generation 2. It is known as the Long Leg Pokémon.",
+    "species": "Long Leg Pok\u00e9mon",
+    "height": "1.1m",
+    "weight": "33.5kg",
+    "catchRate": "90",
+    "baseExp": "140",
+    "growthRate": "Fast",
+    "eggGroups": [
+      "Bug"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Swarm",
+      "Insomnia"
+    ],
+    "hiddenAbility": [
+      "Sniper"
+    ],
+    "eggCycles": "15 (3,599–3,855 steps)",
+    "evYield": "2 Attack"
+  },
+  "evolutions": [
+    "Spinarak",
+    "Ariados"
+  ],
+  "moves": {
+    "levelUp": [
+      "Absorb",
+      "Bug Bite",
+      "Fell Stinger",
+      "Focus Energy",
+      "Poison Sting",
+      "String Shot",
+      "Swords Dance",
+      "Venom Drench",
+      "Infestation",
+      "Scary Face",
+      "Night Shade",
+      "Shadow Sneak",
+      "Fury Swipes",
+      "Sucker Punch",
+      "Leech Life",
+      "Agility",
+      "Pin Missile",
+      "Psychic",
+      "Poison Jab",
+      "Cross Poison",
+      "Sticky Web",
+      "Toxic Thread",
+      "Constrict",
+      "Spider Web"
+    ],
+    "egg": [
+      "Swords Dance",
+      "Baton Pass",
+      "Disable",
+      "Lunge",
+      "Megahorn",
+      "Night Slash",
+      "Psybeam",
+      "Rage Powder",
+      "Toxic Spikes",
+      "Electroweb",
+      "Pursuit",
+      "Signal Beam",
+      "Sonic Boom",
+      "Twineedle",
+      "Bounce",
+      "Bug Bite",
+      "Foul Play",
+      "Giga Drain",
+      "Snore",
+      "Stomping Tantrum",
+      "Throat Chop",
+      "Screech",
+      "Curse",
+      "Body Slam",
+      "Double-Edge",
+      "Mimic",
+      "Captivate",
+      "Endure",
+      "Natural Gift",
+      "Dig",
+      "Flash",
+      "Hone Claws",
+      "Secret Power",
+      "Struggle Bug"
+    ],
+    "tutor": [
+      "Baton Pass",
+      "Disable",
+      "Lunge",
+      "Megahorn",
+      "Night Slash",
+      "Psybeam",
+      "Rage Powder",
+      "Toxic Spikes",
+      "Electroweb",
+      "Pursuit",
+      "Signal Beam",
+      "Sonic Boom",
+      "Twineedle"
+    ],
+    "tm": [
+      "Sunny Day",
+      "Hyper Beam",
+      "Protect",
+      "Giga Drain",
+      "Solar Beam",
+      "Dig",
+      "Psychic",
+      "Double Team",
+      "Sludge Bomb",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Thief",
+      "Endure",
+      "Bug Buzz",
+      "Giga Impact",
+      "Flash",
+      "Swords Dance",
+      "X-Scissor",
+      "Sleep Talk",
+      "Poison Jab",
+      "Swagger",
+      "Substitute",
+      "Toxic",
+      "Venoshock",
+      "Hidden Power",
+      "Frustration",
+      "Return",
+      "Leech Life",
+      "Round",
+      "Smart Strike",
+      "Infestation",
+      "Confide"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 70,
+      "min": 250,
+      "max": 344
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 90,
+      "min": 166,
+      "max": 306
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 40,
+      "min": 76,
+      "max": 196
+    }
+  }
+}
