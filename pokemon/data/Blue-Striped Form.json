@@ -1,8 +1,8 @@
 {
   "name": "Basculin",
-  "subname": "Red-Striped Form",
+  "subname": "Blue-Striped Form",
   "id": "550",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/550.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/550_f2.png",
   "types": [
     "Water"
   ],
@@ -19,7 +19,7 @@
     ],
     "genders": "0.5",
     "ability": [
-      "Reckless",
+      "Rock Head",
       "Adaptability"
     ],
     "hiddenAbility": [

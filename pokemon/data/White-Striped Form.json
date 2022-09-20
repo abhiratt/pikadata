@@ -1,8 +1,8 @@
 {
   "name": "Basculin",
-  "subname": "Red-Striped Form",
+  "subname": "White-Striped Form",
   "id": "550",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/550.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/550_f3.png",
   "types": [
     "Water"
   ],
@@ -11,22 +11,20 @@
     "species": "Hostile Pok\u00e9mon",
     "height": "1.0m",
     "weight": "18.0kg",
-    "catchRate": "25",
-    "baseExp": "161",
-    "growthRate": "Medium Fast",
-    "eggGroups": [
-      "Water 2"
-    ],
-    "genders": "0.5",
+    "catchRate": "-",
+    "baseExp": "-",
+    "growthRate": "-",
+    "eggGroups": [],
+    "genders": "-",
     "ability": [
-      "Reckless",
+      "Rattled",
       "Adaptability"
     ],
     "hiddenAbility": [
       "Mold Breaker"
     ],
-    "eggCycles": "40 (10,024–10,280 steps)",
-    "evYield": "2 Speed"
+    "eggCycles": "-",
+    "evYield": "-"
   },
   "evolutions": [
     "Red-Striped Form",
