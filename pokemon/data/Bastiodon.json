@@ -1,1 +1,187 @@
-{"name": "Bastiodon", "id": "411", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/411.png", "types": ["Steel", "Rock"], "info": {"description": "", "species": "Shield Pok\u00e9mon", "height": "1.3m", "weight": "149.5kg", "catchRate": "45", "baseExp": "173", "growthRate": "Erratic", "eggGroups": ["Monster"]}, "evolutions": ["Shieldon", "Bastiodon"], "moves": {"levelUp": ["Block", "Metal Sound", "Protect", "Tackle", "Taunt", "Take Down", "Iron Defense", "Swagger", "Ancient Power", "Endure", "Metal Burst", "Iron Head", "Heavy Slam", "Rock Slide", "Earth Power", "Stealth Rock", "Double-Edge"], "egg": ["Block", "Body Slam", "Counter", "Curse", "Double-Edge", "Fissure", "Focus Energy", "Guard Split", "Headbutt", "Rock Blast", "Scary Face", "Screech", "Wide Guard", "Bulldoze", "Earth Power", "Flamethrower", "Flash Cannon", "Giga Impact", "Hyper Beam", "Ice Beam", "Iron Head", "Iron Tail", "Outrage", "Power Shift", "Rest", "Rock Slide", "Rock Smash", "Stealth Rock", "Steel Beam", "Stone Edge", "Thunderbolt"], "tutor": ["Body Slam", "Counter", "Curse", "Double-Edge", "Fissure", "Focus Energy", "Guard Split", "Headbutt", "Rock Blast", "Scary Face", "Screech", "Wide Guard"], "tm": ["Roar", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Iron Tail", "Thunderbolt", "Thunder", "Earthquake", "Dig", "Double Team", "Shock Wave", "Flamethrower", "Sandstorm", "Fire Blast", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Endure", "Giga Impact", "Rock Polish", "Stone Edge", "Avalanche", "Stealth Rock", "Rock Slide", "Sleep Talk", "Bulldoze", "Swagger", "Substitute", "Flash Cannon", "Strength", "Rock Smash", "Earth Power", "Focus Energy", "Iron Head", "Outrage", "Power Shift", "Steel Beam"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 60, "min": 230, "max": 324}, "attack": {"name": "Attack", "base": 52, "min": 98, "max": 223}, "defense": {"name": "Defense", "base": 168, "min": 306, "max": 478}, "spAttack": {"name": "Sp. Attack", "base": 168, "min": 306, "max": 478}, "spDefense": {"name": "Sp. Defense", "base": 168, "min": 306, "max": 478}, "speed": {"name": "Speed", "base": 60, "min": 230, "max": 324}}}
+{
+  "name": "Bastiodon",
+  "subname": "",
+  "id": "411",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/411.png",
+  "types": [
+    "Rock",
+    "Steel"
+  ],
+  "info": {
+    "description": "Bastiodon is a Rock/Steel type Pokémon introduced in Generation 4. It is known as the Shield Pokémon.",
+    "species": "Shield Pok\u00e9mon",
+    "height": "1.3m",
+    "weight": "149.5kg",
+    "catchRate": "45",
+    "baseExp": "173",
+    "growthRate": "Erratic",
+    "eggGroups": [
+      "Monster"
+    ],
+    "genders": "0.875",
+    "ability": [
+      "Sturdy"
+    ],
+    "hiddenAbility": [
+      "Soundproof"
+    ],
+    "eggCycles": "30 (7,454–7,710 steps)",
+    "evYield": "2 Defense"
+  },
+  "evolutions": [
+    "Shieldon",
+    "Bastiodon"
+  ],
+  "moves": {
+    "levelUp": [
+      "Block",
+      "Metal Sound",
+      "Protect",
+      "Tackle",
+      "Taunt",
+      "Take Down",
+      "Iron Defense",
+      "Swagger",
+      "Ancient Power",
+      "Endure",
+      "Metal Burst",
+      "Iron Head",
+      "Heavy Slam",
+      "Rock Slide",
+      "Earth Power",
+      "Stealth Rock",
+      "Double-Edge"
+    ],
+    "egg": [
+      "Block",
+      "Body Slam",
+      "Counter",
+      "Curse",
+      "Double-Edge",
+      "Fissure",
+      "Focus Energy",
+      "Guard Split",
+      "Headbutt",
+      "Rock Blast",
+      "Scary Face",
+      "Screech",
+      "Wide Guard",
+      "Bulldoze",
+      "Earth Power",
+      "Flamethrower",
+      "Flash Cannon",
+      "Giga Impact",
+      "Hyper Beam",
+      "Ice Beam",
+      "Iron Head",
+      "Iron Tail",
+      "Outrage",
+      "Power Shift",
+      "Rest",
+      "Rock Slide",
+      "Rock Smash",
+      "Stealth Rock",
+      "Steel Beam",
+      "Stone Edge",
+      "Thunderbolt"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Counter",
+      "Curse",
+      "Double-Edge",
+      "Fissure",
+      "Focus Energy",
+      "Guard Split",
+      "Headbutt",
+      "Rock Blast",
+      "Scary Face",
+      "Screech",
+      "Wide Guard"
+    ],
+    "tm": [
+      "Roar",
+      "Sunny Day",
+      "Taunt",
+      "Ice Beam",
+      "Blizzard",
+      "Hyper Beam",
+      "Protect",
+      "Rain Dance",
+      "Iron Tail",
+      "Thunderbolt",
+      "Thunder",
+      "Earthquake",
+      "Dig",
+      "Double Team",
+      "Shock Wave",
+      "Flamethrower",
+      "Sandstorm",
+      "Fire Blast",
+      "Rock Tomb",
+      "Torment",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Endure",
+      "Giga Impact",
+      "Rock Polish",
+      "Stone Edge",
+      "Avalanche",
+      "Stealth Rock",
+      "Rock Slide",
+      "Sleep Talk",
+      "Bulldoze",
+      "Swagger",
+      "Substitute",
+      "Flash Cannon",
+      "Strength",
+      "Rock Smash",
+      "Earth Power",
+      "Focus Energy",
+      "Iron Head",
+      "Outrage",
+      "Power Shift",
+      "Steel Beam"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 60,
+      "min": 230,
+      "max": 324
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 52,
+      "min": 98,
+      "max": 223
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 168,
+      "min": 306,
+      "max": 478
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 47,
+      "min": 89,
+      "max": 212
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 138,
+      "min": 252,
+      "max": 412
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    }
+  }
+}
