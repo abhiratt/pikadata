@@ -1,1 +1,149 @@
-{"name": "Appletun", "id": "842", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/842.png", "types": ["Grass", "Dragon"], "info": {"description": "", "species": "Apple Nectar Pok\u00e9mon", "height": "0.4m", "weight": "13.0kg", "catchRate": "45", "baseExp": "170", "growthRate": "Erratic", "eggGroups": ["Dragon", "Grass"]}, "evolutions": ["Applin", "Flapple", "Appletun"], "moves": {"levelUp": ["Astonish", "Growth", "Headbutt", "Recycle", "Sweet Scent", "Withdraw", "Curse", "Stomp", "Leech Seed", "Protect", "Bullet Seed", "Recover", "Apple Acid", "Body Slam", "Iron Defense", "Dragon Pulse", "Energy Ball"], "egg": ["Headbutt", "Defense Curl", "Recycle", "Rollout", "Sucker Punch", "Grassy Glide"], "tutor": ["Defense Curl", "Recycle", "Rollout", "Sucker Punch"], "tm": ["Hyper Beam", "Giga Impact", "Solar Beam", "Light Screen", "Reflect", "Safeguard", "Rest", "Snore", "Protect", "Giga Drain", "Attract", "Sunny Day", "Facade", "Bullet Seed", "Payback", "Round", "Bulldoze"], "tr": ["Body Slam", "Earthquake", "Amnesia", "Substitute", "Outrage", "Endure", "Sleep Talk", "Superpower", "Iron Defense", "Gyro Ball", "Seed Bomb", "Dragon Pulse", "Energy Ball", "Grass Knot", "Heavy Slam", "High Horsepower", "Body Press"]}, "stats": {"hp": {"name": "HP", "base": 110, "min": 330, "max": 424}, "attack": {"name": "Attack", "base": 85, "min": 157, "max": 295}, "defense": {"name": "Defense", "base": 80, "min": 148, "max": 284}, "spAttack": {"name": "Sp. Attack", "base": 80, "min": 148, "max": 284}, "spDefense": {"name": "Sp. Defense", "base": 80, "min": 148, "max": 284}, "speed": {"name": "Speed", "base": 110, "min": 330, "max": 424}}}
+{
+  "name": "Appletun",
+  "subname": "",
+  "id": "842",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/842.png",
+  "types": [
+    "Grass",
+    "Dragon"
+  ],
+  "info": {
+    "description": "Appletun is a Grass/Dragon type Pokémon introduced in Generation 8. It is known as the Apple Nectar Pokémon.",
+    "species": "Apple Nectar Pok\u00e9mon",
+    "height": "0.4m",
+    "weight": "13.0kg",
+    "catchRate": "45",
+    "baseExp": "170",
+    "growthRate": "Erratic",
+    "eggGroups": [
+      "Dragon",
+      "Grass"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Ripen",
+      "Gluttony"
+    ],
+    "hiddenAbility": [
+      "Thick Fat"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "2 HP"
+  },
+  "evolutions": [
+    "Applin",
+    "Flapple",
+    "Appletun"
+  ],
+  "moves": {
+    "levelUp": [
+      "Astonish",
+      "Growth",
+      "Headbutt",
+      "Recycle",
+      "Sweet Scent",
+      "Withdraw",
+      "Curse",
+      "Stomp",
+      "Leech Seed",
+      "Protect",
+      "Bullet Seed",
+      "Recover",
+      "Apple Acid",
+      "Body Slam",
+      "Iron Defense",
+      "Dragon Pulse",
+      "Energy Ball"
+    ],
+    "egg": [
+      "Headbutt",
+      "Defense Curl",
+      "Recycle",
+      "Rollout",
+      "Sucker Punch",
+      "Grassy Glide"
+    ],
+    "tutor": [
+      "Defense Curl",
+      "Recycle",
+      "Rollout",
+      "Sucker Punch"
+    ],
+    "tm": [
+      "Hyper Beam",
+      "Giga Impact",
+      "Solar Beam",
+      "Light Screen",
+      "Reflect",
+      "Safeguard",
+      "Rest",
+      "Snore",
+      "Protect",
+      "Giga Drain",
+      "Attract",
+      "Sunny Day",
+      "Facade",
+      "Bullet Seed",
+      "Payback",
+      "Round",
+      "Bulldoze"
+    ],
+    "tr": [
+      "Body Slam",
+      "Earthquake",
+      "Amnesia",
+      "Substitute",
+      "Outrage",
+      "Endure",
+      "Sleep Talk",
+      "Superpower",
+      "Iron Defense",
+      "Gyro Ball",
+      "Seed Bomb",
+      "Dragon Pulse",
+      "Energy Ball",
+      "Grass Knot",
+      "Heavy Slam",
+      "High Horsepower",
+      "Body Press"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 110,
+      "min": 330,
+      "max": 424
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 85,
+      "min": 157,
+      "max": 295
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 80,
+      "min": 148,
+      "max": 284
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 100,
+      "min": 184,
+      "max": 328
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 80,
+      "min": 148,
+      "max": 284
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    }
+  }
+}
