@@ -1,1 +1,154 @@
-{"name": "Zebstrika", "id": "523", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/523.png", "types": ["Electric"], "info": {"description": "", "species": "Thunderbolt Pok\u00e9mon", "height": "1.6m", "weight": "79.5kg", "catchRate": "75", "baseExp": "174", "growthRate": "Medium Fast", "eggGroups": ["Field"]}, "evolutions": ["Blitzle", "Zebstrika"], "moves": {"levelUp": ["Charge", "Ion Deluge", "Quick Attack", "Tail Whip", "Thunder Wave", "Shock Wave", "Flame Charge", "Pursuit", "Spark", "Stomp", "Discharge", "Agility", "Wild Charge", "Thrash"], "egg": ["Double-Edge", "Double Kick", "Endure", "Feint", "Me First", "Rage", "Sand Attack", "Screech", "Shock Wave", "Snatch", "Take Down", "Ally Switch", "Bounce", "Laser Focus", "Low Kick", "Magnet Rise", "Signal Beam", "Snore", "Flash", "Rock Smash", "Secret Power"], "tutor": ["Ally Switch", "Bounce", "Laser Focus", "Low Kick", "Magnet Rise", "Shock Wave", "Signal Beam", "Snatch", "Snore"], "tm": ["Toxic", "Hidden Power", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Frustration", "Thunderbolt", "Thunder", "Return", "Double Team", "Facade", "Flame Charge", "Rest", "Attract", "Round", "Overheat", "Charge Beam", "Giga Impact", "Volt Switch", "Thunder Wave", "Swagger", "Sleep Talk", "Substitute", "Wild Charge", "Confide"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 75, "min": 260, "max": 354}, "attack": {"name": "Attack", "base": 100, "min": 184, "max": 328}, "defense": {"name": "Defense", "base": 63, "min": 117, "max": 247}, "spAttack": {"name": "Sp. Attack", "base": 63, "min": 117, "max": 247}, "spDefense": {"name": "Sp. Defense", "base": 63, "min": 117, "max": 247}, "speed": {"name": "Speed", "base": 75, "min": 260, "max": 354}}}
+{
+  "name": "Zebstrika",
+  "subname": "",
+  "id": "523",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/523.png",
+  "types": [
+    "Electric"
+  ],
+  "info": {
+    "description": "Zebstrika is an Electric type Pokémon introduced in Generation 5. It is known as the Thunderbolt Pokémon.",
+    "species": "Thunderbolt Pok\u00e9mon",
+    "height": "1.6m",
+    "weight": "79.5kg",
+    "catchRate": "75",
+    "baseExp": "174",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Field"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Lightning Rod",
+      "Motor Drive"
+    ],
+    "hiddenAbility": [
+      "Sap Sipper"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "2 Speed"
+  },
+  "evolutions": [
+    "Blitzle",
+    "Zebstrika"
+  ],
+  "moves": {
+    "levelUp": [
+      "Charge",
+      "Ion Deluge",
+      "Quick Attack",
+      "Tail Whip",
+      "Thunder Wave",
+      "Shock Wave",
+      "Flame Charge",
+      "Pursuit",
+      "Spark",
+      "Stomp",
+      "Discharge",
+      "Agility",
+      "Wild Charge",
+      "Thrash"
+    ],
+    "egg": [
+      "Double-Edge",
+      "Double Kick",
+      "Endure",
+      "Feint",
+      "Me First",
+      "Rage",
+      "Sand Attack",
+      "Screech",
+      "Shock Wave",
+      "Snatch",
+      "Take Down",
+      "Ally Switch",
+      "Bounce",
+      "Laser Focus",
+      "Low Kick",
+      "Magnet Rise",
+      "Signal Beam",
+      "Snore",
+      "Flash",
+      "Rock Smash",
+      "Secret Power"
+    ],
+    "tutor": [
+      "Ally Switch",
+      "Bounce",
+      "Laser Focus",
+      "Low Kick",
+      "Magnet Rise",
+      "Shock Wave",
+      "Signal Beam",
+      "Snatch",
+      "Snore"
+    ],
+    "tm": [
+      "Toxic",
+      "Hidden Power",
+      "Hyper Beam",
+      "Light Screen",
+      "Protect",
+      "Rain Dance",
+      "Frustration",
+      "Thunderbolt",
+      "Thunder",
+      "Return",
+      "Double Team",
+      "Facade",
+      "Flame Charge",
+      "Rest",
+      "Attract",
+      "Round",
+      "Overheat",
+      "Charge Beam",
+      "Giga Impact",
+      "Volt Switch",
+      "Thunder Wave",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Wild Charge",
+      "Confide"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 75,
+      "min": 260,
+      "max": 354
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 100,
+      "min": 184,
+      "max": 328
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 63,
+      "min": 117,
+      "max": 247
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 80,
+      "min": 148,
+      "max": 284
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 63,
+      "min": 117,
+      "max": 247
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 116,
+      "min": 213,
+      "max": 364
+    }
+  }
+}
