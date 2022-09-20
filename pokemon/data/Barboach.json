@@ -1,1 +1,140 @@
-{"name": "Barboach", "id": "339", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/339.png", "types": ["Water", "Ground"], "info": {"description": "", "species": "Whiskers Pok\u00e9mon", "height": "0.4m", "weight": "1.9kg", "catchRate": "190", "baseExp": "58", "growthRate": "Medium Fast", "eggGroups": ["Water 2"]}, "evolutions": ["Barboach", "Whiscash"], "moves": {"levelUp": ["Mud-Slap", "Water Gun", "Rest", "Snore", "Water Pulse", "Amnesia", "Aqua Tail", "Muddy Water", "Earthquake", "Future Sight", "Fissure", "Mud Bomb", "Zen Headbutt", "Earth Power"], "egg": ["Dragon Dance", "Earth Power", "Flail", "Hydro Pump", "Mud Shot", "Muddy Water", "Spark", "Take Down", "Thrash", "Whirlpool", "Aqua Tail", "Bulldoze", "Ice Beam", "Icy Wind", "Rest", "Water Pulse", "Zen Headbutt"], "tutor": [], "tm": ["Water Pulse", "Hail", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Earthquake", "Double Team", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Attract", "Scald", "Endure", "Sleep Talk", "Bulldoze", "Swagger", "Substitute", "Surf", "Waterfall", "Aqua Tail", "Earth Power", "Icy Wind", "Zen Headbutt"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 50, "min": 210, "max": 304}, "attack": {"name": "Attack", "base": 48, "min": 90, "max": 214}, "defense": {"name": "Defense", "base": 43, "min": 81, "max": 203}, "spAttack": {"name": "Sp. Attack", "base": 43, "min": 81, "max": 203}, "spDefense": {"name": "Sp. Defense", "base": 43, "min": 81, "max": 203}, "speed": {"name": "Speed", "base": 50, "min": 210, "max": 304}}}
+{
+  "name": "Barboach",
+  "subname": "",
+  "id": "339",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/339.png",
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "info": {
+    "description": "Barboach is a Water/Ground type Pokémon introduced in Generation 3. It is known as the Whiskers Pokémon.",
+    "species": "Whiskers Pok\u00e9mon",
+    "height": "0.4m",
+    "weight": "1.9kg",
+    "catchRate": "190",
+    "baseExp": "58",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Water 2"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Oblivious",
+      "Anticipation"
+    ],
+    "hiddenAbility": [
+      "Hydration"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 HP"
+  },
+  "evolutions": [
+    "Barboach",
+    "Whiscash"
+  ],
+  "moves": {
+    "levelUp": [
+      "Mud-Slap",
+      "Water Gun",
+      "Rest",
+      "Snore",
+      "Water Pulse",
+      "Amnesia",
+      "Aqua Tail",
+      "Muddy Water",
+      "Earthquake",
+      "Future Sight",
+      "Fissure",
+      "Mud Bomb",
+      "Zen Headbutt",
+      "Earth Power"
+    ],
+    "egg": [
+      "Dragon Dance",
+      "Earth Power",
+      "Flail",
+      "Hydro Pump",
+      "Mud Shot",
+      "Muddy Water",
+      "Spark",
+      "Take Down",
+      "Thrash",
+      "Whirlpool",
+      "Aqua Tail",
+      "Bulldoze",
+      "Ice Beam",
+      "Icy Wind",
+      "Rest",
+      "Water Pulse",
+      "Zen Headbutt"
+    ],
+    "tutor": [],
+    "tm": [
+      "Water Pulse",
+      "Hail",
+      "Ice Beam",
+      "Blizzard",
+      "Protect",
+      "Rain Dance",
+      "Earthquake",
+      "Double Team",
+      "Sandstorm",
+      "Rock Tomb",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Scald",
+      "Endure",
+      "Sleep Talk",
+      "Bulldoze",
+      "Swagger",
+      "Substitute",
+      "Surf",
+      "Waterfall",
+      "Aqua Tail",
+      "Earth Power",
+      "Icy Wind",
+      "Zen Headbutt"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 50,
+      "min": 210,
+      "max": 304
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 48,
+      "min": 90,
+      "max": 214
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 43,
+      "min": 81,
+      "max": 203
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 46,
+      "min": 87,
+      "max": 210
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 41,
+      "min": 78,
+      "max": 199
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    }
+  }
+}
