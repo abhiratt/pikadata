@@ -236,6 +236,7 @@
   },
   "Arbok": {
     "name": "Arbok",
+    "subname": "",
     "id": "024",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png",
     "types": [
@@ -543,8 +544,18 @@
   },
   "Arcanine": {
     "name": "Arcanine",
+    "subname": "",
     "id": "059",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
+    "types": [
+      "Fire"
+    ]
+  },
+  "Hisuian Arcanine": {
+    "name": "Arcanine",
+    "subname": "Hisuian Arcanine",
+    "id": "059",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059_f2.png",
     "types": [
       "Fire",
       "Rock"
@@ -3080,11 +3091,12 @@
   },
   "Anorith": {
     "name": "Anorith",
+    "subname": "",
     "id": "347",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/347.png",
     "types": [
-      "Bug",
-      "Rock"
+      "Rock",
+      "Bug"
     ]
   },
   "Armaldo": {
@@ -6592,11 +6604,12 @@
   },
   "Araquanid": {
     "name": "Araquanid",
+    "subname": "",
     "id": "752",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/752.png",
     "types": [
-      "Bug",
-      "Water"
+      "Water",
+      "Bug"
     ]
   },
   "Fomantis": {
@@ -7343,6 +7356,7 @@
   },
   "Applin": {
     "name": "Applin",
+    "subname": "",
     "id": "840",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/840.png",
     "types": [
@@ -7361,6 +7375,7 @@
   },
   "Appletun": {
     "name": "Appletun",
+    "subname": "",
     "id": "842",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/842.png",
     "types": [
