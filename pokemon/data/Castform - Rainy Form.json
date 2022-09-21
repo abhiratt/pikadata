@@ -26,7 +26,12 @@
     "eggCycles": "25 (6,169–6,425 steps)",
     "evYield": "1 HP"
   },
-  "evolutions": [],
+  "evolutions": [
+    "Castform",
+    "Castform - Sunny Form",
+    "Castform - Rainy Form",
+    "Castform - Snowy Form"
+  ],
   "moves": {
     "levelUp": [
       "Tackle",
