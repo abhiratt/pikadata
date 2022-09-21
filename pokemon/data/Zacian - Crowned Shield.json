@@ -1,18 +1,19 @@
 {
   "name": "Zacian",
-  "subname": "Hero of Many Battles",
+  "subname": "Crowned Sword",
   "id": "888",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/888.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/888_f2.png",
   "types": [
-    "Fairy"
+    "Fairy",
+    "Steel"
   ],
   "info": {
     "description": "Zacian is a Fairy type Pokémon introduced in Generation 8. It is known as the Warrior Pokémon.",
     "species": "Warrior Pok\u00e9mon",
     "height": "2.8m",
-    "weight": "110.0kg",
+    "weight": "355.0kg",
     "catchRate": "10",
-    "baseExp": "335",
+    "baseExp": "360",
     "growthRate": "Slow",
     "eggGroups": [
       "Undiscovered"
@@ -105,9 +106,9 @@
     },
     "attack": {
       "name": "Attack",
-      "base": 130,
-      "min": 238,
-      "max": 394
+      "base": 170,
+      "min": 310,
+      "max": 482
     },
     "defense": {
       "name": "Defense",
@@ -129,9 +130,9 @@
     },
     "speed": {
       "name": "Speed",
-      "base": 138,
-      "min": 252,
-      "max": 412
+      "base": 148,
+      "min": 270,
+      "max": 434
     }
   }
 }
