@@ -1,30 +1,30 @@
 {
   "name": "Calyrex",
-  "subname": "",
+  "subname": "Shadow Rider",
   "id": "898",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/898.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/898_f3.png",
   "types": [
     "Psychic",
-    "Grass"
+    "Ghost"
   ],
   "info": {
     "description": "Calyrex is a Psychic/Grass type Pokémon introduced in Generation 8. It is known as the King Pokémon.",
     "species": "King Pok\u00e9mon",
-    "height": "1.1m",
-    "weight": "7.7kg",
+    "height": "2.4m",
+    "weight": "53.6kg",
     "catchRate": "3",
-    "baseExp": "250",
+    "baseExp": "340",
     "growthRate": "Slow",
     "eggGroups": [
       "Undiscovered"
     ],
     "genders": "-",
     "ability": [
-      "Unnerve"
+      "As One"
     ],
     "hiddenAbility": [],
     "eggCycles": "120 (30,584–30,840 steps)",
-    "evYield": "3 HP"
+    "evYield": "3 Special Attack"
   },
   "evolutions": [
     "Calyrex",
@@ -89,9 +89,9 @@
     },
     "attack": {
       "name": "Attack",
-      "base": 80,
-      "min": 148,
-      "max": 284
+      "base": 85,
+      "min": 157,
+      "max": 295
     },
     "defense": {
       "name": "Defense",
@@ -101,21 +101,21 @@
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 80,
-      "min": 148,
-      "max": 284
+      "base": 165,
+      "min": 301,
+      "max": 471
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 80,
-      "min": 148,
-      "max": 284
+      "base": 100,
+      "min": 184,
+      "max": 328
     },
     "speed": {
       "name": "Speed",
-      "base": 80,
-      "min": 148,
-      "max": 284
+      "base": 150,
+      "min": 274,
+      "max": 438
     }
   }
 }
