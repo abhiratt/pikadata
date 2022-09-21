@@ -1,1 +1,165 @@
-{"name": "Bruxish", "id": "779", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/779.png", "types": ["Psychic", "Water"], "info": {"description": "", "species": "Gnash Teeth Pok\u00e9mon", "height": "0.9m", "weight": "19.0kg", "catchRate": "80", "baseExp": "166", "growthRate": "Medium Fast", "eggGroups": ["Water 2"]}, "evolutions": [], "moves": {"levelUp": ["Water Gun", "Astonish", "Confusion", "Bite", "Aqua Jet", "Disable", "Psywave", "Crunch", "Aqua Tail", "Screech", "Psychic Fangs", "Synchronoise"], "egg": ["Ice Fang", "Poison Fang", "Rage", "Water Pulse", "After You", "Ally Switch", "Aqua Tail", "Iron Tail", "Liquidation", "Magic Coat", "Magic Room", "Pain Split", "Signal Beam", "Snatch", "Snore", "Telekinesis", "Uproar", "Wonder Room"], "tutor": ["After You", "Ally Switch", "Aqua Tail", "Iron Tail", "Liquidation", "Magic Coat", "Magic Room", "Pain Split", "Signal Beam", "Snatch", "Snore", "Telekinesis", "Uproar", "Water Pulse", "Wonder Room"], "tm": ["Calm Mind", "Toxic", "Bulk Up", "Venoshock", "Hidden Power", "Taunt", "Ice Beam", "Blizzard", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Frustration", "Return", "Psychic", "Double Team", "Reflect", "Aerial Ace", "Torment", "Facade", "Rest", "Attract", "Round", "Scald", "Fling", "Embargo", "Payback", "Giga Impact", "Swords Dance", "Frost Breath", "Dream Eater", "Swagger", "Sleep Talk", "Substitute", "Trick Room", "Surf", "Waterfall", "Confide"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 68, "min": 246, "max": 340}, "attack": {"name": "Attack", "base": 105, "min": 193, "max": 339}, "defense": {"name": "Defense", "base": 70, "min": 130, "max": 262}, "spAttack": {"name": "Sp. Attack", "base": 70, "min": 130, "max": 262}, "spDefense": {"name": "Sp. Defense", "base": 70, "min": 130, "max": 262}, "speed": {"name": "Speed", "base": 68, "min": 246, "max": 340}}}
+{
+  "name": "Bruxish",
+  "subname": "",
+  "id": "779",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/779.png",
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "info": {
+    "description": "Bruxish is a Water/Psychic type Pokémon introduced in Generation 7. It is known as the Gnash Teeth Pokémon.",
+    "species": "Gnash Teeth Pok\u00e9mon",
+    "height": "0.9m",
+    "weight": "19.0kg",
+    "catchRate": "80",
+    "baseExp": "166",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Water 2"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Dazzling",
+      "Strong Jaw"
+    ],
+    "hiddenAbility": [
+      "Wonder Skin"
+    ],
+    "eggCycles": "15 (3,599–3,855 steps)",
+    "evYield": "1 Attack"
+  },
+  "evolutions": [],
+  "moves": {
+    "levelUp": [
+      "Water Gun",
+      "Astonish",
+      "Confusion",
+      "Bite",
+      "Aqua Jet",
+      "Disable",
+      "Psywave",
+      "Crunch",
+      "Aqua Tail",
+      "Screech",
+      "Psychic Fangs",
+      "Synchronoise"
+    ],
+    "egg": [
+      "Ice Fang",
+      "Poison Fang",
+      "Rage",
+      "Water Pulse",
+      "After You",
+      "Ally Switch",
+      "Aqua Tail",
+      "Iron Tail",
+      "Liquidation",
+      "Magic Coat",
+      "Magic Room",
+      "Pain Split",
+      "Signal Beam",
+      "Snatch",
+      "Snore",
+      "Telekinesis",
+      "Uproar",
+      "Wonder Room"
+    ],
+    "tutor": [
+      "After You",
+      "Ally Switch",
+      "Aqua Tail",
+      "Iron Tail",
+      "Liquidation",
+      "Magic Coat",
+      "Magic Room",
+      "Pain Split",
+      "Signal Beam",
+      "Snatch",
+      "Snore",
+      "Telekinesis",
+      "Uproar",
+      "Water Pulse",
+      "Wonder Room"
+    ],
+    "tm": [
+      "Calm Mind",
+      "Toxic",
+      "Bulk Up",
+      "Venoshock",
+      "Hidden Power",
+      "Taunt",
+      "Ice Beam",
+      "Blizzard",
+      "Light Screen",
+      "Protect",
+      "Rain Dance",
+      "Safeguard",
+      "Frustration",
+      "Return",
+      "Psychic",
+      "Double Team",
+      "Reflect",
+      "Aerial Ace",
+      "Torment",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Round",
+      "Scald",
+      "Fling",
+      "Embargo",
+      "Payback",
+      "Giga Impact",
+      "Swords Dance",
+      "Frost Breath",
+      "Dream Eater",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Trick Room",
+      "Surf",
+      "Waterfall",
+      "Confide"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 68,
+      "min": 246,
+      "max": 340
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 105,
+      "min": 193,
+      "max": 339
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 92,
+      "min": 170,
+      "max": 311
+    }
+  }
+}
