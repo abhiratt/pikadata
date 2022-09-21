@@ -1,1 +1,169 @@
-{"name": "Buneary", "id": "427", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/427.png", "types": ["Normal"], "info": {"description": "", "species": "Rabbit Pok\u00e9mon", "height": "0.4m", "weight": "5.5kg", "catchRate": "190", "baseExp": "70", "growthRate": "Medium Fast", "eggGroups": ["Field", "Human-Like"]}, "evolutions": ["Buneary", "Lopunny"], "moves": {"levelUp": ["Pound", "Splash", "Defense Curl", "Baby-Doll Eyes", "After You", "Quick Attack", "Double Kick", "Charm", "Baton Pass", "Headbutt", "Agility", "Entrainment", "Flatter", "Bounce", "Healing Wish", "Swift", "Draining Kiss", "Double Hit", "Play Rough", "Double-Edge"], "egg": ["Circle Throw", "Copycat", "Cosmic Power", "Double Hit", "Encore", "Fake Out", "Fake Tears", "Fire Punch", "Flail", "Ice Punch", "Low Kick", "Power-Up Punch", "Sweet Kiss", "Switcheroo", "Teeter Dance", "Thunder Punch", "Baby-Doll Eyes", "Charge Beam", "Drain Punch", "Ice Beam", "Iron Tail", "Play Rough", "Rest", "Rock Smash", "Shadow Ball", "Swift", "Thunderbolt", "Water Pulse"], "tutor": [], "tm": ["Focus Punch", "Water Pulse", "Work Up", "Sunny Day", "Ice Beam", "Protect", "Rain Dance", "Solar Beam", "Iron Tail", "Thunderbolt", "Low Sweep", "Dig", "Shadow Ball", "Double Team", "Shock Wave", "Facade", "Rest", "Attract", "Fling", "Charge Beam", "Endure", "Drain Punch", "Payback", "Thunder Wave", "Sleep Talk", "Grass Knot", "Swagger", "Substitute", "Cut", "Rock Smash", "Baby-Doll Eyes", "Fire Punch", "Ice Punch", "Play Rough", "Swift", "Thunder Punch"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 55, "min": 220, "max": 314}, "attack": {"name": "Attack", "base": 66, "min": 123, "max": 254}, "defense": {"name": "Defense", "base": 44, "min": 83, "max": 205}, "spAttack": {"name": "Sp. Attack", "base": 44, "min": 83, "max": 205}, "spDefense": {"name": "Sp. Defense", "base": 44, "min": 83, "max": 205}, "speed": {"name": "Speed", "base": 55, "min": 220, "max": 314}}}
+{
+  "name": "Buneary",
+  "subname": "",
+  "id": "427",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/427.png",
+  "types": [
+    "Normal"
+  ],
+  "info": {
+    "description": "Buneary is a Normal type Pokémon introduced in Generation 4. It is known as the Rabbit Pokémon.",
+    "species": "Rabbit Pok\u00e9mon",
+    "height": "0.4m",
+    "weight": "5.5kg",
+    "catchRate": "190",
+    "baseExp": "70",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Field",
+      "Human-Like"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Run Away",
+      "Klutz"
+    ],
+    "hiddenAbility": [
+      "Limber"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 Speed"
+  },
+  "evolutions": [
+    "Buneary",
+    "Lopunny",
+    "Mega Lopunny"
+  ],
+  "moves": {
+    "levelUp": [
+      "Pound",
+      "Splash",
+      "Defense Curl",
+      "Baby-Doll Eyes",
+      "After You",
+      "Quick Attack",
+      "Double Kick",
+      "Charm",
+      "Baton Pass",
+      "Headbutt",
+      "Agility",
+      "Entrainment",
+      "Flatter",
+      "Bounce",
+      "Healing Wish",
+      "Swift",
+      "Draining Kiss",
+      "Double Hit",
+      "Play Rough",
+      "Double-Edge"
+    ],
+    "egg": [
+      "Circle Throw",
+      "Copycat",
+      "Cosmic Power",
+      "Double Hit",
+      "Encore",
+      "Fake Out",
+      "Fake Tears",
+      "Fire Punch",
+      "Flail",
+      "Ice Punch",
+      "Low Kick",
+      "Power-Up Punch",
+      "Sweet Kiss",
+      "Switcheroo",
+      "Teeter Dance",
+      "Thunder Punch",
+      "Baby-Doll Eyes",
+      "Charge Beam",
+      "Drain Punch",
+      "Ice Beam",
+      "Iron Tail",
+      "Play Rough",
+      "Rest",
+      "Rock Smash",
+      "Shadow Ball",
+      "Swift",
+      "Thunderbolt",
+      "Water Pulse"
+    ],
+    "tutor": [],
+    "tm": [
+      "Focus Punch",
+      "Water Pulse",
+      "Work Up",
+      "Sunny Day",
+      "Ice Beam",
+      "Protect",
+      "Rain Dance",
+      "Solar Beam",
+      "Iron Tail",
+      "Thunderbolt",
+      "Low Sweep",
+      "Dig",
+      "Shadow Ball",
+      "Double Team",
+      "Shock Wave",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Fling",
+      "Charge Beam",
+      "Endure",
+      "Drain Punch",
+      "Payback",
+      "Thunder Wave",
+      "Sleep Talk",
+      "Grass Knot",
+      "Swagger",
+      "Substitute",
+      "Cut",
+      "Rock Smash",
+      "Baby-Doll Eyes",
+      "Fire Punch",
+      "Ice Punch",
+      "Play Rough",
+      "Swift",
+      "Thunder Punch"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 55,
+      "min": 220,
+      "max": 314
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 66,
+      "min": 123,
+      "max": 254
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 44,
+      "min": 83,
+      "max": 205
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 44,
+      "min": 83,
+      "max": 205
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 56,
+      "min": 105,
+      "max": 232
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 85,
+      "min": 157,
+      "max": 295
+    }
+  }
+}
