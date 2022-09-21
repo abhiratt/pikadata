@@ -3013,6 +3013,7 @@
   },
   "Cacnea": {
     "name": "Cacnea",
+    "subname": "",
     "id": "331",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/331.png",
     "types": [
@@ -3021,11 +3022,12 @@
   },
   "Cacturne": {
     "name": "Cacturne",
+    "subname": "",
     "id": "332",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/332.png",
     "types": [
-      "Dark",
-      "Grass"
+      "Grass",
+      "Dark"
     ]
   },
   "Swablu": {
@@ -3748,7 +3750,7 @@
   },
   "Burmy - Plant Cloak": {
     "name": "Burmy",
-    "subname": "Burmy - Plant Cloak",
+    "subname": "Plant Cloak",
     "id": "412",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/412.png",
     "types": [
@@ -3757,7 +3759,7 @@
   },
   "Burmy - Sand Cloak": {
     "name": "Burmy",
-    "subname": "Burmy - Sand Cloak",
+    "subname": "Sand Cloak",
     "id": "412",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/412_f2.png",
     "types": [
@@ -3766,7 +3768,7 @@
   },
   "Burmy - Trash Cloak": {
     "name": "Burmy",
-    "subname": "Burmy - Trash Cloak",
+    "subname": "Trash Cloak",
     "id": "412",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/412_f3.png",
     "types": [
@@ -8012,20 +8014,40 @@
   },
   "Zacian": {
     "name": "Zacian",
+    "subname": "Hero of Many Battles",
     "id": "888",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/888.png",
     "types": [
-      "Steel",
       "Fairy"
+    ]
+  },
+  "Zacian - Crowned Shield": {
+    "name": "Zacian",
+    "subname": "Crowned Sword",
+    "id": "888",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/888_f2.png",
+    "types": [
+      "Fairy",
+      "Steel"
     ]
   },
   "Zamazenta": {
     "name": "Zamazenta",
+    "subname": "Hero of Many Battles",
     "id": "889",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/889.png",
     "types": [
-      "Steel",
       "Fighting"
+    ]
+  },
+  "Zamazenta - Crowned Shield": {
+    "name": "Zamazenta",
+    "subname": "Crowned Shield",
+    "id": "889",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/889_f2.png",
+    "types": [
+      "Fighting",
+      "Steel"
     ]
   },
   "Eternatus": {
