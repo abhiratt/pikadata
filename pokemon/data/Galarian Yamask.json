@@ -1,13 +1,14 @@
 {
   "name": "Yamask",
-  "subname": "",
+  "subname": "Galarian Yamask",
   "id": "562",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/562.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/562_f2.png",
   "types": [
+    "Ground",
     "Ghost"
   ],
   "info": {
-    "description": "Yamask is a Ghost type Pokémon introduced in Generation 5. It is known as the Spirit Pokémon.",
+    "description": "Yamask is a Ghost type Pokémon introduced in Generation 5. It is known as the Spirit Pokémon. Yamask has a Galarian form in Pokémon Sword & Shield, which evolves into Runerigus.",
     "species": "Spirit Pok\u00e9mon",
     "height": "0.5m",
     "weight": "1.5kg",
@@ -20,7 +21,7 @@
     ],
     "genders": "0.5",
     "ability": [
-      "Mummy"
+      "Wandering Spirit"
     ],
     "hiddenAbility": [],
     "eggCycles": "25 (6,169–6,425 steps)",
@@ -149,9 +150,9 @@
     },
     "attack": {
       "name": "Attack",
-      "base": 30,
-      "min": 58,
-      "max": 174
+      "base": 55,
+      "min": 157,
+      "max": 229
     },
     "defense": {
       "name": "Defense",
@@ -161,9 +162,9 @@
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 55,
-      "min": 103,
-      "max": 229
+      "base": 30,
+      "min": 58,
+      "max": 174
     },
     "spDefense": {
       "name": "Sp. Defense",
