@@ -1,1 +1,180 @@
-{"name": "Bibarel", "id": "400", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/400.png", "types": ["Water", "Normal"], "info": {"description": "", "species": "Beaver Pok\u00e9mon", "height": "1.0m", "weight": "31.5kg", "catchRate": "127", "baseExp": "144", "growthRate": "Medium Fast", "eggGroups": ["Water 1", "Field"]}, "evolutions": ["Bidoof", "Bibarel"], "moves": {"levelUp": ["Aqua Jet", "Growl", "Tackle", "Water Gun", "Defense Curl", "Rollout", "Headbutt", "Taunt", "Yawn", "Crunch", "Take Down", "Super Fang", "Swords Dance", "Amnesia", "Superpower", "Curse", "Water Pulse", "Bite", "Rest", "Aqua Tail", "Double-Edge"], "egg": ["Water Gun", "Aqua Tail", "Defense Curl", "Double-Edge", "Fury Swipes", "Quick Attack", "Rollout", "Skull Bash", "Bulldoze", "Charge Beam", "Giga Impact", "Hyper Beam", "Ice Beam", "Icy Wind", "Iron Tail", "Rest", "Rock Smash", "Shadow Ball", "Stealth Rock", "Swift", "Thunderbolt", "Water Pulse"], "tutor": ["Aqua Tail", "Defense Curl", "Double-Edge", "Fury Swipes", "Quick Attack", "Rollout", "Skull Bash"], "tm": ["Focus Punch", "Water Pulse", "Work Up", "Sunny Day", "Taunt", "Ice Beam", "Blizzard", "Hyper Beam", "Protect", "Rain Dance", "Iron Tail", "Thunderbolt", "Thunder", "Dig", "Shadow Ball", "Double Team", "Shock Wave", "Facade", "Rest", "Attract", "Thief", "Scald", "Fling", "Charge Beam", "Endure", "Giga Impact", "Thunder Wave", "Swords Dance", "Stealth Rock", "Sleep Talk", "Bulldoze", "Grass Knot", "Swagger", "Pluck", "Substitute", "Cut", "Surf", "Strength", "Rock Smash", "Waterfall", "Rock Climb", "Aqua Tail", "Icy Wind", "Swift"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 79, "min": 268, "max": 362}, "attack": {"name": "Attack", "base": 85, "min": 157, "max": 295}, "defense": {"name": "Defense", "base": 60, "min": 112, "max": 240}, "spAttack": {"name": "Sp. Attack", "base": 60, "min": 112, "max": 240}, "spDefense": {"name": "Sp. Defense", "base": 60, "min": 112, "max": 240}, "speed": {"name": "Speed", "base": 79, "min": 268, "max": 362}}}
+{
+  "name": "Bibarel",
+  "subname": "",
+  "id": "400",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/400.png",
+  "types": [
+    "Normal",
+    "Water"
+  ],
+  "info": {
+    "description": "Bibarel is a Normal/Water type Pokémon introduced in Generation 4. It is known as the Beaver Pokémon.",
+    "species": "Beaver Pok\u00e9mon",
+    "height": "1.0m",
+    "weight": "31.5kg",
+    "catchRate": "127",
+    "baseExp": "144",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Water 1",
+      "Field"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Simple",
+      "Unaware"
+    ],
+    "hiddenAbility": [
+      "Moody"
+    ],
+    "eggCycles": "15 (3,599–3,855 steps)",
+    "evYield": "2 Attack"
+  },
+  "evolutions": [
+    "Bidoof",
+    "Bibarel"
+  ],
+  "moves": {
+    "levelUp": [
+      "Aqua Jet",
+      "Growl",
+      "Tackle",
+      "Water Gun",
+      "Defense Curl",
+      "Rollout",
+      "Headbutt",
+      "Taunt",
+      "Yawn",
+      "Crunch",
+      "Take Down",
+      "Super Fang",
+      "Swords Dance",
+      "Amnesia",
+      "Superpower",
+      "Curse",
+      "Water Pulse",
+      "Bite",
+      "Rest",
+      "Aqua Tail",
+      "Double-Edge"
+    ],
+    "egg": [
+      "Water Gun",
+      "Aqua Tail",
+      "Defense Curl",
+      "Double-Edge",
+      "Fury Swipes",
+      "Quick Attack",
+      "Rollout",
+      "Skull Bash",
+      "Bulldoze",
+      "Charge Beam",
+      "Giga Impact",
+      "Hyper Beam",
+      "Ice Beam",
+      "Icy Wind",
+      "Iron Tail",
+      "Rest",
+      "Rock Smash",
+      "Shadow Ball",
+      "Stealth Rock",
+      "Swift",
+      "Thunderbolt",
+      "Water Pulse"
+    ],
+    "tutor": [
+      "Aqua Tail",
+      "Defense Curl",
+      "Double-Edge",
+      "Fury Swipes",
+      "Quick Attack",
+      "Rollout",
+      "Skull Bash"
+    ],
+    "tm": [
+      "Focus Punch",
+      "Water Pulse",
+      "Work Up",
+      "Sunny Day",
+      "Taunt",
+      "Ice Beam",
+      "Blizzard",
+      "Hyper Beam",
+      "Protect",
+      "Rain Dance",
+      "Iron Tail",
+      "Thunderbolt",
+      "Thunder",
+      "Dig",
+      "Shadow Ball",
+      "Double Team",
+      "Shock Wave",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Thief",
+      "Scald",
+      "Fling",
+      "Charge Beam",
+      "Endure",
+      "Giga Impact",
+      "Thunder Wave",
+      "Swords Dance",
+      "Stealth Rock",
+      "Sleep Talk",
+      "Bulldoze",
+      "Grass Knot",
+      "Swagger",
+      "Pluck",
+      "Substitute",
+      "Cut",
+      "Surf",
+      "Strength",
+      "Rock Smash",
+      "Waterfall",
+      "Rock Climb",
+      "Aqua Tail",
+      "Icy Wind",
+      "Swift"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 79,
+      "min": 268,
+      "max": 362
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 85,
+      "min": 157,
+      "max": 295
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 55,
+      "min": 103,
+      "max": 229
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 71,
+      "min": 132,
+      "max": 265
+    }
+  }
+}
