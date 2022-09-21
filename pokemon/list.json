@@ -54,6 +54,7 @@
   },
   "Charizard": {
     "name": "Charizard",
+    "subname": "",
     "id": "006",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
     "types": [
@@ -62,7 +63,8 @@
     ]
   },
   "Mega Charizard X": {
-    "name": "Mega Charizard X",
+    "name": "Charizard",
+    "subname": "Mega Charizard X",
     "id": "006",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f2.png",
     "types": [
@@ -71,18 +73,10 @@
     ]
   },
   "Mega Charizard Y": {
-    "name": "Mega Charizard Y",
+    "name": "Charizard",
+    "subname": "Mega Charizard Y",
     "id": "006",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f3.png",
-    "types": [
-      "Fire",
-      "Flying"
-    ]
-  },
-  "Charizard Gigantamax": {
-    "name": "Charizard Gigantamax",
-    "id": "006",
-    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f4.png",
     "types": [
       "Fire",
       "Flying"
@@ -124,6 +118,7 @@
   },
   "Caterpie": {
     "name": "Caterpie",
+    "subname": "",
     "id": "010",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
     "types": [
@@ -1065,6 +1060,7 @@
   },
   "Chansey": {
     "name": "Chansey",
+    "subname": "",
     "id": "113",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png",
     "types": [
@@ -2296,6 +2292,7 @@
   },
   "Celebi": {
     "name": "Celebi",
+    "subname": "",
     "id": "251",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/251.png",
     "types": [
@@ -5580,6 +5577,7 @@
   },
   "Chandelure": {
     "name": "Chandelure",
+    "subname": "",
     "id": "609",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/609.png",
     "types": [
@@ -7288,6 +7286,7 @@
   },
   "Celesteela": {
     "name": "Celesteela",
+    "subname": "",
     "id": "797",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/797.png",
     "types": [
@@ -7754,11 +7753,12 @@
   },
   "Centiskorch": {
     "name": "Centiskorch",
+    "subname": "",
     "id": "851",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/851.png",
     "types": [
-      "Bug",
-      "Fire"
+      "Fire",
+      "Bug"
     ]
   },
   "Clobbopus": {
