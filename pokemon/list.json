@@ -2214,6 +2214,7 @@
   },
   "Blissey": {
     "name": "Blissey",
+    "subname": "",
     "id": "242",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/242.png",
     "types": [
@@ -2342,8 +2343,19 @@
   },
   "Blaziken": {
     "name": "Blaziken",
+    "subname": "",
     "id": "257",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/257.png",
+    "types": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  "Mega Blaziken": {
+    "name": "Blaziken",
+    "subname": "Mega Blaziken",
+    "id": "257",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/257_f2.png",
     "types": [
       "Fire",
       "Fighting"
@@ -3956,6 +3968,7 @@
   },
   "Bonsly": {
     "name": "Bonsly",
+    "subname": "",
     "id": "438",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/438.png",
     "types": [
@@ -4683,6 +4696,7 @@
   },
   "Blitzle": {
     "name": "Blitzle",
+    "subname": "",
     "id": "522",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/522.png",
     "types": [
@@ -4708,6 +4722,7 @@
   },
   "Boldore": {
     "name": "Boldore",
+    "subname": "",
     "id": "525",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/525.png",
     "types": [
@@ -5631,6 +5646,7 @@
   },
   "Bouffalant": {
     "name": "Bouffalant",
+    "subname": "",
     "id": "626",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/626.png",
     "types": [
@@ -5881,6 +5897,7 @@
   },
   "Braixen": {
     "name": "Braixen",
+    "subname": "",
     "id": "654",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/654.png",
     "types": [
@@ -6859,6 +6876,7 @@
   },
   "Bounsweet": {
     "name": "Bounsweet",
+    "subname": "",
     "id": "761",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/761.png",
     "types": [
@@ -7400,6 +7418,7 @@
   },
   "Blipbug": {
     "name": "Blipbug",
+    "subname": "",
     "id": "824",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/824.png",
     "types": [
@@ -7499,6 +7518,7 @@
   },
   "Boltund": {
     "name": "Boltund",
+    "subname": "",
     "id": "836",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/836.png",
     "types": [
