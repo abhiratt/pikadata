@@ -1,1 +1,163 @@
-{"name": "Carvanha", "id": "318", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/318.png", "types": ["Dark", "Water"], "info": {"description": "", "species": "Savage Pok\u00e9mon", "height": "0.8m", "weight": "20.8kg", "catchRate": "225", "baseExp": "61", "growthRate": "Slow", "eggGroups": ["Water 2"]}, "evolutions": ["Carvanha", "Sharpedo"], "moves": {"levelUp": ["Aqua Jet", "Leer", "Poison Fang", "Focus Energy", "Scary Face", "Bite", "Ice Fang", "Screech", "Swagger", "Crunch", "Agility", "Liquidation", "Take Down"], "egg": ["Ancient Power", "Destiny Bond", "Double-Edge", "Hydro Pump", "Swift", "Thrash", "Water Pulse", "Flip Turn", "Scale Shot"], "tutor": ["Flip Turn", "Scale Shot"], "tm": ["Water Pulse", "Hail", "Taunt", "Ice Beam", "Blizzard", "Protect", "Rain Dance", "Double Team", "Torment", "Facade", "Rest", "Attract", "Thief", "Scald", "Brine", "Endure", "Payback", "Snarl", "Dark Pulse", "Sleep Talk", "Swagger", "Substitute", "Surf", "Waterfall", "Screech", "Snore", "Scary Face", "Icy Wind", "Whirlpool", "Swift", "Dive", "Bounce", "Assurance", "Ice Fang", "Round", "Retaliate"], "tr": ["Hydro Pump", "Surf", "Ice Beam", "Blizzard", "Agility", "Focus Energy", "Waterfall", "Substitute", "Endure", "Sleep Talk", "Crunch", "Uproar", "Taunt", "Dark Pulse", "Zen Headbutt", "Scald", "Psychic Fangs", "Liquidation"]}, "stats": {"hp": {"name": "HP", "base": 45, "min": 200, "max": 294}, "attack": {"name": "Attack", "base": 90, "min": 166, "max": 306}, "defense": {"name": "Defense", "base": 20, "min": 40, "max": 152}, "spAttack": {"name": "Sp. Attack", "base": 20, "min": 40, "max": 152}, "spDefense": {"name": "Sp. Defense", "base": 20, "min": 40, "max": 152}, "speed": {"name": "Speed", "base": 45, "min": 200, "max": 294}}}
+{
+  "name": "Carvanha",
+  "subname": "",
+  "id": "318",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/318.png",
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "info": {
+    "description": "Carvanha is a Water/Dark type Pokémon introduced in Generation 3. It is known as the Savage Pokémon.",
+    "species": "Savage Pok\u00e9mon",
+    "height": "0.8m",
+    "weight": "20.8kg",
+    "catchRate": "225",
+    "baseExp": "61",
+    "growthRate": "Slow",
+    "eggGroups": [
+      "Water 2"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Rough Skin"
+    ],
+    "hiddenAbility": [
+      "Speed Boost"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 Attack"
+  },
+  "evolutions": [
+    "Carvanha",
+    "Sharpedo"
+  ],
+  "moves": {
+    "levelUp": [
+      "Aqua Jet",
+      "Leer",
+      "Poison Fang",
+      "Focus Energy",
+      "Scary Face",
+      "Bite",
+      "Ice Fang",
+      "Screech",
+      "Swagger",
+      "Crunch",
+      "Agility",
+      "Liquidation",
+      "Take Down"
+    ],
+    "egg": [
+      "Ancient Power",
+      "Destiny Bond",
+      "Double-Edge",
+      "Hydro Pump",
+      "Swift",
+      "Thrash",
+      "Water Pulse",
+      "Flip Turn",
+      "Scale Shot"
+    ],
+    "tutor": [
+      "Flip Turn",
+      "Scale Shot"
+    ],
+    "tm": [
+      "Water Pulse",
+      "Hail",
+      "Taunt",
+      "Ice Beam",
+      "Blizzard",
+      "Protect",
+      "Rain Dance",
+      "Double Team",
+      "Torment",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Thief",
+      "Scald",
+      "Brine",
+      "Endure",
+      "Payback",
+      "Snarl",
+      "Dark Pulse",
+      "Sleep Talk",
+      "Swagger",
+      "Substitute",
+      "Surf",
+      "Waterfall",
+      "Screech",
+      "Snore",
+      "Scary Face",
+      "Icy Wind",
+      "Whirlpool",
+      "Swift",
+      "Dive",
+      "Bounce",
+      "Assurance",
+      "Ice Fang",
+      "Round",
+      "Retaliate"
+    ],
+    "tr": [
+      "Hydro Pump",
+      "Surf",
+      "Ice Beam",
+      "Blizzard",
+      "Agility",
+      "Focus Energy",
+      "Waterfall",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Crunch",
+      "Uproar",
+      "Taunt",
+      "Dark Pulse",
+      "Zen Headbutt",
+      "Scald",
+      "Psychic Fangs",
+      "Liquidation"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 45,
+      "min": 200,
+      "max": 294
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 90,
+      "min": 166,
+      "max": 306
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 20,
+      "min": 40,
+      "max": 152
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 65,
+      "min": 121,
+      "max": 251
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 20,
+      "min": 40,
+      "max": 152
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 65,
+      "min": 121,
+      "max": 251
+    }
+  }
+}
