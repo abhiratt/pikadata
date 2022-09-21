@@ -1,1 +1,172 @@
-{"name": "Carbink", "id": "703", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/703.png", "types": ["Rock", "Fairy"], "info": {"description": "", "species": "Jewel Pok\u00e9mon", "height": "0.3m", "weight": "5.7kg", "catchRate": "60", "baseExp": "100", "growthRate": "Slow", "eggGroups": ["Fairy", "Mineral"]}, "evolutions": [], "moves": {"levelUp": ["Harden", "Tackle", "Guard Split", "Smack Down", "Flail", "Ancient Power", "Rock Polish", "Light Screen", "Rock Slide", "Skill Swap", "Power Gem", "Stealth Rock", "Moonblast", "Stone Edge", "Rock Throw", "Sharpen", "Reflect", "Safeguard"], "egg": ["Meteor Beam", "Misty Explosion", "Terrain Pulse", "After You", "Ally Switch", "Covet", "Earth Power", "Gravity", "Iron Defense", "Magic Coat", "Magnet Rise", "Skill Swap", "Snore", "Stealth Rock", "Stomping Tantrum", "Telekinesis", "Wonder Room", "Flash", "Secret Power"], "tutor": [], "tm": ["Light Screen", "Reflect", "Safeguard", "Rest", "Rock Slide", "Snore", "Protect", "Charm", "Sandstorm", "Sunny Day", "Hail", "Facade", "Rock Tomb", "Sand Tomb", "Guard Swap", "Trick Room", "Wonder Room", "Round", "Stomping Tantrum", "Calm Mind", "Toxic", "Hidden Power", "Frustration", "Smack Down", "Return", "Psychic", "Double Team", "Explosion", "Rock Polish", "Stone Edge", "Gyro Ball", "Psych Up", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Dazzling Gleam", "Confide"], "tr": ["Psychic", "Substitute", "Endure", "Sleep Talk", "Skill Swap", "Iron Defense", "Calm Mind", "Gyro Ball", "Power Gem", "Earth Power", "Stone Edge", "Stealth Rock", "Ally Switch", "Dazzling Gleam", "Body Press"]}, "stats": {"hp": {"name": "HP", "base": 50, "min": 210, "max": 304}, "attack": {"name": "Attack", "base": 50, "min": 94, "max": 218}, "defense": {"name": "Defense", "base": 150, "min": 274, "max": 438}, "spAttack": {"name": "Sp. Attack", "base": 150, "min": 274, "max": 438}, "spDefense": {"name": "Sp. Defense", "base": 150, "min": 274, "max": 438}, "speed": {"name": "Speed", "base": 50, "min": 210, "max": 304}}}
+{
+  "name": "Carbink",
+  "subname": "",
+  "id": "703",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/703.png",
+  "types": [
+    "Rock",
+    "Fairy"
+  ],
+  "info": {
+    "description": "Carbink is a Rock/Fairy type Pokémon introduced in Generation 6. It is known as the Jewel Pokémon.",
+    "species": "Jewel Pok\u00e9mon",
+    "height": "0.3m",
+    "weight": "5.7kg",
+    "catchRate": "60",
+    "baseExp": "100",
+    "growthRate": "Slow",
+    "eggGroups": [
+      "Fairy",
+      "Mineral"
+    ],
+    "genders": "-",
+    "ability": [
+      "Clear Body"
+    ],
+    "hiddenAbility": [
+      "Sturdy"
+    ],
+    "eggCycles": "25 (6,169–6,425 steps)",
+    "evYield": "1 Defense, 1 Special Defense"
+  },
+  "evolutions": [],
+  "moves": {
+    "levelUp": [
+      "Harden",
+      "Tackle",
+      "Guard Split",
+      "Smack Down",
+      "Flail",
+      "Ancient Power",
+      "Rock Polish",
+      "Light Screen",
+      "Rock Slide",
+      "Skill Swap",
+      "Power Gem",
+      "Stealth Rock",
+      "Moonblast",
+      "Stone Edge",
+      "Rock Throw",
+      "Sharpen",
+      "Reflect",
+      "Safeguard"
+    ],
+    "egg": [
+      "Meteor Beam",
+      "Misty Explosion",
+      "Terrain Pulse",
+      "After You",
+      "Ally Switch",
+      "Covet",
+      "Earth Power",
+      "Gravity",
+      "Iron Defense",
+      "Magic Coat",
+      "Magnet Rise",
+      "Skill Swap",
+      "Snore",
+      "Stealth Rock",
+      "Stomping Tantrum",
+      "Telekinesis",
+      "Wonder Room",
+      "Flash",
+      "Secret Power"
+    ],
+    "tutor": [],
+    "tm": [
+      "Light Screen",
+      "Reflect",
+      "Safeguard",
+      "Rest",
+      "Rock Slide",
+      "Snore",
+      "Protect",
+      "Charm",
+      "Sandstorm",
+      "Sunny Day",
+      "Hail",
+      "Facade",
+      "Rock Tomb",
+      "Sand Tomb",
+      "Guard Swap",
+      "Trick Room",
+      "Wonder Room",
+      "Round",
+      "Stomping Tantrum",
+      "Calm Mind",
+      "Toxic",
+      "Hidden Power",
+      "Frustration",
+      "Smack Down",
+      "Return",
+      "Psychic",
+      "Double Team",
+      "Explosion",
+      "Rock Polish",
+      "Stone Edge",
+      "Gyro Ball",
+      "Psych Up",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Nature Power",
+      "Dazzling Gleam",
+      "Confide"
+    ],
+    "tr": [
+      "Psychic",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Skill Swap",
+      "Iron Defense",
+      "Calm Mind",
+      "Gyro Ball",
+      "Power Gem",
+      "Earth Power",
+      "Stone Edge",
+      "Stealth Rock",
+      "Ally Switch",
+      "Dazzling Gleam",
+      "Body Press"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 50,
+      "min": 210,
+      "max": 304
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 50,
+      "min": 94,
+      "max": 218
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 150,
+      "min": 274,
+      "max": 438
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 50,
+      "min": 94,
+      "max": 218
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 150,
+      "min": 274,
+      "max": 438
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 50,
+      "min": 94,
+      "max": 218
+    }
+  }
+}
