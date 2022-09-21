@@ -1,1 +1,161 @@
-{"name": "Bronzong", "id": "437", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/437.png", "types": ["Psychic", "Steel"], "info": {"description": "", "species": "Bronze Bell Pok\u00e9mon", "height": "1.3m", "weight": "187.0kg", "catchRate": "90", "baseExp": "175", "growthRate": "Medium Fast", "eggGroups": ["Mineral"]}, "evolutions": ["Bronzor", "Bronzong"], "moves": {"levelUp": ["Block", "Confuse Ray", "Confusion", "Payback", "Sunny Day", "Tackle", "Weather Ball", "Imprison", "Gyro Ball", "Hypnosis", "Safeguard", "Extrasensory", "Heavy Slam", "Iron Defense", "Metal Sound", "Future Sight", "Rain Dance", "Hex", "Flash Cannon"], "egg": ["Block", "Bulldoze", "Charge Beam", "Flash Cannon", "Giga Impact", "Hyper Beam", "Iron Head", "Psychic", "Rest", "Rock Slide", "Rock Smash", "Shadow Ball", "Stealth Rock", "Steel Beam", "Zen Headbutt"], "tutor": [], "tm": ["Calm Mind", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Safeguard", "Solar Beam", "Earthquake", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Sandstorm", "Rock Tomb", "Facade", "Rest", "Skill Swap", "Charge Beam", "Endure", "Explosion", "Payback", "Recycle", "Giga Impact", "Rock Polish", "Flash", "Gyro Ball", "Stealth Rock", "Psych Up", "Rock Slide", "Sleep Talk", "Bulldoze", "Dream Eater", "Grass Knot", "Swagger", "Substitute", "Flash Cannon", "Trick Room", "Strength", "Rock Smash", "Iron Head", "Steel Beam", "Zen Headbutt"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 67, "min": 244, "max": 338}, "attack": {"name": "Attack", "base": 89, "min": 164, "max": 304}, "defense": {"name": "Defense", "base": 116, "min": 213, "max": 364}, "spAttack": {"name": "Sp. Attack", "base": 116, "min": 213, "max": 364}, "spDefense": {"name": "Sp. Defense", "base": 116, "min": 213, "max": 364}, "speed": {"name": "Speed", "base": 67, "min": 244, "max": 338}}}
+{
+  "name": "Bronzong",
+  "subname": "",
+  "id": "437",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/437.png",
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "info": {
+    "description": "Bronzong is a Steel/Psychic type Pokémon introduced in Generation 4. It is known as the Bronze Bell Pokémon.",
+    "species": "Bronze Bell Pok\u00e9mon",
+    "height": "1.3m",
+    "weight": "187.0kg",
+    "catchRate": "90",
+    "baseExp": "175",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Mineral"
+    ],
+    "genders": "-",
+    "ability": [
+      "Levitate",
+      "Heatproof"
+    ],
+    "hiddenAbility": [
+      "Heavy Metal"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 Defense, 1 Special Defense"
+  },
+  "evolutions": [
+    "Bronzor",
+    "Bronzong"
+  ],
+  "moves": {
+    "levelUp": [
+      "Block",
+      "Confuse Ray",
+      "Confusion",
+      "Payback",
+      "Sunny Day",
+      "Tackle",
+      "Weather Ball",
+      "Imprison",
+      "Gyro Ball",
+      "Hypnosis",
+      "Safeguard",
+      "Extrasensory",
+      "Heavy Slam",
+      "Iron Defense",
+      "Metal Sound",
+      "Future Sight",
+      "Rain Dance",
+      "Hex",
+      "Flash Cannon"
+    ],
+    "egg": [
+      "Block",
+      "Bulldoze",
+      "Charge Beam",
+      "Flash Cannon",
+      "Giga Impact",
+      "Hyper Beam",
+      "Iron Head",
+      "Psychic",
+      "Rest",
+      "Rock Slide",
+      "Rock Smash",
+      "Shadow Ball",
+      "Stealth Rock",
+      "Steel Beam",
+      "Zen Headbutt"
+    ],
+    "tutor": [],
+    "tm": [
+      "Calm Mind",
+      "Sunny Day",
+      "Hyper Beam",
+      "Light Screen",
+      "Protect",
+      "Rain Dance",
+      "Safeguard",
+      "Solar Beam",
+      "Earthquake",
+      "Psychic",
+      "Shadow Ball",
+      "Double Team",
+      "Reflect",
+      "Sandstorm",
+      "Rock Tomb",
+      "Facade",
+      "Rest",
+      "Skill Swap",
+      "Charge Beam",
+      "Endure",
+      "Explosion",
+      "Payback",
+      "Recycle",
+      "Giga Impact",
+      "Rock Polish",
+      "Flash",
+      "Gyro Ball",
+      "Stealth Rock",
+      "Psych Up",
+      "Rock Slide",
+      "Sleep Talk",
+      "Bulldoze",
+      "Dream Eater",
+      "Grass Knot",
+      "Swagger",
+      "Substitute",
+      "Flash Cannon",
+      "Trick Room",
+      "Strength",
+      "Rock Smash",
+      "Iron Head",
+      "Steel Beam",
+      "Zen Headbutt"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 67,
+      "min": 244,
+      "max": 338
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 89,
+      "min": 164,
+      "max": 304
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 116,
+      "min": 213,
+      "max": 364
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 79,
+      "min": 146,
+      "max": 282
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 116,
+      "min": 213,
+      "max": 364
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 33,
+      "min": 63,
+      "max": 181
+    }
+  }
+}
