@@ -1,1 +1,169 @@
-{"name": "Celesteela", "id": "797", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/797.png", "types": ["Steel", "Flying"], "info": {"description": "", "species": "Launch Pok\u00e9mon", "height": "9.2m", "weight": "999.9kg", "catchRate": "45", "baseExp": "257", "growthRate": "Slow", "eggGroups": ["Undiscovered"]}, "evolutions": [], "moves": {"levelUp": ["Absorb", "Tackle", "Harden", "Wide Guard", "Mega Drain", "Smack Down", "Ingrain", "Autotomize", "Giga Drain", "Flash Cannon", "Metal Sound", "Iron Defense", "Leech Seed", "Heavy Slam", "Double-Edge", "Skull Bash", "Air Slash", "Iron Head", "Seed Bomb"], "egg": ["Meteor Beam", "Steel Roller", "Block", "Giga Drain", "Gravity", "Iron Defense", "Iron Head", "Magnet Rise", "Seed Bomb", "Shock Wave", "Snore", "Stomping Tantrum", "Superpower", "Zen Headbutt"], "tutor": [], "tm": ["Fly", "Hyper Beam", "Giga Impact", "Solar Beam", "Self-Destruct", "Rest", "Rock Slide", "Snore", "Protect", "Giga Drain", "Facade", "Round", "Acrobatics", "Bulldoze", "Air Slash", "Smart Strike", "Brutal Swing", "Stomping Tantrum", "Toxic", "Hidden Power", "Frustration", "Smack Down", "Earthquake", "Return", "Double Team", "Flamethrower", "Fire Blast", "Flame Charge", "Energy Ball", "Explosion", "Stone Edge", "Gyro Ball", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Flash Cannon", "Confide"], "tr": ["Body Slam", "Flamethrower", "Earthquake", "Fire Blast", "Substitute", "Endure", "Sleep Talk", "Megahorn", "Superpower", "Iron Defense", "Gyro Ball", "Seed Bomb", "Energy Ball", "Zen Headbutt", "Flash Cannon", "Iron Head", "Stone Edge", "Grass Knot", "Heavy Slam"]}, "stats": {"hp": {"name": "HP", "base": 97, "min": 304, "max": 398}, "attack": {"name": "Attack", "base": 101, "min": 186, "max": 331}, "defense": {"name": "Defense", "base": 103, "min": 189, "max": 335}, "spAttack": {"name": "Sp. Attack", "base": 103, "min": 189, "max": 335}, "spDefense": {"name": "Sp. Defense", "base": 103, "min": 189, "max": 335}, "speed": {"name": "Speed", "base": 97, "min": 304, "max": 398}}}
+{
+  "name": "Celesteela",
+  "subname": "",
+  "id": "797",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/797.png",
+  "types": [
+    "Steel",
+    "Flying"
+  ],
+  "info": {
+    "description": "Celesteela is a Steel/Flying type Pokémon introduced in Generation 7. It is known as the Launch Pokémon. Celesteela is an Ultra Beast, also known by the code name UB-04 Blaster.",
+    "species": "Launch Pok\u00e9mon",
+    "height": "9.2m",
+    "weight": "999.9kg",
+    "catchRate": "45",
+    "baseExp": "257",
+    "growthRate": "Slow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "genders": "-",
+    "ability": [
+      "Beast Boost"
+    ],
+    "hiddenAbility": [],
+    "eggCycles": "120 (30,584–30,840 steps)",
+    "evYield": "1 Attack, 1 Defense, 1 Special Attack"
+  },
+  "evolutions": [],
+  "moves": {
+    "levelUp": [
+      "Absorb",
+      "Tackle",
+      "Harden",
+      "Wide Guard",
+      "Mega Drain",
+      "Smack Down",
+      "Ingrain",
+      "Autotomize",
+      "Giga Drain",
+      "Flash Cannon",
+      "Metal Sound",
+      "Iron Defense",
+      "Leech Seed",
+      "Heavy Slam",
+      "Double-Edge",
+      "Skull Bash",
+      "Air Slash",
+      "Iron Head",
+      "Seed Bomb"
+    ],
+    "egg": [
+      "Meteor Beam",
+      "Steel Roller",
+      "Block",
+      "Giga Drain",
+      "Gravity",
+      "Iron Defense",
+      "Iron Head",
+      "Magnet Rise",
+      "Seed Bomb",
+      "Shock Wave",
+      "Snore",
+      "Stomping Tantrum",
+      "Superpower",
+      "Zen Headbutt"
+    ],
+    "tutor": [],
+    "tm": [
+      "Fly",
+      "Hyper Beam",
+      "Giga Impact",
+      "Solar Beam",
+      "Self-Destruct",
+      "Rest",
+      "Rock Slide",
+      "Snore",
+      "Protect",
+      "Giga Drain",
+      "Facade",
+      "Round",
+      "Acrobatics",
+      "Bulldoze",
+      "Air Slash",
+      "Smart Strike",
+      "Brutal Swing",
+      "Stomping Tantrum",
+      "Toxic",
+      "Hidden Power",
+      "Frustration",
+      "Smack Down",
+      "Earthquake",
+      "Return",
+      "Double Team",
+      "Flamethrower",
+      "Fire Blast",
+      "Flame Charge",
+      "Energy Ball",
+      "Explosion",
+      "Stone Edge",
+      "Gyro Ball",
+      "Grass Knot",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Flash Cannon",
+      "Confide"
+    ],
+    "tr": [
+      "Body Slam",
+      "Flamethrower",
+      "Earthquake",
+      "Fire Blast",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Megahorn",
+      "Superpower",
+      "Iron Defense",
+      "Gyro Ball",
+      "Seed Bomb",
+      "Energy Ball",
+      "Zen Headbutt",
+      "Flash Cannon",
+      "Iron Head",
+      "Stone Edge",
+      "Grass Knot",
+      "Heavy Slam"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 97,
+      "min": 304,
+      "max": 398
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 101,
+      "min": 186,
+      "max": 331
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 103,
+      "min": 189,
+      "max": 335
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 107,
+      "min": 197,
+      "max": 344
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 101,
+      "min": 186,
+      "max": 331
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 61,
+      "min": 114,
+      "max": 243
+    }
+  }
+}
