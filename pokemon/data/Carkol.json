@@ -1,1 +1,143 @@
-{"name": "Carkol", "id": "838", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/838.png", "types": ["Fire", "Rock"], "info": {"description": "", "species": "Coal Pok\u00e9mon", "height": "1.1m", "weight": "78.0kg", "catchRate": "120", "baseExp": "144", "growthRate": "Medium Slow", "eggGroups": ["Mineral"]}, "evolutions": ["Rolycoly", "Carkol", "Coalossal"], "moves": {"levelUp": ["Flame Charge", "Rapid Spin", "Smack Down", "Smokescreen", "Tackle", "Rock Polish", "Ancient Power", "Incinerate", "Stealth Rock", "Heat Crash", "Rock Blast", "Burn Up"], "egg": ["Flame Charge", "Block", "Explosion", "Mud-Slap", "Meteor Beam", "Scorching Sands"], "tutor": ["Block", "Explosion", "Mud-Slap"], "tm": ["Fire Spin", "Dig", "Reflect", "Self-Destruct", "Rest", "Rock Slide", "Snore", "Protect", "Attract", "Sandstorm", "Will-O-Wisp", "Facade", "Rock Tomb", "Sand Tomb", "Rock Blast", "Round"], "tr": ["Flamethrower", "Fire Blast", "Substitute", "Spikes", "Endure", "Sleep Talk", "Heat Wave", "Overheat", "Iron Defense", "Gyro Ball", "Flare Blitz", "Iron Head", "Stone Edge", "Stealth Rock", "Heavy Slam", "Scald", "Heat Crash", "High Horsepower", "Body Press"]}, "stats": {"hp": {"name": "HP", "base": 80, "min": 270, "max": 364}, "attack": {"name": "Attack", "base": 60, "min": 112, "max": 240}, "defense": {"name": "Defense", "base": 90, "min": 166, "max": 306}, "spAttack": {"name": "Sp. Attack", "base": 90, "min": 166, "max": 306}, "spDefense": {"name": "Sp. Defense", "base": 90, "min": 166, "max": 306}, "speed": {"name": "Speed", "base": 80, "min": 270, "max": 364}}}
+{
+  "name": "Carkol",
+  "subname": "",
+  "id": "838",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/838.png",
+  "types": [
+    "Rock",
+    "Fire"
+  ],
+  "info": {
+    "description": "Carkol is a Rock/Fire type Pokémon introduced in Generation 8. It is known as the Coal Pokémon. Evolution of Rolycoly; evolves into Coalossal.",
+    "species": "Coal Pok\u00e9mon",
+    "height": "1.1m",
+    "weight": "78.0kg",
+    "catchRate": "120",
+    "baseExp": "144",
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+      "Mineral"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Steam Engine",
+      "Flame Body"
+    ],
+    "hiddenAbility": [
+      "Flash Fire"
+    ],
+    "eggCycles": "15 (3,599–3,855 steps)",
+    "evYield": "2 Defense"
+  },
+  "evolutions": [
+    "Rolycoly",
+    "Carkol",
+    "Coalossal"
+  ],
+  "moves": {
+    "levelUp": [
+      "Flame Charge",
+      "Rapid Spin",
+      "Smack Down",
+      "Smokescreen",
+      "Tackle",
+      "Rock Polish",
+      "Ancient Power",
+      "Incinerate",
+      "Stealth Rock",
+      "Heat Crash",
+      "Rock Blast",
+      "Burn Up"
+    ],
+    "egg": [
+      "Flame Charge",
+      "Block",
+      "Explosion",
+      "Mud-Slap",
+      "Meteor Beam",
+      "Scorching Sands"
+    ],
+    "tutor": [
+      "Block",
+      "Explosion",
+      "Mud-Slap"
+    ],
+    "tm": [
+      "Fire Spin",
+      "Dig",
+      "Reflect",
+      "Self-Destruct",
+      "Rest",
+      "Rock Slide",
+      "Snore",
+      "Protect",
+      "Attract",
+      "Sandstorm",
+      "Will-O-Wisp",
+      "Facade",
+      "Rock Tomb",
+      "Sand Tomb",
+      "Rock Blast",
+      "Round"
+    ],
+    "tr": [
+      "Flamethrower",
+      "Fire Blast",
+      "Substitute",
+      "Spikes",
+      "Endure",
+      "Sleep Talk",
+      "Heat Wave",
+      "Overheat",
+      "Iron Defense",
+      "Gyro Ball",
+      "Flare Blitz",
+      "Iron Head",
+      "Stone Edge",
+      "Stealth Rock",
+      "Heavy Slam",
+      "Scald",
+      "Heat Crash",
+      "High Horsepower",
+      "Body Press"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 80,
+      "min": 270,
+      "max": 364
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 90,
+      "min": 166,
+      "max": 306
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 50,
+      "min": 94,
+      "max": 218
+    }
+  }
+}
