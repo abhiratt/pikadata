@@ -1,1 +1,140 @@
-{"name": "Centiskorch", "id": "851", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/851.png", "types": ["Bug", "Fire"], "info": {"description": "", "species": "Radiator Pok\u00e9mon", "height": "3.0m", "weight": "120.0kg", "catchRate": "75", "baseExp": "184", "growthRate": "Medium Fast", "eggGroups": ["Bug"]}, "evolutions": ["Sizzlipede", "Centiskorch"], "moves": {"levelUp": ["Bite", "Ember", "Inferno", "Smokescreen", "Wrap", "Flame Wheel", "Bug Bite", "Coil", "Slam", "Fire Spin", "Crunch", "Fire Lash", "Lunge", "Burn Up"], "egg": ["Defense Curl", "Knock Off", "Rollout", "Struggle Bug", "Scorching Sands", "Skitter Smack"], "tutor": ["Scorching Sands", "Skitter Smack"], "tm": ["Hyper Beam", "Giga Impact", "Solar Beam", "Fire Spin", "Rest", "Snore", "Protect", "Attract", "Sunny Day", "Will-O-Wisp", "Facade", "Thunder Fang", "Fire Fang", "Venoshock", "Round", "Mystical Fire", "Brutal Swing"], "tr": ["Flamethrower", "Fire Blast", "Leech Life", "Substitute", "Endure", "Sleep Talk", "Crunch", "Heat Wave", "Overheat", "Flare Blitz", "X-Scissor", "Bug Buzz", "Power Whip", "Scald", "Heat Crash"]}, "stats": {"hp": {"name": "HP", "base": 100, "min": 310, "max": 404}, "attack": {"name": "Attack", "base": 115, "min": 211, "max": 361}, "defense": {"name": "Defense", "base": 65, "min": 121, "max": 251}, "spAttack": {"name": "Sp. Attack", "base": 65, "min": 121, "max": 251}, "spDefense": {"name": "Sp. Defense", "base": 65, "min": 121, "max": 251}, "speed": {"name": "Speed", "base": 100, "min": 310, "max": 404}}}
+{
+  "name": "Centiskorch",
+  "subname": "",
+  "id": "851",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/851.png",
+  "types": [
+    "Fire",
+    "Bug"
+  ],
+  "info": {
+    "description": "Centiskorch is a Fire/Bug type Pokémon introduced in Generation 8. It is known as the Radiator Pokémon. While its burning body is already dangerous on its own, this excessively hostile Pokemon also has large and very sharp fangs.",
+    "species": "Radiator Pok\u00e9mon",
+    "height": "3.0m",
+    "weight": "120.0kg",
+    "catchRate": "75",
+    "baseExp": "184",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Bug"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Flash Fire",
+      "White Smoke"
+    ],
+    "hiddenAbility": [
+      "Flame Body"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "2 Attack"
+  },
+  "evolutions": [
+    "Sizzlipede",
+    "Centiskorch"
+  ],
+  "moves": {
+    "levelUp": [
+      "Bite",
+      "Ember",
+      "Inferno",
+      "Smokescreen",
+      "Wrap",
+      "Flame Wheel",
+      "Bug Bite",
+      "Coil",
+      "Slam",
+      "Fire Spin",
+      "Crunch",
+      "Fire Lash",
+      "Lunge",
+      "Burn Up"
+    ],
+    "egg": [
+      "Defense Curl",
+      "Knock Off",
+      "Rollout",
+      "Struggle Bug",
+      "Scorching Sands",
+      "Skitter Smack"
+    ],
+    "tutor": [
+      "Scorching Sands",
+      "Skitter Smack"
+    ],
+    "tm": [
+      "Hyper Beam",
+      "Giga Impact",
+      "Solar Beam",
+      "Fire Spin",
+      "Rest",
+      "Snore",
+      "Protect",
+      "Attract",
+      "Sunny Day",
+      "Will-O-Wisp",
+      "Facade",
+      "Thunder Fang",
+      "Fire Fang",
+      "Venoshock",
+      "Round",
+      "Mystical Fire",
+      "Brutal Swing"
+    ],
+    "tr": [
+      "Flamethrower",
+      "Fire Blast",
+      "Leech Life",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Crunch",
+      "Heat Wave",
+      "Overheat",
+      "Flare Blitz",
+      "X-Scissor",
+      "Bug Buzz",
+      "Power Whip",
+      "Scald",
+      "Heat Crash"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 100,
+      "min": 310,
+      "max": 404
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 115,
+      "min": 211,
+      "max": 361
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 65,
+      "min": 121,
+      "max": 251
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 90,
+      "min": 166,
+      "max": 306
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 90,
+      "min": 166,
+      "max": 306
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 65,
+      "min": 121,
+      "max": 251
+    }
+  }
+}
