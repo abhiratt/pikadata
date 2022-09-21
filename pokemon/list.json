@@ -1653,6 +1653,7 @@
   },
   "Xatu": {
     "name": "Xatu",
+    "subname": "",
     "id": "178",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/178.png",
     "types": [
@@ -2947,8 +2948,19 @@
   },
   "Camerupt": {
     "name": "Camerupt",
+    "subname": "",
     "id": "323",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/323.png",
+    "types": [
+      "Fire",
+      "Ground"
+    ]
+  },
+  "Mega Camerupt": {
+    "name": "Camerupt",
+    "subname": "Mega Camerupt",
+    "id": "323",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/323_f2.png",
     "types": [
       "Fire",
       "Ground"
@@ -6511,6 +6523,7 @@
   },
   "Xerneas": {
     "name": "Xerneas",
+    "subname": "",
     "id": "716",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/716.png",
     "types": [
@@ -7237,6 +7250,7 @@
   },
   "Xurkitree": {
     "name": "Xurkitree",
+    "subname": "",
     "id": "796",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/796.png",
     "types": [
@@ -8136,12 +8150,31 @@
   },
   "Calyrex": {
     "name": "Calyrex",
+    "subname": "",
     "id": "898",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/898.png",
     "types": [
-      "Ice",
       "Psychic",
-      "Grass",
+      "Grass"
+    ]
+  },
+  "Calyrex - Ice Rider": {
+    "name": "Calyrex",
+    "subname": "Ice Rider",
+    "id": "898",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/898_f2.png",
+    "types": [
+      "Psychic",
+      "Ice"
+    ]
+  },
+  "Calyrex - Shadow Rider": {
+    "name": "Calyrex",
+    "subname": "Shadow Rider",
+    "id": "898",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/898_f3.png",
+    "types": [
+      "Psychic",
       "Ghost"
     ]
   },
