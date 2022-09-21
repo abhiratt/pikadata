@@ -1,1 +1,184 @@
-{"name": "Xatu", "id": "178", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/178.png", "types": ["Psychic", "Flying"], "info": {"description": "", "species": "Mystic Pok\u00e9mon", "height": "1.5m", "weight": "15.0kg", "catchRate": "75", "baseExp": "165", "growthRate": "Medium Fast", "eggGroups": ["Flying"]}, "evolutions": ["Natu", "Xatu"], "moves": {"levelUp": ["Air Slash", "Leer", "Peck", "Stored Power", "Tailwind", "Teleport", "Confuse Ray", "Night Shade", "Psycho Shift", "Guard Swap", "Power Swap", "Psychic", "Wish", "Future Sight"], "egg": ["Air Slash", "Ally Switch", "Drill Peck", "Feather Dance", "Haze", "Quick Attack", "Simple Beam", "Sucker Punch", "Zen Headbutt", "Roost", "Dual Wingbeat", "Expanding Force"], "tutor": ["Ally Switch", "Drill Peck", "Feather Dance", "Haze", "Quick Attack", "Simple Beam", "Sucker Punch", "Zen Headbutt", "Roost"], "tm": ["Calm Mind", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Giga Drain", "Dazzling Gleam", "Solar Beam", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Aerial Ace", "Facade", "Rest", "Attract", "Thief", "Steel Wing", "Skill Swap", "Roost", "Endure", "Giga Impact", "Flash", "Thunder Wave", "Psych Up", "Sleep Talk", "Dream Eater", "Grass Knot", "Swagger", "Pluck", "U-turn", "Substitute", "Trick Room", "Fly", "Defog", "Snore", "Swift", "Imprison", "Power Swap", "Guard Swap", "Magic Room", "Round", "Air Slash"], "tr": ["Psychic", "Substitute", "Psyshock", "Endure", "Sleep Talk", "Baton Pass", "Shadow Ball", "Future Sight", "Heat Wave", "Trick", "Skill Swap", "Cosmic Power", "Calm Mind", "Zen Headbutt", "Grass Knot", "Foul Play", "Stored Power", "Ally Switch", "Dazzling Gleam"]}, "stats": {"hp": {"name": "HP", "base": 65, "min": 240, "max": 334}, "attack": {"name": "Attack", "base": 75, "min": 139, "max": 273}, "defense": {"name": "Defense", "base": 70, "min": 130, "max": 262}, "spAttack": {"name": "Sp. Attack", "base": 70, "min": 130, "max": 262}, "spDefense": {"name": "Sp. Defense", "base": 70, "min": 130, "max": 262}, "speed": {"name": "Speed", "base": 65, "min": 240, "max": 334}}}
+{
+  "name": "Xatu",
+  "subname": "",
+  "id": "178",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/178.png",
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "info": {
+    "description": "Xatu is a Psychic/Flying type Pokémon introduced in Generation 2. It is known as the Mystic Pokémon.",
+    "species": "Mystic Pok\u00e9mon",
+    "height": "1.5m",
+    "weight": "15.0kg",
+    "catchRate": "75",
+    "baseExp": "165",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Flying"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Synchronize",
+      "Early Bird"
+    ],
+    "hiddenAbility": [
+      "Magic Bounce"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 Special Attack, 1 Speed"
+  },
+  "evolutions": [
+    "Natu",
+    "Xatu"
+  ],
+  "moves": {
+    "levelUp": [
+      "Air Slash",
+      "Leer",
+      "Peck",
+      "Stored Power",
+      "Tailwind",
+      "Teleport",
+      "Confuse Ray",
+      "Night Shade",
+      "Psycho Shift",
+      "Guard Swap",
+      "Power Swap",
+      "Psychic",
+      "Wish",
+      "Future Sight"
+    ],
+    "egg": [
+      "Air Slash",
+      "Ally Switch",
+      "Drill Peck",
+      "Feather Dance",
+      "Haze",
+      "Quick Attack",
+      "Simple Beam",
+      "Sucker Punch",
+      "Zen Headbutt",
+      "Roost",
+      "Dual Wingbeat",
+      "Expanding Force"
+    ],
+    "tutor": [
+      "Ally Switch",
+      "Drill Peck",
+      "Feather Dance",
+      "Haze",
+      "Quick Attack",
+      "Simple Beam",
+      "Sucker Punch",
+      "Zen Headbutt",
+      "Roost"
+    ],
+    "tm": [
+      "Calm Mind",
+      "Sunny Day",
+      "Hyper Beam",
+      "Light Screen",
+      "Protect",
+      "Rain Dance",
+      "Giga Drain",
+      "Dazzling Gleam",
+      "Solar Beam",
+      "Psychic",
+      "Shadow Ball",
+      "Double Team",
+      "Reflect",
+      "Aerial Ace",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Thief",
+      "Steel Wing",
+      "Skill Swap",
+      "Roost",
+      "Endure",
+      "Giga Impact",
+      "Flash",
+      "Thunder Wave",
+      "Psych Up",
+      "Sleep Talk",
+      "Dream Eater",
+      "Grass Knot",
+      "Swagger",
+      "Pluck",
+      "U-turn",
+      "Substitute",
+      "Trick Room",
+      "Fly",
+      "Defog",
+      "Snore",
+      "Swift",
+      "Imprison",
+      "Power Swap",
+      "Guard Swap",
+      "Magic Room",
+      "Round",
+      "Air Slash"
+    ],
+    "tr": [
+      "Psychic",
+      "Substitute",
+      "Psyshock",
+      "Endure",
+      "Sleep Talk",
+      "Baton Pass",
+      "Shadow Ball",
+      "Future Sight",
+      "Heat Wave",
+      "Trick",
+      "Skill Swap",
+      "Cosmic Power",
+      "Calm Mind",
+      "Zen Headbutt",
+      "Grass Knot",
+      "Foul Play",
+      "Stored Power",
+      "Ally Switch",
+      "Dazzling Gleam"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 65,
+      "min": 240,
+      "max": 334
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 75,
+      "min": 139,
+      "max": 273
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 95,
+      "min": 175,
+      "max": 317
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 95,
+      "min": 175,
+      "max": 317
+    }
+  }
+}
