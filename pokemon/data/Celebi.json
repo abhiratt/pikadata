@@ -1,1 +1,173 @@
-{"name": "Celebi", "id": "251", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/251.png", "types": ["Psychic", "Grass"], "info": {"description": "", "species": "Time Travel Pok\u00e9mon", "height": "0.6m", "weight": "5.0kg", "catchRate": "45", "baseExp": "270", "growthRate": "Medium Slow", "eggGroups": ["Undiscovered"]}, "evolutions": [], "moves": {"levelUp": ["Confusion", "Heal Bell", "Magical Leaf", "Baton Pass", "Ancient Power", "Life Dew", "Leech Seed", "Recover", "Future Sight", "Healing Wish", "Leaf Storm", "Perish Song"], "egg": ["Dual Wingbeat", "Expanding Force", "Grassy Glide"], "tutor": [], "tm": ["Water Pulse", "Calm Mind", "Sunny Day", "Hyper Beam", "Light Screen", "Protect", "Rain Dance", "Giga Drain", "Safeguard", "Dazzling Gleam", "Solar Beam", "Psychic", "Shadow Ball", "Double Team", "Reflect", "Shock Wave", "Sandstorm", "Aerial Ace", "Facade", "Rest", "Skill Swap", "Energy Ball", "Fling", "Charge Beam", "Endure", "Nasty Plot", "Giga Impact", "Flash", "Thunder Wave", "Swords Dance", "Stealth Rock", "Psych Up", "Sleep Talk", "Dream Eater", "Grass Knot", "Swagger", "U-turn", "Substitute", "Trick Room", "Cut", "Magical Leaf", "Solar Blade", "Snore", "Swift", "Helping Hand", "Imprison", "Weather Ball", "Psycho Cut", "Wonder Room", "Magic Room", "Round", "Grassy Terrain", "Psychic Terrain"], "tr": ["Swords Dance", "Psychic", "Metronome", "Substitute", "Endure", "Sleep Talk", "Baton Pass", "Shadow Ball", "Future Sight", "Uproar", "Trick", "Skill Swap", "Calm Mind", "Leaf Blade", "Aura Sphere", "Seed Bomb", "Energy Ball", "Earth Power", "Nasty Plot", "Zen Headbutt", "Leaf Storm", "Stealth Rock", "Grass Knot", "Ally Switch", "Dazzling Gleam", "Pollen Puff"]}, "stats": {"hp": {"name": "HP", "base": 100, "min": 310, "max": 404}, "attack": {"name": "Attack", "base": 100, "min": 184, "max": 328}, "defense": {"name": "Defense", "base": 100, "min": 184, "max": 328}, "spAttack": {"name": "Sp. Attack", "base": 100, "min": 184, "max": 328}, "spDefense": {"name": "Sp. Defense", "base": 100, "min": 184, "max": 328}, "speed": {"name": "Speed", "base": 100, "min": 310, "max": 404}}}
+{
+  "name": "Celebi",
+  "subname": "",
+  "id": "251",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/251.png",
+  "types": [
+    "Psychic",
+    "Grass"
+  ],
+  "info": {
+    "description": "Celebi is a Psychic/Grass type Pokémon introduced in Generation 2. It is known as the Time Travel Pokémon.",
+    "species": "Time Travel Pok\u00e9mon",
+    "height": "0.6m",
+    "weight": "5.0kg",
+    "catchRate": "45",
+    "baseExp": "270",
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "genders": "-",
+    "ability": [
+      "Natural Cure"
+    ],
+    "hiddenAbility": [],
+    "eggCycles": "120 (30,584–30,840 steps)",
+    "evYield": "3 HP"
+  },
+  "evolutions": [],
+  "moves": {
+    "levelUp": [
+      "Confusion",
+      "Heal Bell",
+      "Magical Leaf",
+      "Baton Pass",
+      "Ancient Power",
+      "Life Dew",
+      "Leech Seed",
+      "Recover",
+      "Future Sight",
+      "Healing Wish",
+      "Leaf Storm",
+      "Perish Song"
+    ],
+    "egg": [
+      "Dual Wingbeat",
+      "Expanding Force",
+      "Grassy Glide"
+    ],
+    "tutor": [],
+    "tm": [
+      "Water Pulse",
+      "Calm Mind",
+      "Sunny Day",
+      "Hyper Beam",
+      "Light Screen",
+      "Protect",
+      "Rain Dance",
+      "Giga Drain",
+      "Safeguard",
+      "Dazzling Gleam",
+      "Solar Beam",
+      "Psychic",
+      "Shadow Ball",
+      "Double Team",
+      "Reflect",
+      "Shock Wave",
+      "Sandstorm",
+      "Aerial Ace",
+      "Facade",
+      "Rest",
+      "Skill Swap",
+      "Energy Ball",
+      "Fling",
+      "Charge Beam",
+      "Endure",
+      "Nasty Plot",
+      "Giga Impact",
+      "Flash",
+      "Thunder Wave",
+      "Swords Dance",
+      "Stealth Rock",
+      "Psych Up",
+      "Sleep Talk",
+      "Dream Eater",
+      "Grass Knot",
+      "Swagger",
+      "U-turn",
+      "Substitute",
+      "Trick Room",
+      "Cut",
+      "Magical Leaf",
+      "Solar Blade",
+      "Snore",
+      "Swift",
+      "Helping Hand",
+      "Imprison",
+      "Weather Ball",
+      "Psycho Cut",
+      "Wonder Room",
+      "Magic Room",
+      "Round",
+      "Grassy Terrain",
+      "Psychic Terrain"
+    ],
+    "tr": [
+      "Swords Dance",
+      "Psychic",
+      "Metronome",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Baton Pass",
+      "Shadow Ball",
+      "Future Sight",
+      "Uproar",
+      "Trick",
+      "Skill Swap",
+      "Calm Mind",
+      "Leaf Blade",
+      "Aura Sphere",
+      "Seed Bomb",
+      "Energy Ball",
+      "Earth Power",
+      "Nasty Plot",
+      "Zen Headbutt",
+      "Leaf Storm",
+      "Stealth Rock",
+      "Grass Knot",
+      "Ally Switch",
+      "Dazzling Gleam",
+      "Pollen Puff"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 100,
+      "min": 310,
+      "max": 404
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 100,
+      "min": 184,
+      "max": 328
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 100,
+      "min": 184,
+      "max": 328
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 100,
+      "min": 184,
+      "max": 328
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 100,
+      "min": 184,
+      "max": 328
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 100,
+      "min": 184,
+      "max": 328
+    }
+  }
+}
