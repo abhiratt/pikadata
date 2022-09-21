@@ -1,1 +1,139 @@
-{"name": "Budew", "id": "406", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/406.png", "types": ["Grass", "Poison"], "info": {"description": "", "species": "Bud Pok\u00e9mon", "height": "0.2m", "weight": "1.2kg", "catchRate": "255", "baseExp": "56", "growthRate": "Medium Slow", "eggGroups": ["Undiscovered"]}, "evolutions": ["Budew", "Roselia", "Roserade"], "moves": {"levelUp": ["Absorb", "Growth", "Stun Spore", "Worry Seed", "Poison Sting", "Poison Powder", "Venoshock", "Poison Jab", "Energy Ball", "Petal Dance"], "egg": ["Cotton Spore", "Extrasensory", "Leaf Storm", "Life Dew", "Mind Reader", "Pin Missile", "Razor Leaf", "Seed Bomb", "Sleep Powder", "Spikes", "Synthesis", "Dazzling Gleam", "Energy Ball", "Poison Jab", "Rest", "Shadow Ball", "Sludge Bomb", "Swift"], "tutor": [], "tm": ["Bullet Seed", "Sunny Day", "Protect", "Rain Dance", "Giga Drain", "Dazzling Gleam", "Solar Beam", "Shadow Ball", "Double Team", "Sludge Bomb", "Facade", "Rest", "Attract", "Energy Ball", "Endure", "Flash", "Swords Dance", "Psych Up", "Sleep Talk", "Grass Knot", "Swagger", "Substitute", "Cut", "Poison Jab", "Spikes", "Swift"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 40, "min": 190, "max": 284}, "attack": {"name": "Attack", "base": 30, "min": 58, "max": 174}, "defense": {"name": "Defense", "base": 35, "min": 67, "max": 185}, "spAttack": {"name": "Sp. Attack", "base": 35, "min": 67, "max": 185}, "spDefense": {"name": "Sp. Defense", "base": 35, "min": 67, "max": 185}, "speed": {"name": "Speed", "base": 40, "min": 190, "max": 284}}}
+{
+  "name": "Budew",
+  "subname": "",
+  "id": "406",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/406.png",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "info": {
+    "description": "Budew is a Grass/Poison type Pokémon introduced in Generation 4. It is known as the Bud Pokémon.",
+    "species": "Bud Pok\u00e9mon",
+    "height": "0.2m",
+    "weight": "1.2kg",
+    "catchRate": "255",
+    "baseExp": "56",
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Natural Cure",
+      "Poison Point"
+    ],
+    "hiddenAbility": [
+      "Leaf Guard"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 Special Attack"
+  },
+  "evolutions": [
+    "Budew",
+    "Roselia",
+    "Roserade"
+  ],
+  "moves": {
+    "levelUp": [
+      "Absorb",
+      "Growth",
+      "Stun Spore",
+      "Worry Seed",
+      "Poison Sting",
+      "Poison Powder",
+      "Venoshock",
+      "Poison Jab",
+      "Energy Ball",
+      "Petal Dance"
+    ],
+    "egg": [
+      "Cotton Spore",
+      "Extrasensory",
+      "Leaf Storm",
+      "Life Dew",
+      "Mind Reader",
+      "Pin Missile",
+      "Razor Leaf",
+      "Seed Bomb",
+      "Sleep Powder",
+      "Spikes",
+      "Synthesis",
+      "Dazzling Gleam",
+      "Energy Ball",
+      "Poison Jab",
+      "Rest",
+      "Shadow Ball",
+      "Sludge Bomb",
+      "Swift"
+    ],
+    "tutor": [],
+    "tm": [
+      "Bullet Seed",
+      "Sunny Day",
+      "Protect",
+      "Rain Dance",
+      "Giga Drain",
+      "Dazzling Gleam",
+      "Solar Beam",
+      "Shadow Ball",
+      "Double Team",
+      "Sludge Bomb",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Energy Ball",
+      "Endure",
+      "Flash",
+      "Swords Dance",
+      "Psych Up",
+      "Sleep Talk",
+      "Grass Knot",
+      "Swagger",
+      "Substitute",
+      "Cut",
+      "Poison Jab",
+      "Spikes",
+      "Swift"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 40,
+      "min": 190,
+      "max": 284
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 35,
+      "min": 67,
+      "max": 185
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 50,
+      "min": 94,
+      "max": 218
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 55,
+      "min": 103,
+      "max": 229
+    }
+  }
+}
