@@ -1,1 +1,88 @@
-{"name": "Blipbug", "id": "824", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/824.png", "types": ["Bug"], "info": {"description": "", "species": "Larva Pok\u00e9mon", "height": "0.4m", "weight": "8.0kg", "catchRate": "255", "baseExp": "36", "growthRate": "Medium Fast", "eggGroups": ["Bug"]}, "evolutions": ["Blipbug", "Dottler", "Orbeetle"], "moves": {"levelUp": ["Struggle Bug"], "egg": ["Infestation", "Recover", "Sticky Web", "Supersonic"], "tutor": [], "tm": [], "tr": []}, "stats": {"hp": {"name": "HP", "base": 25, "min": 160, "max": 254}, "attack": {"name": "Attack", "base": 20, "min": 40, "max": 152}, "defense": {"name": "Defense", "base": 20, "min": 40, "max": 152}, "spAttack": {"name": "Sp. Attack", "base": 20, "min": 40, "max": 152}, "spDefense": {"name": "Sp. Defense", "base": 20, "min": 40, "max": 152}, "speed": {"name": "Speed", "base": 25, "min": 160, "max": 254}}}
+{
+  "name": "Blipbug",
+  "subname": "",
+  "id": "824",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/824.png",
+  "types": [
+    "Bug"
+  ],
+  "info": {
+    "description": "Blipbug is a Bug type Pokémon introduced in Generation 8. It is known as the Larva Pokémon.",
+    "species": "Larva Pok\u00e9mon",
+    "height": "0.4m",
+    "weight": "8.0kg",
+    "catchRate": "255",
+    "baseExp": "36",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Bug"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Swarm",
+      "Compound Eyes"
+    ],
+    "hiddenAbility": [
+      "Telepathy"
+    ],
+    "eggCycles": "15 (3,599–3,855 steps)",
+    "evYield": "1 Special Defense"
+  },
+  "evolutions": [
+    "Blipbug",
+    "Dottler",
+    "Orbeetle"
+  ],
+  "moves": {
+    "levelUp": [
+      "Struggle Bug"
+    ],
+    "egg": [
+      "Infestation",
+      "Recover",
+      "Sticky Web",
+      "Supersonic"
+    ],
+    "tutor": [],
+    "tm": [],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 25,
+      "min": 160,
+      "max": 254
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 20,
+      "min": 40,
+      "max": 152
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 20,
+      "min": 40,
+      "max": 152
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 25,
+      "min": 49,
+      "max": 163
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 45,
+      "min": 85,
+      "max": 207
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 45,
+      "min": 85,
+      "max": 207
+    }
+  }
+}
