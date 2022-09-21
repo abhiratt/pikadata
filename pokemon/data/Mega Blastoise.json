@@ -1,18 +1,18 @@
 {
   "name": "Blastoise",
-  "subname": "",
+  "subname": "Mega Blastoise",
   "id": "009",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009_f2.png",
   "types": [
     "Water"
   ],
   "info": {
-    "description": "Blastoise is a Water type Pokémon introduced in Generation 1. It is known as the Shellfish Pokémon.",
+    "description": "Blastoise is a Water type Pokémon introduced in Generation 1. It is known as the Shellfish Pokémon. Blastoise has a Mega Evolution, available from X & Y onwards.",
     "species": "Shellfish Pok\u00e9mon",
     "height": "1.6m",
     "weight": "85.5kg",
     "catchRate": "45",
-    "baseExp": "239",
+    "baseExp": "284",
     "growthRate": "Medium Slow",
     "eggGroups": [
       "Water 1",
@@ -20,11 +20,9 @@
     ],
     "genders": "0.875",
     "ability": [
-      "Torrent"
+      "Mega Launcher"
     ],
-    "hiddenAbility": [
-      "Rain Dish"
-    ],
+    "hiddenAbility": [],
     "eggCycles": "20 (4,884–5,140 steps)",
     "evYield": "3 Special Defense"
   },
@@ -175,27 +173,27 @@
     },
     "attack": {
       "name": "Attack",
-      "base": 83,
-      "min": 153,
-      "max": 291
+      "base": 103,
+      "min": 189,
+      "max": 335
     },
     "defense": {
       "name": "Defense",
-      "base": 100,
-      "min": 184,
-      "max": 328
+      "base": 120,
+      "min": 220,
+      "max": 372
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 85,
-      "min": 157,
-      "max": 295
+      "base": 135,
+      "min": 247,
+      "max": 405
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 105,
-      "min": 193,
-      "max": 339
+      "base": 115,
+      "min": 211,
+      "max": 361
     },
     "speed": {
       "name": "Speed",
