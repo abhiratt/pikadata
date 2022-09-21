@@ -1,1 +1,174 @@
-{"name": "Buzzwole", "id": "794", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/794.png", "types": ["Bug", "Fighting"], "info": {"description": "", "species": "Swollen Pok\u00e9mon", "height": "2.4m", "weight": "333.6kg", "catchRate": "45", "baseExp": "257", "growthRate": "Slow", "eggGroups": ["Undiscovered"]}, "evolutions": [], "moves": {"levelUp": ["Harden", "Power-Up Punch", "Taunt", "Fell Stinger", "Vital Throw", "Bulk Up", "Endure", "Reversal", "Mega Punch", "Lunge", "Focus Energy", "Dynamic Punch", "Counter", "Hammer Arm", "Superpower", "Focus Punch", "Ice Punch", "Thunder Punch", "Comet Punch", "Leech Life"], "egg": ["Coaching", "Dual Wingbeat", "Bounce", "Bug Bite", "Drain Punch", "Dual Chop", "Endeavor", "Focus Punch", "Ice Punch", "Iron Head", "Outrage", "Snore", "Stomping Tantrum", "Superpower", "Thunder Punch"], "tutor": [], "tm": ["Mega Punch", "Ice Punch", "Thunder Punch", "Giga Impact", "Rest", "Rock Slide", "Snore", "Protect", "Facade", "Revenge", "Brick Break", "Rock Tomb", "Bounce", "Payback", "Fling", "Drain Punch", "Low Sweep", "Round", "Bulldoze", "False Swipe", "Stomping Tantrum", "Work Up", "Toxic", "Bulk Up", "Hidden Power", "Taunt", "Roost", "Frustration", "Smack Down", "Earthquake", "Return", "Leech Life", "Double Team", "Stone Edge", "Gyro Ball", "Poison Jab", "Swagger", "Sleep Talk", "Substitute", "Confide"], "tr": ["Body Slam", "Earthquake", "Focus Energy", "Leech Life", "Substitute", "Reversal", "Outrage", "Endure", "Sleep Talk", "Taunt", "Superpower", "Bulk Up", "Gyro Ball", "Close Combat", "Poison Jab", "Iron Head", "Stone Edge", "Work Up", "Darkest Lariat", "High Horsepower"]}, "stats": {"hp": {"name": "HP", "base": 107, "min": 324, "max": 418}, "attack": {"name": "Attack", "base": 139, "min": 254, "max": 414}, "defense": {"name": "Defense", "base": 139, "min": 254, "max": 414}, "spAttack": {"name": "Sp. Attack", "base": 139, "min": 254, "max": 414}, "spDefense": {"name": "Sp. Defense", "base": 139, "min": 254, "max": 414}, "speed": {"name": "Speed", "base": 107, "min": 324, "max": 418}}}
+{
+  "name": "Buzzwole",
+  "subname": "",
+  "id": "794",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/794.png",
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "info": {
+    "description": "Buzzwole is a Bug/Fighting type Pokémon introduced in Generation 7. It is known as the Swollen Pokémon. Buzzwole is an Ultra Beast, also known by the code name UB-02 Absorption.",
+    "species": "Swollen Pok\u00e9mon",
+    "height": "2.4m",
+    "weight": "333.6kg",
+    "catchRate": "45",
+    "baseExp": "257",
+    "growthRate": "Slow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "genders": "-",
+    "ability": [
+      "Beast Boost"
+    ],
+    "hiddenAbility": [],
+    "eggCycles": "120 (30,584–30,840 steps)",
+    "evYield": "1 Attack, 2 Defense"
+  },
+  "evolutions": [],
+  "moves": {
+    "levelUp": [
+      "Harden",
+      "Power-Up Punch",
+      "Taunt",
+      "Fell Stinger",
+      "Vital Throw",
+      "Bulk Up",
+      "Endure",
+      "Reversal",
+      "Mega Punch",
+      "Lunge",
+      "Focus Energy",
+      "Dynamic Punch",
+      "Counter",
+      "Hammer Arm",
+      "Superpower",
+      "Focus Punch",
+      "Ice Punch",
+      "Thunder Punch",
+      "Comet Punch",
+      "Leech Life"
+    ],
+    "egg": [
+      "Coaching",
+      "Dual Wingbeat",
+      "Bounce",
+      "Bug Bite",
+      "Drain Punch",
+      "Dual Chop",
+      "Endeavor",
+      "Focus Punch",
+      "Ice Punch",
+      "Iron Head",
+      "Outrage",
+      "Snore",
+      "Stomping Tantrum",
+      "Superpower",
+      "Thunder Punch"
+    ],
+    "tutor": [],
+    "tm": [
+      "Mega Punch",
+      "Ice Punch",
+      "Thunder Punch",
+      "Giga Impact",
+      "Rest",
+      "Rock Slide",
+      "Snore",
+      "Protect",
+      "Facade",
+      "Revenge",
+      "Brick Break",
+      "Rock Tomb",
+      "Bounce",
+      "Payback",
+      "Fling",
+      "Drain Punch",
+      "Low Sweep",
+      "Round",
+      "Bulldoze",
+      "False Swipe",
+      "Stomping Tantrum",
+      "Work Up",
+      "Toxic",
+      "Bulk Up",
+      "Hidden Power",
+      "Taunt",
+      "Roost",
+      "Frustration",
+      "Smack Down",
+      "Earthquake",
+      "Return",
+      "Leech Life",
+      "Double Team",
+      "Stone Edge",
+      "Gyro Ball",
+      "Poison Jab",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Confide"
+    ],
+    "tr": [
+      "Body Slam",
+      "Earthquake",
+      "Focus Energy",
+      "Leech Life",
+      "Substitute",
+      "Reversal",
+      "Outrage",
+      "Endure",
+      "Sleep Talk",
+      "Taunt",
+      "Superpower",
+      "Bulk Up",
+      "Gyro Ball",
+      "Close Combat",
+      "Poison Jab",
+      "Iron Head",
+      "Stone Edge",
+      "Work Up",
+      "Darkest Lariat",
+      "High Horsepower"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 107,
+      "min": 324,
+      "max": 418
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 139,
+      "min": 254,
+      "max": 414
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 139,
+      "min": 254,
+      "max": 414
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 53,
+      "min": 99,
+      "max": 225
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 53,
+      "min": 99,
+      "max": 225
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 79,
+      "min": 146,
+      "max": 282
+    }
+  }
+}
