@@ -1,0 +1,159 @@
+{
+  "name": "Braviary",
+  "subname": "",
+  "id": "628",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/628.png",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "info": {
+    "description": "Braviary is a Normal/Flying type Pokémon introduced in Generation 5. It is known as the Valiant Pokémon.",
+    "species": "Valiant Pok\u00e9mon",
+    "height": "1.5m",
+    "weight": "41.0kg",
+    "catchRate": "60",
+    "baseExp": "179",
+    "growthRate": "Slow",
+    "eggGroups": [
+      "Flying"
+    ],
+    "genders": "1.0",
+    "ability": [
+      "Keen Eye",
+      "Sheer Force"
+    ],
+    "hiddenAbility": [
+      "Defiant"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "2 Attack"
+  },
+  "evolutions": [
+    "Rufflet",
+    "Braviary",
+    "Hisuian Braviary"
+  ],
+  "moves": {
+    "levelUp": [
+      "Hone Claws",
+      "Leer",
+      "Peck",
+      "Sky Attack",
+      "Superpower",
+      "Wing Attack",
+      "Tailwind",
+      "Scary Face",
+      "Aerial Ace",
+      "Slash",
+      "Whirlwind",
+      "Crush Claw",
+      "Air Slash",
+      "Defog",
+      "Thrash",
+      "Brave Bird",
+      "Quick Attack",
+      "Twister",
+      "Esper Wing",
+      "Roost",
+      "Double-Edge",
+      "Hurricane"
+    ],
+    "egg": [
+      "Superpower",
+      "Dual Wingbeat",
+      "Aerial Ace",
+      "Bulk Up",
+      "Dazzling Gleam",
+      "Giga Impact",
+      "Hyper Beam",
+      "Mystical Fire",
+      "Ominous Wind",
+      "Power Shift",
+      "Psychic",
+      "Rest",
+      "Rock Slide",
+      "Rock Smash",
+      "Shadow Claw",
+      "Swift",
+      "Zen Headbutt"
+    ],
+    "tutor": [],
+    "tm": [
+      "Fly",
+      "Hyper Beam",
+      "Giga Impact",
+      "Rest",
+      "Rock Slide",
+      "Snore",
+      "Protect",
+      "Scary Face",
+      "Steel Wing",
+      "Attract",
+      "Rain Dance",
+      "Sunny Day",
+      "Facade",
+      "Swift",
+      "Rock Tomb",
+      "U-turn",
+      "Assurance",
+      "Shadow Claw",
+      "Round",
+      "Retaliate",
+      "Air Slash"
+    ],
+    "tr": [
+      "Agility",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Heat Wave",
+      "Superpower",
+      "Bulk Up",
+      "Close Combat",
+      "Brave Bird",
+      "Zen Headbutt",
+      "Iron Head",
+      "Work Up",
+      "Hurricane"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 100,
+      "min": 310,
+      "max": 404
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 123,
+      "min": 225,
+      "max": 379
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 75,
+      "min": 139,
+      "max": 273
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 57,
+      "min": 107,
+      "max": 234
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 75,
+      "min": 139,
+      "max": 273
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 80,
+      "min": 148,
+      "max": 284
+    }
+  }
+}
