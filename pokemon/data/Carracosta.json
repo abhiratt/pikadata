@@ -1,1 +1,214 @@
-{"name": "Carracosta", "id": "565", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/565.png", "types": ["Water", "Rock"], "info": {"description": "", "species": "Prototurtle Pok\u00e9mon", "height": "1.2m", "weight": "81.0kg", "catchRate": "45", "baseExp": "173", "growthRate": "Medium Fast", "eggGroups": ["Water 1", "Water 3"]}, "evolutions": ["Tirtouga", "Carracosta"], "moves": {"levelUp": ["Aqua Jet", "Protect", "Water Gun", "Withdraw", "Smack Down", "Ancient Power", "Bite", "Wide Guard", "Brine", "Rock Slide", "Crunch", "Curse", "Iron Defense", "Aqua Tail", "Rain Dance", "Hydro Pump", "Shell Smash", "Bide", "Rollout"], "egg": ["Meteor Beam", "Bide", "Body Slam", "Flail", "Guard Swap", "Iron Defense", "Knock Off", "Liquidation", "Rock Throw", "Slam", "Water Pulse", "Whirlpool", "Aqua Tail", "Block", "Earth Power", "Icy Wind", "Iron Head", "Iron Tail", "Low Kick", "Snore", "Stealth Rock", "Superpower", "Zen Headbutt", "Dig", "Rock Smash", "Secret Power", "Dive", "Strength"], "tutor": ["Aqua Tail", "Block", "Earth Power", "Icy Wind", "Iron Defense", "Iron Head", "Iron Tail", "Knock Off", "Liquidation", "Low Kick", "Snore", "Stealth Rock", "Superpower", "Water Pulse", "Zen Headbutt"], "tm": ["Hyper Beam", "Giga Impact", "Dig", "Rest", "Rock Slide", "Snore", "Protect", "Icy Wind", "Attract", "Sandstorm", "Rain Dance", "Whirlpool", "Facade", "Dive", "Rock Tomb", "Mud Shot", "Rock Blast", "Brine", "Guard Swap", "Round", "Bulldoze", "Razor Shell", "Toxic", "Hidden Power", "Ice Beam", "Blizzard", "Frustration", "Smack Down", "Earthquake", "Return", "Double Team", "Focus Blast", "Scald", "Rock Polish", "Stone Edge", "Swagger", "Sleep Talk", "Substitute", "Surf", "Waterfall", "Confide"], "tr": ["Body Slam", "Hydro Pump", "Surf", "Ice Beam", "Blizzard", "Low Kick", "Earthquake", "Waterfall", "Substitute", "Endure", "Sleep Talk", "Iron Tail", "Crunch", "Superpower", "Muddy Water", "Iron Defense", "Focus Blast", "Earth Power", "Zen Headbutt", "Iron Head", "Stone Edge", "Stealth Rock", "Scald", "Liquidation"]}, "stats": {"hp": {"name": "HP", "base": 74, "min": 258, "max": 352}, "attack": {"name": "Attack", "base": 108, "min": 198, "max": 346}, "defense": {"name": "Defense", "base": 133, "min": 243, "max": 401}, "spAttack": {"name": "Sp. Attack", "base": 133, "min": 243, "max": 401}, "spDefense": {"name": "Sp. Defense", "base": 133, "min": 243, "max": 401}, "speed": {"name": "Speed", "base": 74, "min": 258, "max": 352}}}
+{
+  "name": "Carracosta",
+  "subname": "",
+  "id": "565",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/565.png",
+  "types": [
+    "Water",
+    "Rock"
+  ],
+  "info": {
+    "description": "Carracosta is a Water/Rock type Pokémon introduced in Generation 5. It is known as the Prototurtle Pokémon.",
+    "species": "Prototurtle Pok\u00e9mon",
+    "height": "1.2m",
+    "weight": "81.0kg",
+    "catchRate": "45",
+    "baseExp": "173",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Water 1",
+      "Water 3"
+    ],
+    "genders": "0.875",
+    "ability": [
+      "Solid Rock",
+      "Sturdy"
+    ],
+    "hiddenAbility": [
+      "Swift Swim"
+    ],
+    "eggCycles": "30 (7,454–7,710 steps)",
+    "evYield": "2 Defense"
+  },
+  "evolutions": [
+    "Tirtouga",
+    "Carracosta"
+  ],
+  "moves": {
+    "levelUp": [
+      "Aqua Jet",
+      "Protect",
+      "Water Gun",
+      "Withdraw",
+      "Smack Down",
+      "Ancient Power",
+      "Bite",
+      "Wide Guard",
+      "Brine",
+      "Rock Slide",
+      "Crunch",
+      "Curse",
+      "Iron Defense",
+      "Aqua Tail",
+      "Rain Dance",
+      "Hydro Pump",
+      "Shell Smash",
+      "Bide",
+      "Rollout"
+    ],
+    "egg": [
+      "Meteor Beam",
+      "Bide",
+      "Body Slam",
+      "Flail",
+      "Guard Swap",
+      "Iron Defense",
+      "Knock Off",
+      "Liquidation",
+      "Rock Throw",
+      "Slam",
+      "Water Pulse",
+      "Whirlpool",
+      "Aqua Tail",
+      "Block",
+      "Earth Power",
+      "Icy Wind",
+      "Iron Head",
+      "Iron Tail",
+      "Low Kick",
+      "Snore",
+      "Stealth Rock",
+      "Superpower",
+      "Zen Headbutt",
+      "Dig",
+      "Rock Smash",
+      "Secret Power",
+      "Dive",
+      "Strength"
+    ],
+    "tutor": [
+      "Aqua Tail",
+      "Block",
+      "Earth Power",
+      "Icy Wind",
+      "Iron Defense",
+      "Iron Head",
+      "Iron Tail",
+      "Knock Off",
+      "Liquidation",
+      "Low Kick",
+      "Snore",
+      "Stealth Rock",
+      "Superpower",
+      "Water Pulse",
+      "Zen Headbutt"
+    ],
+    "tm": [
+      "Hyper Beam",
+      "Giga Impact",
+      "Dig",
+      "Rest",
+      "Rock Slide",
+      "Snore",
+      "Protect",
+      "Icy Wind",
+      "Attract",
+      "Sandstorm",
+      "Rain Dance",
+      "Whirlpool",
+      "Facade",
+      "Dive",
+      "Rock Tomb",
+      "Mud Shot",
+      "Rock Blast",
+      "Brine",
+      "Guard Swap",
+      "Round",
+      "Bulldoze",
+      "Razor Shell",
+      "Toxic",
+      "Hidden Power",
+      "Ice Beam",
+      "Blizzard",
+      "Frustration",
+      "Smack Down",
+      "Earthquake",
+      "Return",
+      "Double Team",
+      "Focus Blast",
+      "Scald",
+      "Rock Polish",
+      "Stone Edge",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Surf",
+      "Waterfall",
+      "Confide"
+    ],
+    "tr": [
+      "Body Slam",
+      "Hydro Pump",
+      "Surf",
+      "Ice Beam",
+      "Blizzard",
+      "Low Kick",
+      "Earthquake",
+      "Waterfall",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Iron Tail",
+      "Crunch",
+      "Superpower",
+      "Muddy Water",
+      "Iron Defense",
+      "Focus Blast",
+      "Earth Power",
+      "Zen Headbutt",
+      "Iron Head",
+      "Stone Edge",
+      "Stealth Rock",
+      "Scald",
+      "Liquidation"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 74,
+      "min": 258,
+      "max": 352
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 108,
+      "min": 198,
+      "max": 346
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 133,
+      "min": 243,
+      "max": 401
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 83,
+      "min": 153,
+      "max": 291
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 65,
+      "min": 121,
+      "max": 251
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 32,
+      "min": 62,
+      "max": 179
+    }
+  }
+}
