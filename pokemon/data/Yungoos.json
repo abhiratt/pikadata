@@ -1,1 +1,144 @@
-{"name": "Yungoos", "id": "734", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/734.png", "types": ["Normal"], "info": {"description": "", "species": "Loitering Pok\u00e9mon", "height": "0.4m", "weight": "6.0kg", "catchRate": "255", "baseExp": "51", "growthRate": "Medium Fast", "eggGroups": ["Field"]}, "evolutions": ["Yungoos", "Gumshoos"], "moves": {"levelUp": ["Tackle", "Leer", "Pursuit", "Sand Attack", "Odor Sleuth", "Bide", "Bite", "Mud-Slap", "Super Fang", "Take Down", "Scary Face", "Crunch", "Hyper Fang", "Yawn", "Thrash", "Rest"], "egg": ["Fire Fang", "Ice Fang", "Last Resort", "Revenge", "Thunder Fang", "Endeavor", "Iron Tail", "Shock Wave", "Snore", "Stomping Tantrum", "Super Fang", "Uproar"], "tutor": ["Endeavor", "Iron Tail", "Last Resort", "Shock Wave", "Snore", "Stomping Tantrum", "Super Fang", "Uproar"], "tm": ["Work Up", "Toxic", "Hidden Power", "Taunt", "Protect", "Frustration", "Earthquake", "Return", "Double Team", "Sandstorm", "Rock Tomb", "Torment", "Facade", "Rest", "Attract", "Thief", "Round", "Echoed Voice", "Payback", "Swagger", "Sleep Talk", "U-turn", "Substitute", "Confide"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 48, "min": 206, "max": 300}, "attack": {"name": "Attack", "base": 70, "min": 130, "max": 262}, "defense": {"name": "Defense", "base": 30, "min": 58, "max": 174}, "spAttack": {"name": "Sp. Attack", "base": 30, "min": 58, "max": 174}, "spDefense": {"name": "Sp. Defense", "base": 30, "min": 58, "max": 174}, "speed": {"name": "Speed", "base": 48, "min": 206, "max": 300}}}
+{
+  "name": "Yungoos",
+  "subname": "",
+  "id": "734",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/734.png",
+  "types": [
+    "Normal"
+  ],
+  "info": {
+    "description": "Yungoos is a Normal type Pokémon introduced in Generation 7. It is known as the Loitering Pokémon.",
+    "species": "Loitering Pok\u00e9mon",
+    "height": "0.4m",
+    "weight": "6.0kg",
+    "catchRate": "255",
+    "baseExp": "51",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Field"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Strong Jaw",
+      "Stakeout"
+    ],
+    "hiddenAbility": [
+      "Adaptability"
+    ],
+    "eggCycles": "15 (3,599–3,855 steps)",
+    "evYield": "1 Attack"
+  },
+  "evolutions": [
+    "Yungoos",
+    "Gumshoos"
+  ],
+  "moves": {
+    "levelUp": [
+      "Tackle",
+      "Leer",
+      "Pursuit",
+      "Sand Attack",
+      "Odor Sleuth",
+      "Bide",
+      "Bite",
+      "Mud-Slap",
+      "Super Fang",
+      "Take Down",
+      "Scary Face",
+      "Crunch",
+      "Hyper Fang",
+      "Yawn",
+      "Thrash",
+      "Rest"
+    ],
+    "egg": [
+      "Fire Fang",
+      "Ice Fang",
+      "Last Resort",
+      "Revenge",
+      "Thunder Fang",
+      "Endeavor",
+      "Iron Tail",
+      "Shock Wave",
+      "Snore",
+      "Stomping Tantrum",
+      "Super Fang",
+      "Uproar"
+    ],
+    "tutor": [
+      "Endeavor",
+      "Iron Tail",
+      "Last Resort",
+      "Shock Wave",
+      "Snore",
+      "Stomping Tantrum",
+      "Super Fang",
+      "Uproar"
+    ],
+    "tm": [
+      "Work Up",
+      "Toxic",
+      "Hidden Power",
+      "Taunt",
+      "Protect",
+      "Frustration",
+      "Earthquake",
+      "Return",
+      "Double Team",
+      "Sandstorm",
+      "Rock Tomb",
+      "Torment",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Thief",
+      "Round",
+      "Echoed Voice",
+      "Payback",
+      "Swagger",
+      "Sleep Talk",
+      "U-turn",
+      "Substitute",
+      "Confide"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 48,
+      "min": 206,
+      "max": 300
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 45,
+      "min": 85,
+      "max": 207
+    }
+  }
+}
