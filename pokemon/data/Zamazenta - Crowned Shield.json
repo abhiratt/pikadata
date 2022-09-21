@@ -1,10 +1,11 @@
 {
   "name": "Zamazenta",
-  "subname": "Hero of Many Battles",
+  "subname": "Crowned Shield",
   "id": "889",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/889.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/889_f2.png",
   "types": [
-    "Fighting"
+    "Fighting",
+    "Steel"
   ],
   "info": {
     "description": "Zamazenta is a Fighting type Pokémon introduced in Generation 8. It is known as the Warrior Pokémon.",
@@ -115,9 +116,9 @@
     },
     "defense": {
       "name": "Defense",
-      "base": 115,
-      "min": 211,
-      "max": 361
+      "base": 145,
+      "min": 265,
+      "max": 427
     },
     "spAttack": {
       "name": "Sp. Attack",
@@ -127,15 +128,15 @@
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 115,
-      "min": 211,
-      "max": 361
+      "base": 145,
+      "min": 265,
+      "max": 427
     },
     "speed": {
       "name": "Speed",
-      "base": 138,
-      "min": 252,
-      "max": 412
+      "base": 128,
+      "min": 234,
+      "max": 390
     }
   }
 }
