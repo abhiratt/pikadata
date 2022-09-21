@@ -1793,6 +1793,7 @@
   },
   "Yanma": {
     "name": "Yanma",
+    "subname": "",
     "id": "193",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/193.png",
     "types": [
@@ -4275,6 +4276,7 @@
   },
   "Yanmega": {
     "name": "Yanmega",
+    "subname": "",
     "id": "469",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/469.png",
     "types": [
@@ -5103,11 +5105,21 @@
   },
   "Yamask": {
     "name": "Yamask",
+    "subname": "",
     "id": "562",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/562.png",
     "types": [
-      "Ghost",
-      "Ground"
+      "Ghost"
+    ]
+  },
+  "Galarian Yamask": {
+    "name": "Yamask",
+    "subname": "Galarian Yamask",
+    "id": "562",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/562_f2.png",
+    "types": [
+      "Ground",
+      "Ghost"
     ]
   },
   "Cofagrigus": {
@@ -6507,6 +6519,7 @@
   },
   "Yveltal": {
     "name": "Yveltal",
+    "subname": "",
     "id": "717",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/717.png",
     "types": [
@@ -6680,6 +6693,7 @@
   },
   "Yungoos": {
     "name": "Yungoos",
+    "subname": "",
     "id": "734",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/734.png",
     "types": [
@@ -7553,6 +7567,7 @@
   },
   "Yamper": {
     "name": "Yamper",
+    "subname": "",
     "id": "835",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/835.png",
     "types": [
