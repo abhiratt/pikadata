@@ -38,6 +38,7 @@
   },
   "Charmander": {
     "name": "Charmander",
+    "subname": "",
     "id": "004",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
     "types": [
@@ -46,6 +47,7 @@
   },
   "Charmeleon": {
     "name": "Charmeleon",
+    "subname": "",
     "id": "005",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
     "types": [
@@ -1426,6 +1428,7 @@
   },
   "Chikorita": {
     "name": "Chikorita",
+    "subname": "",
     "id": "152",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/152.png",
     "types": [
@@ -3313,6 +3316,7 @@
   },
   "Chimecho": {
     "name": "Chimecho",
+    "subname": "",
     "id": "358",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/358.png",
     "types": [
@@ -3595,6 +3599,7 @@
   },
   "Chimchar": {
     "name": "Chimchar",
+    "subname": "",
     "id": "390",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/390.png",
     "types": [
@@ -3876,6 +3881,7 @@
   },
   "Cherubi": {
     "name": "Cherubi",
+    "subname": "",
     "id": "420",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/420.png",
     "types": [
@@ -3884,6 +3890,7 @@
   },
   "Cherrim": {
     "name": "Cherrim",
+    "subname": "",
     "id": "421",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/421.png",
     "types": [
@@ -4059,11 +4066,12 @@
   },
   "Chatot": {
     "name": "Chatot",
+    "subname": "",
     "id": "441",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/441.png",
     "types": [
-      "Flying",
-      "Normal"
+      "Normal",
+      "Flying"
     ]
   },
   "Spiritomb": {
@@ -5953,6 +5961,7 @@
   },
   "Chespin": {
     "name": "Chespin",
+    "subname": "",
     "id": "650",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/650.png",
     "types": [
@@ -5969,6 +5978,7 @@
   },
   "Chesnaught": {
     "name": "Chesnaught",
+    "subname": "",
     "id": "652",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/652.png",
     "types": [
@@ -6758,6 +6768,7 @@
   },
   "Charjabug": {
     "name": "Charjabug",
+    "subname": "",
     "id": "737",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/737.png",
     "types": [
@@ -7592,6 +7603,7 @@
   },
   "Chewtle": {
     "name": "Chewtle",
+    "subname": "",
     "id": "833",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/833.png",
     "types": [
