@@ -1,1 +1,202 @@
-{"name": "Breloom", "id": "286", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/286.png", "types": ["Grass", "Fighting"], "info": {"description": "", "species": "Mushroom Pok\u00e9mon", "height": "1.2m", "weight": "39.2kg", "catchRate": "90", "baseExp": "161", "growthRate": "Fluctuating", "eggGroups": ["Fairy", "Grass"]}, "evolutions": ["Shroomish", "Breloom"], "moves": {"levelUp": ["Absorb", "Giga Drain", "Growth", "Leech Seed", "Mach Punch", "Poison Powder", "Spore", "Stun Spore", "Tackle", "Toxic", "Worry Seed", "Mega Drain", "Headbutt", "Feint", "Counter", "Force Palm", "Mind Reader", "Drain Punch", "Seed Bomb", "Dynamic Punch", "Sky Uppercut"], "egg": ["Mach Punch", "Charm", "Fake Tears", "Helping Hand", "Seed Bomb", "Worry Seed", "Bullet Seed", "Drain Punch", "Focus Punch", "Natural Gift", "Wake-Up Slap", "Giga Drain", "Iron Tail", "Laser Focus", "Snatch", "Snore", "Superpower", "Synthesis", "Thunder Punch", "Growth", "Poison Powder", "Spore", "Toxic", "Body Slam", "Double-Edge", "Mega Kick", "Mega Punch", "Mimic", "Seismic Toss", "Captivate", "Endure", "Fury Cutter", "Mud-Slap", "Vacuum Wave", "Flash", "Power-Up Punch", "Retaliate", "Rock Smash", "Secret Power", "Cut", "Strength"], "tutor": ["Charm", "Fake Tears", "Helping Hand", "Seed Bomb", "Worry Seed", "Bullet Seed", "Drain Punch", "Focus Punch", "Natural Gift", "Wake-Up Slap"], "tm": ["Focus Punch", "Bulk Up", "Bullet Seed", "Work Up", "Sunny Day", "Hyper Beam", "Protect", "Giga Drain", "Safeguard", "Solar Beam", "Iron Tail", "Low Sweep", "Brick Break", "Double Team", "Sludge Bomb", "Rock Tomb", "Facade", "Rest", "Attract", "Focus Blast", "Energy Ball", "False Swipe", "Fling", "Endure", "Drain Punch", "Giga Impact", "Flash", "Stone Edge", "Swords Dance", "Rock Slide", "Sleep Talk", "Grass Knot", "Swagger", "Substitute", "Cut", "Strength", "Rock Smash", "Toxic", "Venoshock", "Hidden Power", "Frustration", "Return", "Round", "Confide"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 60, "min": 230, "max": 324}, "attack": {"name": "Attack", "base": 130, "min": 238, "max": 394}, "defense": {"name": "Defense", "base": 80, "min": 148, "max": 284}, "spAttack": {"name": "Sp. Attack", "base": 80, "min": 148, "max": 284}, "spDefense": {"name": "Sp. Defense", "base": 80, "min": 148, "max": 284}, "speed": {"name": "Speed", "base": 60, "min": 230, "max": 324}}}
+{
+  "name": "Breloom",
+  "subname": "",
+  "id": "286",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/286.png",
+  "types": [
+    "Grass",
+    "Fighting"
+  ],
+  "info": {
+    "description": "Breloom is a Grass/Fighting type Pokémon introduced in Generation 3. It is known as the Mushroom Pokémon.",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "1.2m",
+    "weight": "39.2kg",
+    "catchRate": "90",
+    "baseExp": "161",
+    "growthRate": "Fluctuating",
+    "eggGroups": [
+      "Fairy",
+      "Grass"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Effect Spore",
+      "Poison Heal"
+    ],
+    "hiddenAbility": [
+      "Technician"
+    ],
+    "eggCycles": "15 (3,599–3,855 steps)",
+    "evYield": "2 Attack"
+  },
+  "evolutions": [
+    "Shroomish",
+    "Breloom"
+  ],
+  "moves": {
+    "levelUp": [
+      "Absorb",
+      "Giga Drain",
+      "Growth",
+      "Leech Seed",
+      "Mach Punch",
+      "Poison Powder",
+      "Spore",
+      "Stun Spore",
+      "Tackle",
+      "Toxic",
+      "Worry Seed",
+      "Mega Drain",
+      "Headbutt",
+      "Feint",
+      "Counter",
+      "Force Palm",
+      "Mind Reader",
+      "Drain Punch",
+      "Seed Bomb",
+      "Dynamic Punch",
+      "Sky Uppercut"
+    ],
+    "egg": [
+      "Mach Punch",
+      "Charm",
+      "Fake Tears",
+      "Helping Hand",
+      "Seed Bomb",
+      "Worry Seed",
+      "Bullet Seed",
+      "Drain Punch",
+      "Focus Punch",
+      "Natural Gift",
+      "Wake-Up Slap",
+      "Giga Drain",
+      "Iron Tail",
+      "Laser Focus",
+      "Snatch",
+      "Snore",
+      "Superpower",
+      "Synthesis",
+      "Thunder Punch",
+      "Growth",
+      "Poison Powder",
+      "Spore",
+      "Toxic",
+      "Body Slam",
+      "Double-Edge",
+      "Mega Kick",
+      "Mega Punch",
+      "Mimic",
+      "Seismic Toss",
+      "Captivate",
+      "Endure",
+      "Fury Cutter",
+      "Mud-Slap",
+      "Vacuum Wave",
+      "Flash",
+      "Power-Up Punch",
+      "Retaliate",
+      "Rock Smash",
+      "Secret Power",
+      "Cut",
+      "Strength"
+    ],
+    "tutor": [
+      "Charm",
+      "Fake Tears",
+      "Helping Hand",
+      "Seed Bomb",
+      "Worry Seed",
+      "Bullet Seed",
+      "Drain Punch",
+      "Focus Punch",
+      "Natural Gift",
+      "Wake-Up Slap"
+    ],
+    "tm": [
+      "Focus Punch",
+      "Bulk Up",
+      "Bullet Seed",
+      "Work Up",
+      "Sunny Day",
+      "Hyper Beam",
+      "Protect",
+      "Giga Drain",
+      "Safeguard",
+      "Solar Beam",
+      "Iron Tail",
+      "Low Sweep",
+      "Brick Break",
+      "Double Team",
+      "Sludge Bomb",
+      "Rock Tomb",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Focus Blast",
+      "Energy Ball",
+      "False Swipe",
+      "Fling",
+      "Endure",
+      "Drain Punch",
+      "Giga Impact",
+      "Flash",
+      "Stone Edge",
+      "Swords Dance",
+      "Rock Slide",
+      "Sleep Talk",
+      "Grass Knot",
+      "Swagger",
+      "Substitute",
+      "Cut",
+      "Strength",
+      "Rock Smash",
+      "Toxic",
+      "Venoshock",
+      "Hidden Power",
+      "Frustration",
+      "Return",
+      "Round",
+      "Confide"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 60,
+      "min": 230,
+      "max": 324
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 130,
+      "min": 238,
+      "max": 394
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 80,
+      "min": 148,
+      "max": 284
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    }
+  }
+}
