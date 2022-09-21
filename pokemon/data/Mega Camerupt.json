@@ -1,31 +1,28 @@
 {
   "name": "Camerupt",
-  "subname": "",
+  "subname": "Mega Camerupt",
   "id": "323",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/323.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/323_f2.png",
   "types": [
     "Fire",
     "Ground"
   ],
   "info": {
-    "description": "Camerupt is a Fire/Ground type Pokémon introduced in Generation 3. It is known as the Eruption Pokémon.",
+    "description": "Camerupt is a Fire/Ground type Pokémon introduced in Generation 3. It is known as the Eruption Pokémon. Camerupt has a Mega Evolution, available from Omega Ruby & Alpha Sapphire onwards.",
     "species": "Eruption Pok\u00e9mon",
     "height": "1.9m",
     "weight": "220.0kg",
     "catchRate": "150",
-    "baseExp": "161",
+    "baseExp": "196",
     "growthRate": "Medium Fast",
     "eggGroups": [
       "Field"
     ],
     "genders": "0.5",
     "ability": [
-      "Magma Armor",
-      "Solid Rock"
+      "Sheer Force"
     ],
-    "hiddenAbility": [
-      "Anger Point"
-    ],
+    "hiddenAbility": [],
     "eggCycles": "20 (4,884–5,140 steps)",
     "evYield": "1 Attack, 1 Special Attack"
   },
@@ -166,33 +163,33 @@
     },
     "attack": {
       "name": "Attack",
+      "base": 120,
+      "min": 220,
+      "max": 372
+    },
+    "defense": {
+      "name": "Defense",
       "base": 100,
       "min": 184,
       "max": 328
     },
-    "defense": {
-      "name": "Defense",
-      "base": 70,
-      "min": 130,
-      "max": 262
-    },
     "spAttack": {
       "name": "Sp. Attack",
+      "base": 145,
+      "min": 265,
+      "max": 427
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
       "base": 105,
       "min": 193,
       "max": 339
     },
-    "spDefense": {
-      "name": "Sp. Defense",
-      "base": 75,
-      "min": 139,
-      "max": 273
-    },
     "speed": {
       "name": "Speed",
-      "base": 40,
-      "min": 76,
-      "max": 196
+      "base": 20,
+      "min": 40,
+      "max": 152
     }
   }
 }
