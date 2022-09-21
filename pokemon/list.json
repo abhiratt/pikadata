@@ -1,6 +1,7 @@
 {
   "Bulbasaur": {
     "name": "Bulbasaur",
+    "subname": "",
     "id": "001",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
     "types": [
@@ -139,6 +140,7 @@
   },
   "Butterfree": {
     "name": "Butterfree",
+    "subname": "",
     "id": "012",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
     "types": [
@@ -2618,6 +2620,7 @@
   },
   "Breloom": {
     "name": "Breloom",
+    "subname": "",
     "id": "286",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/286.png",
     "types": [
@@ -3691,6 +3694,7 @@
   },
   "Budew": {
     "name": "Budew",
+    "subname": "",
     "id": "406",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/406.png",
     "types": [
@@ -3742,10 +3746,29 @@
       "Steel"
     ]
   },
-  "Burmy": {
+  "Burmy - Plant Cloak": {
     "name": "Burmy",
+    "subname": "Burmy - Plant Cloak",
     "id": "412",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/412.png",
+    "types": [
+      "Bug"
+    ]
+  },
+  "Burmy - Sand Cloak": {
+    "name": "Burmy",
+    "subname": "Burmy - Sand Cloak",
+    "id": "412",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/412_f2.png",
+    "types": [
+      "Bug"
+    ]
+  },
+  "Burmy - Trash Cloak": {
+    "name": "Burmy",
+    "subname": "Burmy - Trash Cloak",
+    "id": "412",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/412_f3.png",
     "types": [
       "Bug"
     ]
@@ -3798,6 +3821,7 @@
   },
   "Buizel": {
     "name": "Buizel",
+    "subname": "",
     "id": "418",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/418.png",
     "types": [
@@ -3874,6 +3898,7 @@
   },
   "Buneary": {
     "name": "Buneary",
+    "subname": "",
     "id": "427",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/427.png",
     "types": [
@@ -3950,20 +3975,22 @@
   },
   "Bronzor": {
     "name": "Bronzor",
+    "subname": "",
     "id": "436",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/436.png",
     "types": [
-      "Psychic",
-      "Steel"
+      "Steel",
+      "Psychic"
     ]
   },
   "Bronzong": {
     "name": "Bronzong",
+    "subname": "",
     "id": "437",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/437.png",
     "types": [
-      "Psychic",
-      "Steel"
+      "Steel",
+      "Psychic"
     ]
   },
   "Bonsly": {
@@ -5664,12 +5691,22 @@
   },
   "Braviary": {
     "name": "Braviary",
+    "subname": "",
     "id": "628",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/628.png",
     "types": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  "Hisuian Braviary": {
+    "name": "Braviary",
+    "subname": "Hisuian Braviary",
+    "id": "628",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/628_f2.png",
+    "types": [
       "Psychic",
-      "Flying",
-      "Normal"
+      "Flying"
     ]
   },
   "Vullaby": {
@@ -5940,6 +5977,7 @@
   },
   "Bunnelby": {
     "name": "Bunnelby",
+    "subname": "",
     "id": "659",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/659.png",
     "types": [
@@ -6595,6 +6633,7 @@
   },
   "Brionne": {
     "name": "Brionne",
+    "subname": "",
     "id": "729",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/729.png",
     "types": [
@@ -7030,11 +7069,12 @@
   },
   "Bruxish": {
     "name": "Bruxish",
+    "subname": "",
     "id": "779",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/779.png",
     "types": [
-      "Psychic",
-      "Water"
+      "Water",
+      "Psychic"
     ]
   },
   "Drampa": {
@@ -7162,6 +7202,7 @@
   },
   "Buzzwole": {
     "name": "Buzzwole",
+    "subname": "",
     "id": "794",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/794.png",
     "types": [
