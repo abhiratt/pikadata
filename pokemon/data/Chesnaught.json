@@ -1,1 +1,197 @@
-{"name": "Chesnaught", "id": "652", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/652.png", "types": ["Grass", "Fighting"], "info": {"description": "", "species": "Spiny Armor Pok\u00e9mon", "height": "1.6m", "weight": "90.0kg", "catchRate": "45", "baseExp": "239", "growthRate": "Medium Slow", "eggGroups": ["Field"]}, "evolutions": ["Chespin", "Quilladin", "Chesnaught"], "moves": {"levelUp": ["Belly Drum", "Feint", "Growl", "Hammer Arm", "Needle Arm", "Rollout", "Spiky Shield", "Tackle", "Vine Whip", "Bite", "Leech Seed", "Pin Missile", "Take Down", "Seed Bomb", "Mud Shot", "Bulk Up", "Body Slam", "Pain Split", "Wood Hammer", "Giga Impact"], "egg": ["Spiky Shield", "Belly Drum", "Curse", "Defense Curl", "Power-Up Punch", "Quick Guard", "Rollout", "Spikes", "Synthesis", "Block", "Drain Punch", "Dual Chop", "Endeavor", "Focus Punch", "Frenzy Plant", "Giga Drain", "Grass Pledge", "Helping Hand", "Iron Defense", "Iron Head", "Iron Tail", "Low Kick", "Pain Split", "Seed Bomb", "Snore", "Stomping Tantrum", "Super Fang", "Superpower", "Thunder Punch", "Worry Seed", "Zen Headbutt", "Needle Arm", "Dig", "Flash", "Hone Claws", "Retaliate", "Rock Smash", "Secret Power", "Cut", "Strength"], "tutor": ["Belly Drum", "Curse", "Defense Curl", "Power-Up Punch", "Quick Guard", "Rollout", "Spikes", "Synthesis"], "tm": ["Work Up", "Dragon Claw", "Roar", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Hyper Beam", "Protect", "Frustration", "Solar Beam", "Smack Down", "Earthquake", "Return", "Brick Break", "Double Team", "Reflect", "Sludge Bomb", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Focus Blast", "Energy Ball", "Fling", "Shadow Claw", "Payback", "Giga Impact", "Stone Edge", "Gyro Ball", "Swords Dance", "Bulldoze", "Rock Slide", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 88, "min": 286, "max": 380}, "attack": {"name": "Attack", "base": 107, "min": 197, "max": 344}, "defense": {"name": "Defense", "base": 122, "min": 224, "max": 377}, "spAttack": {"name": "Sp. Attack", "base": 122, "min": 224, "max": 377}, "spDefense": {"name": "Sp. Defense", "base": 122, "min": 224, "max": 377}, "speed": {"name": "Speed", "base": 88, "min": 286, "max": 380}}}
+{
+  "name": "Chesnaught",
+  "subname": "",
+  "id": "652",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/652.png",
+  "types": [
+    "Grass",
+    "Fighting"
+  ],
+  "info": {
+    "description": "Chesnaught is a Grass/Fighting type Pokémon introduced in Generation 6. It is known as the Spiny Armor Pokémon. Chesnaught evolves from Quilladin at level 36.",
+    "species": "Spiny Armor Pok\u00e9mon",
+    "height": "1.6m",
+    "weight": "90.0kg",
+    "catchRate": "45",
+    "baseExp": "239",
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+      "Field"
+    ],
+    "genders": "0.875",
+    "ability": [
+      "Overgrow"
+    ],
+    "hiddenAbility": [
+      "Bulletproof"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "3 Defense"
+  },
+  "evolutions": [
+    "Chespin",
+    "Quilladin",
+    "Chesnaught"
+  ],
+  "moves": {
+    "levelUp": [
+      "Belly Drum",
+      "Feint",
+      "Growl",
+      "Hammer Arm",
+      "Needle Arm",
+      "Rollout",
+      "Spiky Shield",
+      "Tackle",
+      "Vine Whip",
+      "Bite",
+      "Leech Seed",
+      "Pin Missile",
+      "Take Down",
+      "Seed Bomb",
+      "Mud Shot",
+      "Bulk Up",
+      "Body Slam",
+      "Pain Split",
+      "Wood Hammer",
+      "Giga Impact"
+    ],
+    "egg": [
+      "Spiky Shield",
+      "Belly Drum",
+      "Curse",
+      "Defense Curl",
+      "Power-Up Punch",
+      "Quick Guard",
+      "Rollout",
+      "Spikes",
+      "Synthesis",
+      "Block",
+      "Drain Punch",
+      "Dual Chop",
+      "Endeavor",
+      "Focus Punch",
+      "Frenzy Plant",
+      "Giga Drain",
+      "Grass Pledge",
+      "Helping Hand",
+      "Iron Defense",
+      "Iron Head",
+      "Iron Tail",
+      "Low Kick",
+      "Pain Split",
+      "Seed Bomb",
+      "Snore",
+      "Stomping Tantrum",
+      "Super Fang",
+      "Superpower",
+      "Thunder Punch",
+      "Worry Seed",
+      "Zen Headbutt",
+      "Needle Arm",
+      "Dig",
+      "Flash",
+      "Hone Claws",
+      "Retaliate",
+      "Rock Smash",
+      "Secret Power",
+      "Cut",
+      "Strength"
+    ],
+    "tutor": [
+      "Belly Drum",
+      "Curse",
+      "Defense Curl",
+      "Power-Up Punch",
+      "Quick Guard",
+      "Rollout",
+      "Spikes",
+      "Synthesis"
+    ],
+    "tm": [
+      "Work Up",
+      "Dragon Claw",
+      "Roar",
+      "Toxic",
+      "Bulk Up",
+      "Hidden Power",
+      "Sunny Day",
+      "Taunt",
+      "Hyper Beam",
+      "Protect",
+      "Frustration",
+      "Solar Beam",
+      "Smack Down",
+      "Earthquake",
+      "Return",
+      "Brick Break",
+      "Double Team",
+      "Reflect",
+      "Sludge Bomb",
+      "Rock Tomb",
+      "Aerial Ace",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Low Sweep",
+      "Round",
+      "Focus Blast",
+      "Energy Ball",
+      "Fling",
+      "Shadow Claw",
+      "Payback",
+      "Giga Impact",
+      "Stone Edge",
+      "Gyro Ball",
+      "Swords Dance",
+      "Bulldoze",
+      "Rock Slide",
+      "Poison Jab",
+      "Grass Knot",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Nature Power",
+      "Confide"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 88,
+      "min": 286,
+      "max": 380
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 107,
+      "min": 197,
+      "max": 344
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 122,
+      "min": 224,
+      "max": 377
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 74,
+      "min": 137,
+      "max": 271
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 75,
+      "min": 139,
+      "max": 273
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 64,
+      "min": 119,
+      "max": 249
+    }
+  }
+}

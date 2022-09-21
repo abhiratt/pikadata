@@ -1,1 +1,193 @@
-{"name": "Chespin", "id": "650", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/650.png", "types": ["Grass"], "info": {"description": "", "species": "Spiny Nut Pok\u00e9mon", "height": "0.4m", "weight": "9.0kg", "catchRate": "45", "baseExp": "63", "growthRate": "Medium Slow", "eggGroups": ["Field"]}, "evolutions": ["Chespin", "Quilladin", "Chesnaught"], "moves": {"levelUp": ["Growl", "Vine Whip", "Rollout", "Bite", "Leech Seed", "Pin Missile", "Take Down", "Seed Bomb", "Mud Shot", "Bulk Up", "Body Slam", "Pain Split", "Wood Hammer"], "egg": ["Belly Drum", "Curse", "Defense Curl", "Power-Up Punch", "Quick Guard", "Rollout", "Spikes", "Synthesis", "Drain Punch", "Dual Chop", "Endeavor", "Focus Punch", "Giga Drain", "Grass Pledge", "Helping Hand", "Iron Defense", "Iron Head", "Iron Tail", "Low Kick", "Pain Split", "Seed Bomb", "Snore", "Stomping Tantrum", "Super Fang", "Superpower", "Thunder Punch", "Worry Seed", "Zen Headbutt", "Tackle", "Dig", "Flash", "Retaliate", "Rock Smash", "Secret Power", "Cut", "Strength"], "tutor": ["Drain Punch", "Dual Chop", "Endeavor", "Focus Punch", "Giga Drain", "Grass Pledge", "Helping Hand", "Iron Defense", "Iron Head", "Iron Tail", "Low Kick", "Pain Split", "Seed Bomb", "Snore", "Stomping Tantrum", "Super Fang", "Superpower", "Synthesis", "Thunder Punch", "Worry Seed", "Zen Headbutt"], "tm": ["Work Up", "Roar", "Toxic", "Bulk Up", "Hidden Power", "Sunny Day", "Taunt", "Protect", "Frustration", "Solar Beam", "Smack Down", "Return", "Brick Break", "Double Team", "Reflect", "Sludge Bomb", "Rock Tomb", "Aerial Ace", "Facade", "Rest", "Attract", "Low Sweep", "Round", "Energy Ball", "Fling", "Shadow Claw", "Payback", "Stone Edge", "Gyro Ball", "Swords Dance", "Bulldoze", "Rock Slide", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Nature Power", "Confide"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 56, "min": 222, "max": 316}, "attack": {"name": "Attack", "base": 61, "min": 114, "max": 243}, "defense": {"name": "Defense", "base": 65, "min": 121, "max": 251}, "spAttack": {"name": "Sp. Attack", "base": 65, "min": 121, "max": 251}, "spDefense": {"name": "Sp. Defense", "base": 65, "min": 121, "max": 251}, "speed": {"name": "Speed", "base": 56, "min": 222, "max": 316}}}
+{
+  "name": "Chespin",
+  "subname": "",
+  "id": "650",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/650.png",
+  "types": [
+    "Grass"
+  ],
+  "info": {
+    "description": "Chespin is a Grass type Pokémon introduced in Generation 6. It is known as the Spiny Nut Pokémon. Chespin has a tough shell covering its head and back.",
+    "species": "Spiny Nut Pok\u00e9mon",
+    "height": "0.4m",
+    "weight": "9.0kg",
+    "catchRate": "45",
+    "baseExp": "63",
+    "growthRate": "Medium Slow",
+    "eggGroups": [
+      "Field"
+    ],
+    "genders": "0.875",
+    "ability": [
+      "Overgrow"
+    ],
+    "hiddenAbility": [
+      "Bulletproof"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 Defense"
+  },
+  "evolutions": [
+    "Chespin",
+    "Quilladin",
+    "Chesnaught"
+  ],
+  "moves": {
+    "levelUp": [
+      "Growl",
+      "Vine Whip",
+      "Rollout",
+      "Bite",
+      "Leech Seed",
+      "Pin Missile",
+      "Take Down",
+      "Seed Bomb",
+      "Mud Shot",
+      "Bulk Up",
+      "Body Slam",
+      "Pain Split",
+      "Wood Hammer"
+    ],
+    "egg": [
+      "Belly Drum",
+      "Curse",
+      "Defense Curl",
+      "Power-Up Punch",
+      "Quick Guard",
+      "Rollout",
+      "Spikes",
+      "Synthesis",
+      "Drain Punch",
+      "Dual Chop",
+      "Endeavor",
+      "Focus Punch",
+      "Giga Drain",
+      "Grass Pledge",
+      "Helping Hand",
+      "Iron Defense",
+      "Iron Head",
+      "Iron Tail",
+      "Low Kick",
+      "Pain Split",
+      "Seed Bomb",
+      "Snore",
+      "Stomping Tantrum",
+      "Super Fang",
+      "Superpower",
+      "Thunder Punch",
+      "Worry Seed",
+      "Zen Headbutt",
+      "Tackle",
+      "Dig",
+      "Flash",
+      "Retaliate",
+      "Rock Smash",
+      "Secret Power",
+      "Cut",
+      "Strength"
+    ],
+    "tutor": [
+      "Drain Punch",
+      "Dual Chop",
+      "Endeavor",
+      "Focus Punch",
+      "Giga Drain",
+      "Grass Pledge",
+      "Helping Hand",
+      "Iron Defense",
+      "Iron Head",
+      "Iron Tail",
+      "Low Kick",
+      "Pain Split",
+      "Seed Bomb",
+      "Snore",
+      "Stomping Tantrum",
+      "Super Fang",
+      "Superpower",
+      "Synthesis",
+      "Thunder Punch",
+      "Worry Seed",
+      "Zen Headbutt"
+    ],
+    "tm": [
+      "Work Up",
+      "Roar",
+      "Toxic",
+      "Bulk Up",
+      "Hidden Power",
+      "Sunny Day",
+      "Taunt",
+      "Protect",
+      "Frustration",
+      "Solar Beam",
+      "Smack Down",
+      "Return",
+      "Brick Break",
+      "Double Team",
+      "Reflect",
+      "Sludge Bomb",
+      "Rock Tomb",
+      "Aerial Ace",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Low Sweep",
+      "Round",
+      "Energy Ball",
+      "Fling",
+      "Shadow Claw",
+      "Payback",
+      "Stone Edge",
+      "Gyro Ball",
+      "Swords Dance",
+      "Bulldoze",
+      "Rock Slide",
+      "Poison Jab",
+      "Grass Knot",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Nature Power",
+      "Confide"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 56,
+      "min": 222,
+      "max": 316
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 61,
+      "min": 114,
+      "max": 243
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 65,
+      "min": 121,
+      "max": 251
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 48,
+      "min": 90,
+      "max": 214
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 45,
+      "min": 85,
+      "max": 207
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 38,
+      "min": 72,
+      "max": 192
+    }
+  }
+}

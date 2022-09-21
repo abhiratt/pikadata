@@ -1,1 +1,123 @@
-{"name": "Chewtle", "id": "833", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/833.png", "types": ["Water"], "info": {"description": "", "species": "Snapping Pok\u00e9mon", "height": "0.3m", "weight": "8.5kg", "catchRate": "255", "baseExp": "57", "growthRate": "Medium Fast", "eggGroups": ["Water 1", "Monster"]}, "evolutions": ["Chewtle", "Drednaw"], "moves": {"levelUp": ["Tackle", "Water Gun", "Bite", "Protect", "Headbutt", "Counter", "Jaw Lock", "Liquidation", "Body Slam"], "egg": ["Dragon Tail", "Gastro Acid", "Skull Bash", "Scale Shot", "Skitter Smack"], "tutor": ["Scale Shot", "Skitter Smack"], "tm": ["Rest", "Snore", "Protect", "Attract", "Rain Dance", "Whirlpool", "Facade", "Revenge", "Dive", "Mud Shot", "Payback", "Assurance", "Ice Fang", "Round"], "tr": ["Body Slam", "Hydro Pump", "Surf", "Substitute", "Endure", "Sleep Talk", "Liquidation"]}, "stats": {"hp": {"name": "HP", "base": 50, "min": 210, "max": 304}, "attack": {"name": "Attack", "base": 64, "min": 119, "max": 249}, "defense": {"name": "Defense", "base": 50, "min": 94, "max": 218}, "spAttack": {"name": "Sp. Attack", "base": 50, "min": 94, "max": 218}, "spDefense": {"name": "Sp. Defense", "base": 50, "min": 94, "max": 218}, "speed": {"name": "Speed", "base": 50, "min": 210, "max": 304}}}
+{
+  "name": "Chewtle",
+  "subname": "",
+  "id": "833",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/833.png",
+  "types": [
+    "Water"
+  ],
+  "info": {
+    "description": "Chewtle is a Water type Pokémon introduced in Generation 8. It is known as the Snapping Pokémon.",
+    "species": "Snapping Pok\u00e9mon",
+    "height": "0.3m",
+    "weight": "8.5kg",
+    "catchRate": "255",
+    "baseExp": "57",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Water 1",
+      "Monster"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Strong Jaw",
+      "Shell Armor"
+    ],
+    "hiddenAbility": [
+      "Swift Swim"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "1 Attack"
+  },
+  "evolutions": [
+    "Chewtle",
+    "Drednaw"
+  ],
+  "moves": {
+    "levelUp": [
+      "Tackle",
+      "Water Gun",
+      "Bite",
+      "Protect",
+      "Headbutt",
+      "Counter",
+      "Jaw Lock",
+      "Liquidation",
+      "Body Slam"
+    ],
+    "egg": [
+      "Dragon Tail",
+      "Gastro Acid",
+      "Skull Bash",
+      "Scale Shot",
+      "Skitter Smack"
+    ],
+    "tutor": [
+      "Scale Shot",
+      "Skitter Smack"
+    ],
+    "tm": [
+      "Rest",
+      "Snore",
+      "Protect",
+      "Attract",
+      "Rain Dance",
+      "Whirlpool",
+      "Facade",
+      "Revenge",
+      "Dive",
+      "Mud Shot",
+      "Payback",
+      "Assurance",
+      "Ice Fang",
+      "Round"
+    ],
+    "tr": [
+      "Body Slam",
+      "Hydro Pump",
+      "Surf",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Liquidation"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 50,
+      "min": 210,
+      "max": 304
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 64,
+      "min": 119,
+      "max": 249
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 50,
+      "min": 94,
+      "max": 218
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 38,
+      "min": 72,
+      "max": 192
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 38,
+      "min": 72,
+      "max": 192
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 44,
+      "min": 83,
+      "max": 205
+    }
+  }
+}

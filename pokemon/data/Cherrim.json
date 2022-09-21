@@ -1,1 +1,159 @@
-{"name": "Cherrim", "id": "421", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/421.png", "types": ["Grass"], "info": {"description": "", "species": "Blossom Pok\u00e9mon", "height": "0.5m", "weight": "9.3kg", "catchRate": "75", "baseExp": "158", "growthRate": "Medium Fast", "eggGroups": ["Fairy", "Grass"]}, "evolutions": ["Cherubi", "Cherrim"], "moves": {"levelUp": ["Flower Shield", "Growth", "Leafage", "Morning Sun", "Sunny Day", "Tackle", "Helping Hand", "Magical Leaf", "Leech Seed", "Take Down", "Petal Blizzard", "Worry Seed", "Solar Beam", "Petal Dance", "Absorb", "Stun Spore", "Draining Kiss", "Energy Ball", "Sleep Powder", "Double-Edge"], "egg": ["Sunny Day", "Aromatherapy", "Defense Curl", "Flower Shield", "Grassy Terrain", "Heal Pulse", "Healing Wish", "Nature Power", "Razor Leaf", "Rollout", "Seed Bomb", "Sweet Scent", "Tickle", "Weather Ball", "Dazzling Gleam", "Energy Ball", "Giga Impact", "Hyper Beam", "Magical Leaf", "Play Rough", "Rest"], "tutor": ["Aromatherapy", "Defense Curl", "Flower Shield", "Grassy Terrain", "Heal Pulse", "Healing Wish", "Nature Power", "Razor Leaf", "Rollout", "Seed Bomb", "Sweet Scent", "Tickle", "Weather Ball"], "tm": ["Bullet Seed", "Sunny Day", "Hyper Beam", "Protect", "Giga Drain", "Safeguard", "Dazzling Gleam", "Solar Beam", "Double Team", "Facade", "Rest", "Attract", "Energy Ball", "Endure", "Giga Impact", "Flash", "Swords Dance", "Sleep Talk", "Grass Knot", "Swagger", "Substitute", "Magical Leaf", "Play Rough"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 70, "min": 250, "max": 344}, "attack": {"name": "Attack", "base": 60, "min": 112, "max": 240}, "defense": {"name": "Defense", "base": 70, "min": 130, "max": 262}, "spAttack": {"name": "Sp. Attack", "base": 70, "min": 130, "max": 262}, "spDefense": {"name": "Sp. Defense", "base": 70, "min": 130, "max": 262}, "speed": {"name": "Speed", "base": 70, "min": 250, "max": 344}}}
+{
+  "name": "Cherrim",
+  "subname": "",
+  "id": "421",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/421.png",
+  "types": [
+    "Grass"
+  ],
+  "info": {
+    "description": "Cherrim is a Grass type Pokémon introduced in Generation 4. It is known as the Blossom Pokémon.",
+    "species": "Blossom Pok\u00e9mon",
+    "height": "0.5m",
+    "weight": "9.3kg",
+    "catchRate": "75",
+    "baseExp": "158",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Fairy",
+      "Grass"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Flower Gift"
+    ],
+    "hiddenAbility": [],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "2 Special Attack"
+  },
+  "evolutions": [
+    "Cherubi",
+    "Cherrim"
+  ],
+  "moves": {
+    "levelUp": [
+      "Flower Shield",
+      "Growth",
+      "Leafage",
+      "Morning Sun",
+      "Sunny Day",
+      "Tackle",
+      "Helping Hand",
+      "Magical Leaf",
+      "Leech Seed",
+      "Take Down",
+      "Petal Blizzard",
+      "Worry Seed",
+      "Solar Beam",
+      "Petal Dance",
+      "Absorb",
+      "Stun Spore",
+      "Draining Kiss",
+      "Energy Ball",
+      "Sleep Powder",
+      "Double-Edge"
+    ],
+    "egg": [
+      "Sunny Day",
+      "Aromatherapy",
+      "Defense Curl",
+      "Flower Shield",
+      "Grassy Terrain",
+      "Heal Pulse",
+      "Healing Wish",
+      "Nature Power",
+      "Razor Leaf",
+      "Rollout",
+      "Seed Bomb",
+      "Sweet Scent",
+      "Tickle",
+      "Weather Ball",
+      "Dazzling Gleam",
+      "Energy Ball",
+      "Giga Impact",
+      "Hyper Beam",
+      "Magical Leaf",
+      "Play Rough",
+      "Rest"
+    ],
+    "tutor": [
+      "Aromatherapy",
+      "Defense Curl",
+      "Flower Shield",
+      "Grassy Terrain",
+      "Heal Pulse",
+      "Healing Wish",
+      "Nature Power",
+      "Razor Leaf",
+      "Rollout",
+      "Seed Bomb",
+      "Sweet Scent",
+      "Tickle",
+      "Weather Ball"
+    ],
+    "tm": [
+      "Bullet Seed",
+      "Sunny Day",
+      "Hyper Beam",
+      "Protect",
+      "Giga Drain",
+      "Safeguard",
+      "Dazzling Gleam",
+      "Solar Beam",
+      "Double Team",
+      "Facade",
+      "Rest",
+      "Attract",
+      "Energy Ball",
+      "Endure",
+      "Giga Impact",
+      "Flash",
+      "Swords Dance",
+      "Sleep Talk",
+      "Grass Knot",
+      "Swagger",
+      "Substitute",
+      "Magical Leaf",
+      "Play Rough"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 70,
+      "min": 250,
+      "max": 344
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 87,
+      "min": 161,
+      "max": 300
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 78,
+      "min": 144,
+      "max": 280
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 85,
+      "min": 157,
+      "max": 295
+    }
+  }
+}
