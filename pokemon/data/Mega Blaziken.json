@@ -1,30 +1,28 @@
 {
   "name": "Blaziken",
-  "subname": "",
+  "subname": "Mega Blaziken",
   "id": "257",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/257.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/257_f2.png",
   "types": [
     "Fire",
     "Fighting"
   ],
   "info": {
-    "description": "Blaziken is a Fire/Fighting type Pokémon introduced in Generation 3. It is known as the Blaze Pokémon.",
+    "description": "Blaziken is a Fire/Fighting type Pokémon introduced in Generation 3. It is known as the Blaze Pokémon. Blaziken has a Mega Evolution, available from X & Y onwards.",
     "species": "Blaze Pok\u00e9mon",
     "height": "1.9m",
     "weight": "52.0kg",
     "catchRate": "45",
-    "baseExp": "239",
+    "baseExp": "284",
     "growthRate": "Medium Slow",
     "eggGroups": [
       "Field"
     ],
     "genders": "0.875",
     "ability": [
-      "Blaze"
-    ],
-    "hiddenAbility": [
       "Speed Boost"
     ],
+    "hiddenAbility": [],
     "eggCycles": "20 (4,884–5,140 steps)",
     "evYield": "3 Attack"
   },
@@ -172,33 +170,33 @@
     },
     "attack": {
       "name": "Attack",
-      "base": 120,
-      "min": 220,
-      "max": 372
+      "base": 160,
+      "min": 292,
+      "max": 460
     },
     "defense": {
       "name": "Defense",
-      "base": 70,
-      "min": 130,
-      "max": 262
-    },
-    "spAttack": {
-      "name": "Sp. Attack",
-      "base": 110,
-      "min": 202,
-      "max": 350
-    },
-    "spDefense": {
-      "name": "Sp. Defense",
-      "base": 70,
-      "min": 130,
-      "max": 262
-    },
-    "speed": {
-      "name": "Speed",
       "base": 80,
       "min": 148,
       "max": 284
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 130,
+      "min": 238,
+      "max": 394
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 80,
+      "min": 148,
+      "max": 284
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 100,
+      "min": 184,
+      "max": 328
     }
   }
 }
