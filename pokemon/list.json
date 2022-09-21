@@ -105,8 +105,18 @@
   },
   "Blastoise": {
     "name": "Blastoise",
+    "subname": "",
     "id": "009",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+    "types": [
+      "Water"
+    ]
+  },
+  "Mega Blastoise": {
+    "name": "Blastoise",
+    "subname": "Mega Blastoise",
+    "id": "009",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009_f2.png",
     "types": [
       "Water"
     ]
@@ -3610,6 +3620,7 @@
   },
   "Bidoof": {
     "name": "Bidoof",
+    "subname": "",
     "id": "399",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/399.png",
     "types": [
@@ -3618,11 +3629,12 @@
   },
   "Bibarel": {
     "name": "Bibarel",
+    "subname": "",
     "id": "400",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/400.png",
     "types": [
-      "Water",
-      "Normal"
+      "Normal",
+      "Water"
     ]
   },
   "Kricketot": {
@@ -5609,6 +5621,7 @@
   },
   "Bisharp": {
     "name": "Bisharp",
+    "subname": "",
     "id": "625",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/625.png",
     "types": [
@@ -6167,11 +6180,12 @@
   },
   "Binacle": {
     "name": "Binacle",
+    "subname": "",
     "id": "688",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/688.png",
     "types": [
-      "Water",
-      "Rock"
+      "Rock",
+      "Water"
     ]
   },
   "Barbaracle": {
@@ -7238,6 +7252,7 @@
   },
   "Blacephalon": {
     "name": "Blacephalon",
+    "subname": "",
     "id": "806",
     "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/806.png",
     "types": [
