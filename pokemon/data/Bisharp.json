@@ -1,1 +1,215 @@
-{"name": "Bisharp", "id": "625", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/625.png", "types": ["Dark", "Steel"], "info": {"description": "", "species": "Sword Blade Pok\u00e9mon", "height": "1.6m", "weight": "70.0kg", "catchRate": "45", "baseExp": "172", "growthRate": "Medium Fast", "eggGroups": ["Human-Like"]}, "evolutions": ["Pawniard", "Bisharp"], "moves": {"levelUp": ["Fury Cutter", "Leer", "Metal Burst", "Metal Claw", "Scratch", "Torment", "Scary Face", "Assurance", "Metal Sound", "Slash", "Night Slash", "Iron Defense", "Laser Focus", "Iron Head", "Swords Dance", "Guillotine", "Feint Attack", "Embargo"], "egg": ["Headbutt", "Mean Look", "Quick Guard", "Sucker Punch", "Lash Out", "Psycho Cut", "Pursuit", "Revenge", "Stealth Rock", "Dual Chop", "Foul Play", "Iron Defense", "Iron Head", "Knock Off", "Laser Focus", "Low Kick", "Magnet Rise", "Role Play", "Snatch", "Snore", "Spite", "Throat Chop", "Dig", "Hone Claws", "Power-Up Punch", "Retaliate", "Rock Smash", "Secret Power", "Cut"], "tutor": ["Lash Out", "Dual Chop", "Foul Play", "Iron Defense", "Iron Head", "Knock Off", "Laser Focus", "Low Kick", "Magnet Rise", "Role Play", "Snatch", "Snore", "Spite", "Stealth Rock", "Throat Chop"], "tm": ["Hyper Beam", "Giga Impact", "Thunder Wave", "Dig", "Screech", "Rest", "Thief", "Snore", "Protect", "Scary Face", "Attract", "Sandstorm", "Rain Dance", "Beat Up", "Facade", "Revenge", "Brick Break", "Rock Tomb", "Payback", "Assurance", "Fling", "Shadow Claw", "Psycho Cut", "Low Sweep", "Round", "Retaliate", "Snarl", "False Swipe", "Air Slash", "Toxic", "Hidden Power", "Taunt", "Frustration", "Return", "Double Team", "Aerial Ace", "Torment", "Focus Blast", "Embargo", "Rock Polish", "Stone Edge", "Swords Dance", "X-Scissor", "Poison Jab", "Grass Knot", "Swagger", "Sleep Talk", "Substitute", "Dark Pulse", "Confide"], "tr": ["Swords Dance", "Low Kick", "Substitute", "Endure", "Sleep Talk", "Taunt", "Iron Defense", "Poison Jab", "Dark Pulse", "X-Scissor", "Focus Blast", "Iron Head", "Stone Edge", "Stealth Rock", "Grass Knot", "Foul Play", "Throat Chop"]}, "stats": {"hp": {"name": "HP", "base": 65, "min": 240, "max": 334}, "attack": {"name": "Attack", "base": 125, "min": 229, "max": 383}, "defense": {"name": "Defense", "base": 100, "min": 184, "max": 328}, "spAttack": {"name": "Sp. Attack", "base": 100, "min": 184, "max": 328}, "spDefense": {"name": "Sp. Defense", "base": 100, "min": 184, "max": 328}, "speed": {"name": "Speed", "base": 65, "min": 240, "max": 334}}}
+{
+  "name": "Bisharp",
+  "subname": "",
+  "id": "625",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/625.png",
+  "types": [
+    "Dark",
+    "Steel"
+  ],
+  "info": {
+    "description": "Bisharp is a Dark/Steel type Pokémon introduced in Generation 5. It is known as the Sword Blade Pokémon.",
+    "species": "Sword Blade Pok\u00e9mon",
+    "height": "1.6m",
+    "weight": "70.0kg",
+    "catchRate": "45",
+    "baseExp": "172",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Human-Like"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Defiant",
+      "Inner Focus"
+    ],
+    "hiddenAbility": [
+      "Pressure"
+    ],
+    "eggCycles": "20 (4,884–5,140 steps)",
+    "evYield": "2 Attack"
+  },
+  "evolutions": [
+    "Pawniard",
+    "Bisharp"
+  ],
+  "moves": {
+    "levelUp": [
+      "Fury Cutter",
+      "Leer",
+      "Metal Burst",
+      "Metal Claw",
+      "Scratch",
+      "Torment",
+      "Scary Face",
+      "Assurance",
+      "Metal Sound",
+      "Slash",
+      "Night Slash",
+      "Iron Defense",
+      "Laser Focus",
+      "Iron Head",
+      "Swords Dance",
+      "Guillotine",
+      "Feint Attack",
+      "Embargo"
+    ],
+    "egg": [
+      "Headbutt",
+      "Mean Look",
+      "Quick Guard",
+      "Sucker Punch",
+      "Lash Out",
+      "Psycho Cut",
+      "Pursuit",
+      "Revenge",
+      "Stealth Rock",
+      "Dual Chop",
+      "Foul Play",
+      "Iron Defense",
+      "Iron Head",
+      "Knock Off",
+      "Laser Focus",
+      "Low Kick",
+      "Magnet Rise",
+      "Role Play",
+      "Snatch",
+      "Snore",
+      "Spite",
+      "Throat Chop",
+      "Dig",
+      "Hone Claws",
+      "Power-Up Punch",
+      "Retaliate",
+      "Rock Smash",
+      "Secret Power",
+      "Cut"
+    ],
+    "tutor": [
+      "Lash Out",
+      "Dual Chop",
+      "Foul Play",
+      "Iron Defense",
+      "Iron Head",
+      "Knock Off",
+      "Laser Focus",
+      "Low Kick",
+      "Magnet Rise",
+      "Role Play",
+      "Snatch",
+      "Snore",
+      "Spite",
+      "Stealth Rock",
+      "Throat Chop"
+    ],
+    "tm": [
+      "Hyper Beam",
+      "Giga Impact",
+      "Thunder Wave",
+      "Dig",
+      "Screech",
+      "Rest",
+      "Thief",
+      "Snore",
+      "Protect",
+      "Scary Face",
+      "Attract",
+      "Sandstorm",
+      "Rain Dance",
+      "Beat Up",
+      "Facade",
+      "Revenge",
+      "Brick Break",
+      "Rock Tomb",
+      "Payback",
+      "Assurance",
+      "Fling",
+      "Shadow Claw",
+      "Psycho Cut",
+      "Low Sweep",
+      "Round",
+      "Retaliate",
+      "Snarl",
+      "False Swipe",
+      "Air Slash",
+      "Toxic",
+      "Hidden Power",
+      "Taunt",
+      "Frustration",
+      "Return",
+      "Double Team",
+      "Aerial Ace",
+      "Torment",
+      "Focus Blast",
+      "Embargo",
+      "Rock Polish",
+      "Stone Edge",
+      "Swords Dance",
+      "X-Scissor",
+      "Poison Jab",
+      "Grass Knot",
+      "Swagger",
+      "Sleep Talk",
+      "Substitute",
+      "Dark Pulse",
+      "Confide"
+    ],
+    "tr": [
+      "Swords Dance",
+      "Low Kick",
+      "Substitute",
+      "Endure",
+      "Sleep Talk",
+      "Taunt",
+      "Iron Defense",
+      "Poison Jab",
+      "Dark Pulse",
+      "X-Scissor",
+      "Focus Blast",
+      "Iron Head",
+      "Stone Edge",
+      "Stealth Rock",
+      "Grass Knot",
+      "Foul Play",
+      "Throat Chop"
+    ]
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 65,
+      "min": 240,
+      "max": 334
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 125,
+      "min": 229,
+      "max": 383
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 100,
+      "min": 184,
+      "max": 328
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 60,
+      "min": 112,
+      "max": 240
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 70,
+      "min": 130,
+      "max": 262
+    }
+  }
+}
