@@ -1,10 +1,10 @@
 {
   "name": "Castform",
-  "subname": "",
+  "subname": "Snowy Form",
   "id": "351",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/351.png",
+  "imageUrl": "https://img.pokemondb.net/artwork/vector/castform-snowy.png",
   "types": [
-    "Normal"
+    "Ice"
   ],
   "info": {
     "description": "Castform is a Normal type Pokémon introduced in Generation 3. It is known as the Weather Pokémon.",
