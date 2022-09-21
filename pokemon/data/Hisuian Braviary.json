@@ -1,24 +1,22 @@
 {
   "name": "Braviary",
-  "subname": "",
+  "subname": "Hisuian Braviary",
   "id": "628",
-  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/628.png",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/628_f2.png",
   "types": [
-    "Normal",
+    "Psychic",
     "Flying"
   ],
   "info": {
-    "description": "Braviary is a Normal/Flying type Pokémon introduced in Generation 5. It is known as the Valiant Pokémon.",
-    "species": "Valiant Pok\u00e9mon",
-    "height": "1.5m",
-    "weight": "41.0kg",
-    "catchRate": "60",
-    "baseExp": "179",
-    "growthRate": "Slow",
-    "eggGroups": [
-      "Flying"
-    ],
-    "genders": "1.0",
+    "description": "Braviary is a Normal/Flying type Pokémon introduced in Generation 5. It is known as the Valiant Pokémon. Braviary has a new Hisuian form, available in Pokémon Legends: Arceus.",
+    "species": "Battle Cry Pokémon",
+    "height": "1.7m",
+    "weight": "43.4kg",
+    "catchRate": "-",
+    "baseExp": "-",
+    "growthRate": "-",
+    "eggGroups": [],
+    "genders": "-",
     "ability": [
       "Keen Eye",
       "Sheer Force"
@@ -26,8 +24,8 @@
     "hiddenAbility": [
       "Defiant"
     ],
-    "eggCycles": "20 (4,884–5,140 steps)",
-    "evYield": "2 Attack"
+    "eggCycles": "-",
+    "evYield": "-"
   },
   "evolutions": [
     "Rufflet",
@@ -121,39 +119,39 @@
   "stats": {
     "hp": {
       "name": "HP",
-      "base": 100,
-      "min": 310,
-      "max": 404
+      "base": 110,
+      "min": 330,
+      "max": 424
     },
     "attack": {
       "name": "Attack",
-      "base": 123,
-      "min": 225,
-      "max": 379
+      "base": 83,
+      "min": 153,
+      "max": 291
     },
     "defense": {
       "name": "Defense",
-      "base": 75,
-      "min": 139,
-      "max": 273
+      "base": 70,
+      "min": 130,
+      "max": 262
     },
     "spAttack": {
       "name": "Sp. Attack",
-      "base": 57,
-      "min": 107,
-      "max": 234
+      "base": 112,
+      "min": 206,
+      "max": 355
     },
     "spDefense": {
       "name": "Sp. Defense",
-      "base": 75,
-      "min": 139,
-      "max": 273
+      "base": 70,
+      "min": 130,
+      "max": 262
     },
     "speed": {
       "name": "Speed",
-      "base": 80,
-      "min": 148,
-      "max": 284
+      "base": 65,
+      "min": 121,
+      "max": 251
     }
   }
 }
