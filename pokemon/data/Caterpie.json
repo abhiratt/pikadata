@@ -1,1 +1,86 @@
-{"name": "Caterpie", "id": "010", "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png", "types": ["Bug"], "info": {"description": "", "species": "Worm Pok\u00e9mon", "height": "0.3m", "weight": "2.9kg", "catchRate": "255", "baseExp": "39", "growthRate": "Medium Fast", "eggGroups": ["Bug"]}, "evolutions": ["Caterpie", "Metapod", "Butterfree"], "moves": {"levelUp": ["String Shot", "Tackle", "Bug Bite"], "egg": [], "tutor": [], "tm": ["Electroweb"], "tr": []}, "stats": {"hp": {"name": "HP", "base": 45, "min": 200, "max": 294}, "attack": {"name": "Attack", "base": 30, "min": 58, "max": 174}, "defense": {"name": "Defense", "base": 35, "min": 67, "max": 185}, "spAttack": {"name": "Sp. Attack", "base": 35, "min": 67, "max": 185}, "spDefense": {"name": "Sp. Defense", "base": 35, "min": 67, "max": 185}, "speed": {"name": "Speed", "base": 45, "min": 200, "max": 294}}}
+{
+  "name": "Caterpie",
+  "subname": "",
+  "id": "010",
+  "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
+  "types": [
+    "Bug"
+  ],
+  "info": {
+    "description": "Caterpie is a Bug type Pokémon introduced in Generation 1. It is known as the Worm Pokémon.",
+    "species": "Worm Pok\u00e9mon",
+    "height": "0.3m",
+    "weight": "2.9kg",
+    "catchRate": "255",
+    "baseExp": "39",
+    "growthRate": "Medium Fast",
+    "eggGroups": [
+      "Bug"
+    ],
+    "genders": "0.5",
+    "ability": [
+      "Shield Dust"
+    ],
+    "hiddenAbility": [
+      "Run Away"
+    ],
+    "eggCycles": "15 (3,599–3,855 steps)",
+    "evYield": "1HP"
+  },
+  "evolutions": [
+    "Caterpie",
+    "Metapod",
+    "Butterfree"
+  ],
+  "moves": {
+    "levelUp": [
+      "String Shot",
+      "Tackle",
+      "Bug Bite"
+    ],
+    "egg": [],
+    "tutor": [],
+    "tm": [
+      "Electroweb"
+    ],
+    "tr": []
+  },
+  "stats": {
+    "hp": {
+      "name": "HP",
+      "base": 45,
+      "min": 200,
+      "max": 294
+    },
+    "attack": {
+      "name": "Attack",
+      "base": 30,
+      "min": 58,
+      "max": 174
+    },
+    "defense": {
+      "name": "Defense",
+      "base": 35,
+      "min": 67,
+      "max": 185
+    },
+    "spAttack": {
+      "name": "Sp. Attack",
+      "base": 20,
+      "min": 40,
+      "max": 152
+    },
+    "spDefense": {
+      "name": "Sp. Defense",
+      "base": 20,
+      "min": 40,
+      "max": 152
+    },
+    "speed": {
+      "name": "Speed",
+      "base": 45,
+      "min": 85,
+      "max": 207
+    }
+  }
+}
